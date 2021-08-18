@@ -1,0 +1,127 @@
+---
+layout: giveaways-custom
+body_classes: page-posts-list
+heroHeading: "What conversion rate do you need to reach your revenue goals?"
+heroSubHeading: "Find out now with our free conversion rate calculator."
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 450
+heroDiagonal: true
+heroDiagonalFill: "#fff"
+title: "CRO Calculator"
+date: 2018-11-22T15:15:26+10:00
+description: "Get your CRO grade on the top 20 homepage attributes for FREE"
+icon: "assets/images/icons8-school-96.png"
+featured: true
+summary-content: "Learn which elements on your homepage are draining your conversion."
+custom_css: cro-calculator-style
+header_classes: header-transparent
+---
+
+
+
+<div class="container mt-n4 mt-lg-n10 mb-5">
+  <div class="row justify-content-center">
+    <div class="col-11 col-md-8 col-lg-6 mt-lg-0 pr-lg-2 pl-lg-2 cro-calculator-card">
+      <h2 class="col-12 col-md-12 text-center">
+        Current Website Statistics
+      </h2>
+      <form>
+        <div class="form-group">
+          <label for="numberOfVisitors">Number of Visitors</label>
+          <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
+          <input type="number" class="form-control" id="numberOfVisitors" aria-describedby="numberOfVisitors" placeholder="#">
+          <small id="numberOfVisitors" class="form-text text-muted">The number of visitors who visit your site per month</small>
+        </div>
+        <div class="form-group">
+          <label for="numberOfOrders">Number of Orders</label>
+          <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
+          <input type="number" class="form-control" id="numberOfOrders" placeholder="#">
+          <small id="numberOfOrders" class="form-text text-muted">The number of orders or transactions your site has per month</small>
+        </div>
+        <div class="form-group">
+          <label for="averageOrderValue">Average Order Value</label>
+          <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
+          <input type="number" class="form-control" id="averageOrderValue" placeholder="#">
+          <small id="averageOrderValue" class="form-text text-muted">The average dollar amount spent each time a customer places an order on your website</small>
+        </div>
+        <div class="form-group">
+          <label for="increaseToConversion">Desired Percent Increase to Conversion</label>
+          <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
+          <input type="number" class="form-control" id="increaseToConversion" placeholder="%">
+          <small id="increaseToConversion" class="form-text text-muted">The increase in percentage of visitors who take a desired action on your site</small>
+        </div>
+        <div class="form-group">
+          <label for="croInvestment">CRO Investment (optional)</label>
+          <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
+          <select class="form-control" id="croInvestment">
+            <option>1000</option>
+            <option>10000</option>
+            <option>50000</option>
+            <option>100000</option>
+            <option>1000000</option>
+          </select>
+          <small id="croInvestment" class="form-text text-muted">The amount of money you plan on investing in CRO</small>
+        </div>
+      </form>
+    </div>
+
+
+
+    <div
+      class="col-11 col-md-8 col-lg-6 pb-3 mt-4 mb-4 mt-lg-0 mb-lg-0 pr-0 pl-0 pr-lg-2 pl-lg-2 justify-content-center"
+    >
+      <div class="col-12 cro-calculator-card justify-content-center">
+        <h2 class="col-12 col-md-12 text-center">
+          Results
+        </h2>
+        <h3 class="text-center mb-3">
+          Current Conversion 
+        </h3>
+        <div class="container">
+          <div class="mb-3 d-flex justify-content-between flex-wrap">
+            <div class="col">
+              <h4 class="font-weight-light">Current Conversion Rate</h4>
+              <h2 id="currentConversionRate" class="col p-0 align-self-center font-weight-bold">36%</h2>
+            </div>
+            <div class="col">
+              <h4 class="font-weight-light">Current Revenue</h4>
+              <h2 id="currentRevenue" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
+            </div>
+          </div>
+        </div>
+        <h3 class="text-center mb-3">
+          Conversion Growth 
+        </h3>
+        <div class="container">
+          <div class="mb-3 d-flex justify-content-between flex-wrap">
+            <div class="col">
+              <h4 class="font-weight-light">New Order Conversion Rate</h4>
+              <h2 id="newConversionRate" class="col p-0 align-self-center font-weight-bold">36%</h2>
+            </div>
+            <div class="col">
+              <h4 class="font-weight-light">New Order Total</h4>
+              <h2 id="newOrderTotal" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
+            </div>
+          </div>
+          <div class="mb-3 d-flex justify-content-between flex-wrap">
+            <div class="col">
+              <h4 class="font-weight-light">Revenue Growth</h4>
+              <h2 id="revenueGrowth" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
+            </div>
+            <div class="col">
+              <h4 class="font-weight-light">Return on investment</h4>
+              <h2 id="returnOnInvestment" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
+            </div>
+          </div>
+          </div>
+        </div>                                   
+      </div>
+    </div>
+  </div>
+</div>
+
+<script
+type="text/javascript"
+src="{{site.baseurl}}/assets/js/cro-calculator.js"
+></script>
