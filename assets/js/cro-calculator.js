@@ -1,4 +1,4 @@
-// Javascript for the CRO Calculator --
+// Javascript for the CRO Calculator 
 
 const visitorsElement = document.getElementById('numberOfVisitors')
 const ordersElement = document.getElementById('numberOfOrders')
