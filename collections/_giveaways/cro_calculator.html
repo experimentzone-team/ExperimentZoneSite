@@ -20,15 +20,16 @@ header_classes: header-transparent
 
 
 
-<div class="container mt-n4 mt-lg-n10 mb-5">
+<div class="container mt-n4 mt-lg-n5 mb-n3">
   <div class="row justify-content-center">
     <div class="col-11 col-md-8 col-lg-6 mt-lg-0 pr-lg-2 pl-lg-2 cro-calculator-card">
       <h2 class="col-12 col-md-12 text-center">
         Current Website Statistics
       </h2>
+      <small id="alert"></small>
       <form>
         <div class="form-group">
-          <label for="numberOfVisitors">Number of Visitors</label>
+          <label id="test" for="numberOfVisitors">Number of Visitors</label>
           <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
           <input type="number" class="form-control" id="numberOfVisitors" aria-describedby="numberOfVisitors" placeholder="#">
           <small id="numberOfVisitors" class="form-text text-muted">The number of visitors who visit your site per month</small>
@@ -69,57 +70,58 @@ header_classes: header-transparent
 
 
     <div
-      class="col-11 col-md-8 col-lg-6 pb-3 mt-4 mb-4 mt-lg-0 mb-lg-0 pr-0 pl-0 pr-lg-2 pl-lg-2 justify-content-center"
+      class="col-11 col-md-8 col-lg-6 pb-3 mt-4 mb-4 mt-lg-0 mb-lg-n10 pr-0 pl-0 pr-lg-2 pl-lg-2 justify-content-center"
     >
-      <div class="col-12 cro-calculator-card justify-content-center">
+      <div class="col-12 cro-calculator-card justify-content-center p-2">
         <h2 class="col-12 col-md-12 text-center">
           Results
         </h2>
         <h3 class="text-center mb-3">
           Current Conversion 
         </h3>
-        <div class="container">
-          <div class="mb-3 d-flex justify-content-between flex-wrap">
-            <div class="col">
-              <h4 class="font-weight-light">Current Conversion Rate</h4>
-              <h2 id="currentConversionRate" class="col p-0 align-self-center font-weight-bold">36%</h2>
+        <div class="d-flex flex-row justify-content-between mb-3">
+            <div class="box">
+              <h5 class="font-weight-light">Current Conversion Rate</h5>
+              <h2 id="currentConversionRate" class="text-center font-weight-bold">0%</h2>
             </div>
-            <div class="col">
-              <h4 class="font-weight-light">Current Revenue</h4>
-              <h2 id="currentRevenue" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
+            <div class="box">
+              <h5 class="font-weight-light">Current Revenue</h5>
+              <h2 id="currentRevenue" class="text-center font-weight-bold">0</h2>
             </div>
-          </div>
         </div>
         <h3 class="text-center mb-3">
           Conversion Growth 
         </h3>
-        <div class="container">
-          <div class="mb-3 d-flex justify-content-between flex-wrap">
-            <div class="col">
-              <h4 class="font-weight-light">New Order Conversion Rate</h4>
-              <h2 id="newConversionRate" class="col p-0 align-self-center font-weight-bold">36%</h2>
+        <div class="d-flex flex-row justify-content-between flex-wrap mb-2">
+            <div class="box">
+              <h5 class="font-weight-light">New Order Conversion Rate</h5>
+              <h2 id="newConversionRate" class="text-center font-weight-bold">0%</h2>
             </div>
-            <div class="col">
-              <h4 class="font-weight-light">New Order Total</h4>
-              <h2 id="newOrderTotal" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
+            <div class="box">
+              <h5 class="font-weight-light">New Order Total</h5>
+              <h2 id="newOrderTotal" class="text-center font-weight-bold">0</h2>
             </div>
+        </div>
+        <div class="d-flex flex-row justify-content-between">
+          <div class="box">
+            <h5 class="font-weight-light">Revenue Growth</h5>
+            <h2 id="revenueGrowth" class="text-center font-weight-bold">0</h2>
           </div>
-          <div class="mb-3 d-flex justify-content-between flex-wrap">
-            <div class="col">
-              <h4 class="font-weight-light">Revenue Growth</h4>
-              <h2 id="revenueGrowth" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
-            </div>
-            <div class="col">
-              <h4 class="font-weight-light">Return on investment</h4>
-              <h2 id="returnOnInvestment" class="col p-0 align-self-center font-weight-bold">360,000,000</h2>
-            </div>
+          <div class="box">
+            <h5 class="font-weight-light">Return on investment</h5>
+            <h2 id="returnOnInvestment" class="text-center font-weight-bold">0</h2>
           </div>
+        </div>    
           </div>
         </div>                                   
       </div>
     </div>
   </div>
 </div>
+<svg aria-hidden="true" role="presentation" viewBox="0 0 1200 120" style="background: #6f42b7;">
+  <path class="svg-white" d="M1200 0L0 0 598.97 114.72 1200 0z"></path>
+</svg>   
+{% include free-report-card-cta.html %}
 
 <script
 type="text/javascript"

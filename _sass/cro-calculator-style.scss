@@ -5,6 +5,7 @@
   box-shadow: 0 1px 18px rgba(0, 0, 0, 0.2);
   background: #fff;
   padding: 15px;
+  height: 100%;
 }
 
 .cro-calculator-title {
@@ -23,7 +24,41 @@
   font-weight: normal;
 }
 
+.form-text {
+  display: none;
+}
+
 .info-icon {
   height: 20px;
   margin: 0 0 2px 5px;
+}
+
+.info-icon:hover ~ .form-text {
+  display: block;
+}
+
+.box {
+  width: 47%;
+  padding: 5px;
+  text-align: center;
+  border: solid #ced4da 1px;
+  border-radius: 3px;
+}
+
+.box h5 {
+  height: 40px;
+}
+
+.box h2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.invalid {
+  border-color: red !important;
+  box-shadow: 0 0 0 0.2rem lightgray !important;
+}
+
+#alert {
+  color: red;
 }
