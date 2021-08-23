@@ -20,7 +20,7 @@ const calculate = function () {
 
         currentRevenue = orders * aov
     
-        newOrderConversionRate = (currentConversionRate * (1 + croIncrease))
+        newOrderConversionRate = ((currentConversionRate) * (1 + (croIncrease / 100)))
     
         newOrderTotal = (newOrderConversionRate * visitors) / 100
     
