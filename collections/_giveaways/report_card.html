@@ -101,10 +101,11 @@ header_classes: header-transparent
   </div>
 </div>
 
-<script>
+<!-- <script>
   var inputs = document.querySelectorAll("._form-content ._field-wrapper input")
   for (var i = 0; i < inputs.length; i++) {
     inputs[i].addEventListener("input", function(el) {
+      ga('create', 'UA-100010254-1');
       if (typeof ga === "function" && el.target.value.length > 0) {
         window["ga"](
           "send",
@@ -115,4 +116,4 @@ header_classes: header-transparent
       }
     })
   }
-</script>
+</script> -->
