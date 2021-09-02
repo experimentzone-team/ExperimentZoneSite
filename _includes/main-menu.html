@@ -1,8 +1,17 @@
 <div id="main-menu" class="main-menu">
   <ul>
     {% for item in site.data.menu.main %}
-    <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}">
+    <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}{% if item.dropdown %} dropdown {% endif %}">
+      {% if item.dropdown %} 
+      <a class="dropdown-toggle" id="{{ item.id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
+      <div class="dropdown-menu" aria-labelledby="{{ item.id }}">
+        {% for tab in item.dropdown %}
+        <a class="dropdown-item" href="{{ tab.url | relative_url }}">{{ tab.label }}</a>
+        {% endfor %}
+      </div>
+      {% else %}
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>

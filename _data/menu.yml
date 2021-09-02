@@ -11,9 +11,15 @@ main:
   # # - name: Team
   # #   url: /team/
   #   weight: 3
-  - name: Blog
+  - name: Resources
     url: /blog/
     weight: 4
+    id: resources
+    dropdown:
+      - label: Blog
+        url: /blog/
+      - label: CRO Calculator
+        url: /cro-calculator/
   # - name: Webinar
   #   url: /webinar/
   #   weight: 4

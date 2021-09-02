@@ -5,6 +5,8 @@ const ordersElement = document.getElementById('numberOfOrders')
 const aovElement = document.getElementById('averageOrderValue')
 const croIncreaseElement = document.getElementById('increaseToConversion')
 const investmentElement = document.getElementById('croInvestment')
+const monthsElement = document.getElementById('monthsOfInvestment')
+
 
 let currentConversionRate
 let currentRevenue
@@ -12,6 +14,7 @@ let newOrderConversionRate
 let newOrderTotal
 let revenueGrowth
 let returnOnInvestment
+let monthlyInvestment
 
 const calculate = function () {
 
@@ -26,14 +29,23 @@ const calculate = function () {
     
         revenueGrowth = newOrderTotal * aov
     
-        returnOnInvestment = ((revenueGrowth - currentRevenue) / investment) * 100
+        returnOnInvestment = ((((revenueGrowth - currentRevenue) * 1)) / investment)
 
-        document.getElementById("currentConversionRate").innerText = (Math.round(100 * currentConversionRate) / 100) + "%"
-        document.getElementById("currentRevenue").innerText = "$" + (Math.round(100 * currentRevenue) / 100)
-        document.getElementById("newConversionRate").innerText = (Math.round(100 * newOrderConversionRate) / 100) + "%"
-        document.getElementById("newOrderTotal").innerText = Math.round(100 * newOrderTotal) / 100
-        document.getElementById("revenueGrowth").innerText = "$" + (Math.round(100 * revenueGrowth) / 100)
-        document.getElementById("returnOnInvestment").innerText = (Math.round(100 * returnOnInvestment) / 100) + "%" 
+        monthlyInvestment = (investment / months)
+
+        document.getElementById("currentConversionRate").innerText = ((Math.round(100 * currentConversionRate) / 100).toLocaleString()) + "%"
+        document.getElementById("currentRevenue").innerText = "$" + ((Math.round(currentRevenue))).toLocaleString()
+        document.getElementById("newConversionRate").innerText = ((Math.round(100 * newOrderConversionRate) / 100).toLocaleString()) + "%"
+        document.getElementById("newOrderTotal").innerText = (Math.round(newOrderTotal)).toLocaleString()
+        document.getElementById("revenueGrowth").innerText = "$" + ((Math.round(revenueGrowth)).toLocaleString())
+        document.getElementById("monthlyInvestment").innerText = "$" + ((Math.round(monthlyInvestment)).toLocaleString())
+        document.getElementById("returnOnInvestment").innerText = ((Math.round(10 * returnOnInvestment) / 10).toLocaleString()) + "X" 
+
+        if (returnOnInvestment > 1) {
+            document.getElementById("roi").classList.add("positive")
+        } else {
+            document.getElementById("roi").classList.remove("positive")
+        }
         
     } else {
         document.getElementById("currentConversionRate").innerText = "0%"
@@ -41,59 +53,97 @@ const calculate = function () {
         document.getElementById("newConversionRate").innerText = "0%"
         document.getElementById("newOrderTotal").innerText = 0
         document.getElementById("revenueGrowth").innerText = "$0"
-        document.getElementById("returnOnInvestment").innerText = "0%"    
+        document.getElementById("returnOnInvestment").innerText = "0X"    
         
     }
 
 }
 
-let visitors = 0
+var commas = function(val, id) {
+    var x = val
+    if (x !== "" && !isNaN(x) ){
+        // x = parseInt(x.replace(/,/g, ''))
+        document.getElementById(id).value = x.toLocaleString()
+
+        if (id === "averageOrderValue" || id === "croInvestment") {
+            document.getElementById(id).value = "$" + document.getElementById(id).value 
+        }
+
+        if (id === "increaseToConversion") {
+            document.getElementById(id).value = document.getElementById(id).value + "%"
+        }
+    } else {
+        document.getElementById(id).value = ""
+    }
+}
+
+let visitors = 100000
 visitorsElement.addEventListener("input", function () {
-    visitors = parseFloat(this.value)
+
+    visitors = parseInt(this.value.replace(/,/g, ''))
+    visitors = parseFloat(visitors)
     if (visitors < 1) {
         document.getElementById("numberOfVisitors").classList.add("invalid")
     } else {
         document.getElementById("numberOfVisitors").classList.remove("invalid")
     }
     calculate()
+    commas(visitors, "numberOfVisitors")
+   
 })
-let orders = 0
+let orders = 3000
 ordersElement.addEventListener("input", function () {
-    orders = parseFloat(this.value)
+    orders = parseInt(this.value.replace(/,/g, ''))
+    orders = parseFloat(orders)
     if (orders < 1) {
         document.getElementById("numberOfOrders").classList.add("invalid")
     } else {
         document.getElementById("numberOfOrders").classList.remove("invalid")
     }
     calculate()
+    commas(orders, "numberOfOrders")
 })
-let aov = 0
+let aov = 20
 aovElement.addEventListener("input", function () {
-    aov = parseFloat(this.value)
+    aov = parseInt(this.value.replace(/\$|,/g, ''))
+    aov = parseFloat(aov)
     if (aov < 1) {
         document.getElementById("averageOrderValue").classList.add("invalid")
     } else {
         document.getElementById("averageOrderValue").classList.remove("invalid")
     }
     calculate()
+    commas(aov, "averageOrderValue")
 })
-let croIncrease = 0
-croIncreaseElement.addEventListener("input", function () {
-    croIncrease = parseFloat(this.value)
+let croIncrease = 50
+croIncreaseElement.addEventListener("input", function (e) {
+    croIncrease = parseInt(this.value.replace(/\%|,/g, ''))
+    croIncrease = parseFloat(croIncrease)
     if (croIncrease < 1) {
         document.getElementById("increaseToConversion").classList.add("invalid")
     } else {
         document.getElementById("increaseToConversion").classList.remove("invalid")
     }
     calculate()
+    if (e.inputType !== "deleteContentBackward") {
+        commas(croIncrease, "increaseToConversion")
+    }
 })
-let investment = 1000
+let investment = 10000
 investmentElement.addEventListener("input", function () {
-    investment = parseFloat(this.value)
+    investment = parseInt(this.value.replace(/\$|,/g, ''))
+    investment = parseFloat(investment)
+    calculate()
+    commas(investment, "croInvestment")
+})
+
+let months = 12
+monthsElement.addEventListener("input", function () {
+    months = this.value
     calculate()
 })
 
-
+calculate()
 
 
 

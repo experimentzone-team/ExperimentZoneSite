@@ -1,9 +1,42 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     {% for item in site.data.menu.main %}
-    <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}">
-      <a href="{{ item.url }}">{{ item.name }}</a>
+    <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}{% if item.dropdown %} dropdown {% endif %}">
+      {% if item.dropdown %} 
+      <a class="dropdown-toggle text-white" id="{{ item.id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
+      <ul class="dropdown-menu" aria-labelledby="{{ item.id }}">
+        {% for tab in item.dropdown %}
+        <li>
+          <a class="dropdown-item text-white" href="{{ tab.url | relative_url }}">{{ tab.label }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      <li></li>
+      <li></li>
+      {% else %}
+      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
 </div>
+<!-- <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    {% for item in site.data.menu.main %}
+    <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}">
+      {% if item.dropdown %} 
+      <a class="dropdown-toggle text-white" id="{{ item.id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
+      <ul class="dropdown-menu" aria-labelledby="{{ item.id }}">
+        {% for tab in item.dropdown %}
+        <li>
+          <a class="dropdown-item" href="{{ tab.url | relative_url }}">{{ tab.label }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div> -->

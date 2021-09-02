@@ -1,23 +1,27 @@
 ---
-layout: giveaways-custom
+layout: default
 body_classes: page-posts-list
-heroHeading: "What conversion rate do you need to reach your revenue goals?"
-heroSubHeading: "Find out now with our free conversion rate calculator."
+heroHeading: "Calculate The Value of CRO"
+heroSubHeading: "Does it make sense for your business to invest in CRO, so you can reach your revenue goal. Find out now with our free conversion rate calculator."
 heroBackground: ""
 heroBackgroundOverlay: false
-heroHeight: 450
+heroHeight: 550
 heroDiagonal: true
 heroDiagonalFill: "#fff"
 title: "CRO Calculator"
 date: 2018-11-22T15:15:26+10:00
-description: "Get your CRO grade on the top 20 homepage attributes for FREE"
+description: "What conversion rate do you need to reach your revenue goals? Find out now with our free conversion rate calculator."
 icon: "assets/images/icons8-school-96.png"
 featured: true
-summary-content: "Learn which elements on your homepage are draining your conversion."
+summary-content: "What conversion rate do you need to reach your revenue goals? Find out now with our free conversion rate calculator."
 custom_css: cro-calculator-style
 header_classes: header-transparent
 ---
 
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+  height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+  overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+  diagonalfill=page.heroDiagonalFill %}
 
 
 <div class="container mt-n4 mt-lg-n5 mb-n3">
@@ -29,45 +33,56 @@ header_classes: header-transparent
       <small id="alert"></small>
       <form>
         <div class="form-group">
-          <label id="test" for="numberOfVisitors">Number of Visitors</label>
+          <label id="test" for="numberOfVisitors">Number of Monthly Visitors</label>
           <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
-          <input type="number" class="form-control" id="numberOfVisitors" aria-describedby="numberOfVisitors" placeholder="#">
+          <input type="text" class="form-control" id="numberOfVisitors" aria-describedby="numberOfVisitors" placeholder="#100,000">
           <small id="numberOfVisitors" class="form-text text-muted">The number of visitors who visit your site per month.</small>
         </div>
         <div class="form-group">
-          <label for="numberOfOrders">Number of Orders</label>
+          <label for="numberOfOrders">Number of Monthly Orders</label>
           <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
-          <input type="number" class="form-control" id="numberOfOrders" placeholder="#">
+          <input type="text" class="form-control" id="numberOfOrders" placeholder="#3,000">
           <small id="numberOfOrders" class="form-text text-muted">The number of orders or transactions your site has per month.</small>
         </div>
         <div class="form-group">
           <label for="averageOrderValue">Average Order Value</label>
           <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
-          <input type="number" class="form-control" id="averageOrderValue" placeholder="$">
+          <input type="text" class="form-control" id="averageOrderValue" placeholder="$20">
           <small id="averageOrderValue" class="form-text text-muted">The average dollars spent per order.</small>
         </div>
         <div class="form-group">
           <label for="increaseToConversion">Desired Increase to Conversion</label>
           <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
-          <input type="number" class="form-control" id="increaseToConversion" placeholder="%">
+          <input type="text" class="form-control" id="increaseToConversion" placeholder="50%">
           <small id="increaseToConversion" class="form-text text-muted">What percent increase to conversion would you like to see?</small>
         </div>
         <div class="form-group">
-          <label for="croInvestment">CRO Investment (optional)</label>
+          <label for="croInvestment">Total CRO Investment (optional)</label>
           <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
-          <select class="form-control" id="croInvestment">
-            <option>1000</option>
-            <option>10000</option>
-            <option>50000</option>
-            <option>100000</option>
-            <option>1000000</option>
-          </select>
+          <input type="text" class="form-control" id="croInvestment" placeholder="$20,000">
           <small id="croInvestment" class="form-text text-muted">The amount of money you plan on investing in CRO.</small>
+        </div>
+        <div class="form-group">
+          <label for="monthsOfInvestment">Number of Months of Investment</label>
+          <img class="info-icon" src="https://img.icons8.com/windows/32/000000/info.png"/>
+          <select class="form-control" id="monthsOfInvestment">
+            <option>3</option>
+            <option>6</option>
+            <option>9</option>
+            <option selected>12</option>
+            <option>15</option>
+            <option>18</option>
+            <option>21</option>
+            <option>24</option>
+            <option>27</option>
+            <option>30</option>
+            <option>33</option>
+            <option>36</option>
+          </select>
+          <small id="monthsOfInvestment" class="form-text text-muted">The number of months of website conversion rate optimizations improvements.</small>
         </div>
       </form>
     </div>
-
-
 
     <div
       class="col-11 col-md-8 col-lg-6 pb-3 mt-4 mb-4 mt-lg-0 mb-lg-n10 pr-0 pl-0 pr-lg-2 pl-lg-2 justify-content-center"
@@ -77,7 +92,7 @@ header_classes: header-transparent
           Results
         </h2>
         <h3 class="text-center mb-3">
-          Current Conversion 
+          Current Metrics 
         </h3>
         <div class="d-flex flex-row justify-content-between mb-3">
             <div class="box">
@@ -90,30 +105,34 @@ header_classes: header-transparent
             </div>
         </div>
         <h3 class="text-center mb-3">
-          Conversion Growth 
+          Growth Metrics 
         </h3>
         <div class="d-flex flex-row justify-content-between flex-wrap mb-2">
             <div class="box">
-              <h5 class="font-weight-light">New Order Conversion Rate</h5>
+              <h5 class="font-weight-light">Order Conversion Rate</h5>
               <h2 id="newConversionRate" class="text-center font-weight-bold">0%</h2>
             </div>
             <div class="box">
-              <h5 class="font-weight-light">New Order Total</h5>
+              <h5 class="font-weight-light">Monthly Orders</h5>
               <h2 id="newOrderTotal" class="text-center font-weight-bold">0</h2>
             </div>
         </div>
-        <div class="d-flex flex-row justify-content-between">
+        <div class="d-flex flex-row justify-content-between mb-2">
           <div class="box">
-            <h5 class="font-weight-light">Revenue Growth</h5>
+            <h5 class="font-weight-light">Monthly Revenue</h5>
             <h2 id="revenueGrowth" class="text-center font-weight-bold">0</h2>
           </div>
           <div class="box">
+            <h5 class="font-weight-light">Monthly Investment</h5>
+            <h2 id="monthlyInvestment" class="text-center font-weight-bold">0</h2>
+          </div>
+        </div>  
+        <div class="d-flex flex-row justify-content-center">
+          <div class="box" id="roi">
             <h5 class="font-weight-light">Return on investment</h5>
             <h2 id="returnOnInvestment" class="text-center font-weight-bold">0</h2>
           </div>
-        </div>    
-          </div>
-        </div>                                   
+        </div>
       </div>
     </div>
   </div>
@@ -123,7 +142,17 @@ header_classes: header-transparent
     <path class="svg-white" d="M0 0 L500 100 L1000 0 Z"></path>
   </svg>
 </div>
+
 {% include free-report-card-cta.html %}
+{% include services-splash.html %}
+{% include why-experiment-zone-splash.html %}
+{% include footer-diagonal.html %}
+{% include contact-cta.html
+  heading=site.params.contact_cta.heading
+  subheading=site.params.contact_cta.subheading
+  button_url=site.params.contact_cta.button_url
+  button_text=site.params.contact_cta.button_text
+  %}
 
 <script
 type="text/javascript"
