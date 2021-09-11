@@ -10,9 +10,11 @@ const monthsElement = document.getElementById('monthsOfInvestment')
 
 let currentConversionRate
 let currentRevenue
+let annualRevenue
 let newOrderConversionRate
 let newOrderTotal
 let revenueGrowth
+let futureAnnualRevenue
 let returnOnInvestment
 let monthlyInvestment
 
@@ -22,22 +24,26 @@ const calculate = function () {
         currentConversionRate = (orders / visitors) * 100
 
         currentRevenue = orders * aov
+
+        annualRevenue = currentRevenue * 12
     
         newOrderConversionRate = ((currentConversionRate) * (1 + (croIncrease / 100)))
     
         newOrderTotal = (newOrderConversionRate * visitors) / 100
     
         revenueGrowth = newOrderTotal * aov
+
+        futureAnnualRevenue = revenueGrowth * 12
     
-        returnOnInvestment = ((((revenueGrowth - currentRevenue) * 1)) / investment)
+        returnOnInvestment = ((((revenueGrowth - currentRevenue) * months)) / investment)
 
         monthlyInvestment = (investment / months)
 
         document.getElementById("currentConversionRate").innerText = ((Math.round(100 * currentConversionRate) / 100).toLocaleString()) + "%"
-        document.getElementById("currentRevenue").innerText = "$" + ((Math.round(currentRevenue))).toLocaleString()
+        document.getElementById("currentRevenue").innerText = "$" + ((Math.round(annualRevenue))).toLocaleString()
         document.getElementById("newConversionRate").innerText = ((Math.round(100 * newOrderConversionRate) / 100).toLocaleString()) + "%"
         document.getElementById("newOrderTotal").innerText = (Math.round(newOrderTotal)).toLocaleString()
-        document.getElementById("revenueGrowth").innerText = "$" + ((Math.round(revenueGrowth)).toLocaleString())
+        document.getElementById("revenueGrowth").innerText = "$" + ((Math.round(futureAnnualRevenue)).toLocaleString())
         document.getElementById("monthlyInvestment").innerText = "$" + ((Math.round(monthlyInvestment)).toLocaleString())
         document.getElementById("returnOnInvestment").innerText = ((Math.round(10 * returnOnInvestment) / 10).toLocaleString()) + "X" 
 
@@ -91,7 +97,7 @@ visitorsElement.addEventListener("input", function () {
     commas(visitors, "numberOfVisitors")
    
 })
-let orders = 3000
+let orders = 2000
 ordersElement.addEventListener("input", function () {
     orders = parseInt(this.value.replace(/,/g, ''))
     orders = parseFloat(orders)
@@ -103,7 +109,7 @@ ordersElement.addEventListener("input", function () {
     calculate()
     commas(orders, "numberOfOrders")
 })
-let aov = 20
+let aov = 125
 aovElement.addEventListener("input", function () {
     aov = parseInt(this.value.replace(/\$|,/g, ''))
     aov = parseFloat(aov)
@@ -115,7 +121,7 @@ aovElement.addEventListener("input", function () {
     calculate()
     commas(aov, "averageOrderValue")
 })
-let croIncrease = 50
+let croIncrease = 10
 croIncreaseElement.addEventListener("input", function (e) {
     croIncrease = parseInt(this.value.replace(/\%|,/g, ''))
     croIncrease = parseFloat(croIncrease)
@@ -129,7 +135,7 @@ croIncreaseElement.addEventListener("input", function (e) {
         commas(croIncrease, "increaseToConversion")
     }
 })
-let investment = 10000
+let investment = 150000
 investmentElement.addEventListener("input", function () {
     investment = parseInt(this.value.replace(/\$|,/g, ''))
     investment = parseFloat(investment)
