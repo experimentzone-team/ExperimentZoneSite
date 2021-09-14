@@ -83,7 +83,7 @@ var commas = function(val, id) {
     }
 }
 
-let visitors = 100000
+let visitors = 250000
 visitorsElement.addEventListener("input", function () {
 
     visitors = parseInt(this.value.replace(/,/g, ''))
@@ -97,7 +97,7 @@ visitorsElement.addEventListener("input", function () {
     commas(visitors, "numberOfVisitors")
    
 })
-let orders = 2000
+let orders = 5000
 ordersElement.addEventListener("input", function () {
     orders = parseInt(this.value.replace(/,/g, ''))
     orders = parseFloat(orders)
@@ -135,7 +135,7 @@ croIncreaseElement.addEventListener("input", function (e) {
         commas(croIncrease, "increaseToConversion")
     }
 })
-let investment = 150000
+let investment = 75000
 investmentElement.addEventListener("input", function () {
     investment = parseInt(this.value.replace(/\$|,/g, ''))
     investment = parseFloat(investment)
