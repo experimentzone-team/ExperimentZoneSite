@@ -187,6 +187,12 @@ svg {
   color: $secondary;
 }
 
+// Dropdown Styles
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; // remove the gap so it doesn't close
+}
+
 // Mobile navigation dropdown styling
 #main-menu-mobile .dropdown.show {
   margin-bottom: 105px;
