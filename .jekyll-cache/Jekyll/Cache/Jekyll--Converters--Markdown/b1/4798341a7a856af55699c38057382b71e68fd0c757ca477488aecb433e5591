@@ -1,0 +1,138 @@
+I"+)<p>Read about the latest tools for identifying test ideas and for running A/B tests.</p>
+
+<h1 id="the-best-ab-testing-tools-for-your-conversion-optimization-toolkit-paid-and-free">The Best A/B Testing Tools for your Conversion Optimization Toolkit (Paid and Free)</h1>
+
+<p>There are a ton of software tools on the market. Many businesses set them - and forget them. Don’t make that mistake!</p>
+
+<p>At Experiment Zone, we choose tools based on the value of the insights they provide. Our philosophy is to identify a specific research question before collecting the data. You’ll know why you are using the tool and what you will learn. You avoid a tsunami of inactionable data.</p>
+
+<h2 id="well-cover-three-primary-categories-of-tools">We’ll cover three primary categories of tools:</h2>
+
+<ol>
+  <li>
+    <p>Collecting insights to generate good ideas.
+You’ll be able to answer questions like “Where are my visitors getting stuck?” and “Why are my visitors leaving my site on this page?”</p>
+  </li>
+  <li>Tools for evaluating your ideas, so you can focus on the best ones.
+You’ll answer questions like “What test ideas should I start with?” and “What should my <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> roadmap look like?”</li>
+  <li>Tools for running your A/B tests, so you can measure the impact of your ideas
+You’ll be able to answer “What was the revenue impact of that UX change?” and “How do my customers respond in the real world to these theoretic improvements?”</li>
+</ol>
+
+<h2 id="best-tools-for-insights">Best Tools for Insights</h2>
+
+<p>Your A/B tests are only as good as the ideas you are testing. Here are our favorite tools to gain data and insights to inspire effective AB Tests.</p>
+
+<ol>
+  <li>
+    <h4 id="hotjar">Hotjar</h4>
+
+    <p><a href="https://www.hotjar.com/" target="\_blank">Hotjar</a> and other <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tools provide low-cost and visual insights to show how visitors use your website. You can see how visitors interact with a page and move through your site. With Hotjar, you can also set up surveys to get feedback from visitors. Read our <a href="https://experimentzone.com/blog/maximizing-hotjar-data/" target="\_blank">Hotjar guide</a> to get more value from your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tool.</p>
+
+    <p>What can you learn? <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">Click tracking</a> tools are great for understanding where visitors focus their attention. Do they scroll to your primary CTA? Are their clicks focused on high value buttons?</p>
+  </li>
+  <li>
+    <h4 id="ethnio">Ethnio</h4>
+
+    <p>To understand why visitors behave the way they do, you should set up usability studies. You can use a tool like <a href="https://ethn.io/" target="\_blank">Ethnio</a> to intercept visitors and invite them to participate in your remote UX research, online exercises and surveys.</p>
+
+    <p>What can you learn? Get feedback from your actual visitors. Why are they on your website? What is confusing about your site or product?</p>
+  </li>
+  <li>
+    <h4 id="five-second-test">Five Second Test</h4>
+
+    <p>Every landing page should run through the <a href="https://fivesecondtest.com/" target="\_blank">Five Second Test</a> by <a href="https://usabilityhub.com/" target="\_blank">Usability Hub</a>. This tool presents a site for 5 seconds before asking a question (which you choose).</p>
+
+    <p>What can you learn?
+First impressions of new visitors. Do new visitors understand what this website is offering? Do they understand what action they can take on my site?</p>
+  </li>
+  <li>
+    <h4 id="trymyuicom">TryMyUI.com</h4>
+
+    <p>Good usability testing pinpoints the biggest pain points for your site visitors. You can recruit participants, share tasks with them, and get video recordings of sessions using tools like <a href="https://trymyui.com" target="\_blank">TryMyUI</a> and <a href="https://usertesting.com" target="\_blank">UserTesting.com</a>.</p>
+
+    <p>What can you learn? You can pinpoint the biggest blockers to <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> on your website. What confuses visitors to my site? Can visitors easily navigate and purchase a product on my website?</p>
+  </li>
+</ol>
+
+<h2 id="top-tools-for-managing-test-ideas">Top Tools for Managing Test Ideas</h2>
+
+<p>You can’t - and shouldn’t - test every idea on your website. Testing requires time, traffic, and money. By managing and prioritizing your tests, you can focus your experimentation efforts on high ROI opportunities. Read more about <a href="https://experimentzone.com/blog/6-best-split-test-scoring-models" target="\_blank">how to best score your test ideas</a>.</p>
+
+<ol>
+  <li>
+    <h4 id="google-sheets">Google Sheets</h4>
+
+    <p>A simple, collaborative spreadsheet tool like <a href="http://sheets.google.com/" target="\_blank">Google Sheets</a> can be a great starting point for teams. You can keep a running list of the test ideas and use formulas to calculate scores for each idea. Google Sheets often falls short as teams expand and need a more robust solution for prioritization and test project management.</p>
+  </li>
+  <li>
+    <h4 id="asana">Asana</h4>
+
+    <p>A project management tool like <a href="https://asana.com/" target="\_blank">Asana</a> or <a href="https://trello.com/" target="\_blank">Trello</a> can help your team understand what tests are being worked on and what is coming up next. These tools can be used in conjunction with prioritization meetings, but fall short for scoring and prioritizing ideas remotely.</p>
+  </li>
+  <li>
+    <h4 id="hypothesis-library">Hypothesis Library</h4>
+
+    <p>We have to include our product, the <a href="https://hypothesislibrary.com" target="\_blank">Hypothesis Library</a>. This tool is perfect for remote teams collaborating on collecting and evaluating test ideas. You can keep track of your test roadmap and results all in one place.</p>
+  </li>
+</ol>
+
+<h2 id="most-recommended-ab-testing-tools">Most Recommended A/B Testing Tools</h2>
+
+<ol>
+  <li>
+    <h4 id="ab-tasty">AB Tasty</h4>
+
+    <p><a href="https://www.abtasty.com/" target="\_blank">AB Tasty</a> is a comprehensive tool for website <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. It is a user-friendly tool capable of running A/B tests as well as multivariant tests (<a href="https://www.g2.com/products/ab-tasty/reviews" target="\_blank">4.4 stars</a> on G2).</p>
+  </li>
+  <li>
+    <h4 id="google-optimize-free">Google Optimize <em>Free</em></h4>
+
+    <p><a href="https://optimize.google.com/" target="\_blank">Google Optimize</a> offers one of the best free <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solutions around. You can get a lot done with the free version of these tools - if you have the team on board to know how to set up the tests and advanced tracking (<a href="https://www.g2.com/products/google-optimize/reviews" target="\_blank">4.4 stars</a> on G2).</p>
+  </li>
+  <li>
+    <h4 id="optimizely">Optimizely</h4>
+
+    <p><a href="https://optimizely.com" target="\_blank">Optimizely</a> is a robust <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solution for enterprise. They offer a variety of products - and Optimizely Web provides the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> for optimizing web pages. You can build on this with Optimizely Personalization, which targets specific messages and experiences based on audience segments (<a href="https://www.g2.com/products/optimizely/reviews" target="\_blank">4.3 stars</a> on G2).</p>
+  </li>
+  <li>
+    <h4 id="vwo">VWO</h4>
+
+    <p><a href="https://vwo.com" target="\_blank">VWO</a> is another robust <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solution but at a lower cost than Optimizely. It’s an almost-enterprise testing solution (<a href="https://www.g2.com/products/wingify-vwo-testing/reviews" target="\_blank">4.1 stars</a> on G2).</p>
+  </li>
+  <li>
+    <h4 id="convert">Convert</h4>
+
+    <p><a href="https://convert.com" target="\_blank">Convert</a> is an advanced <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> platform for CRO experts and agencies. This is a tool designed for experienced professionals, with advanced features easily accessed throughout the interface (<a href="https://www.g2.com/products/convert-experiences/reviews" target="\_blank">4.7 stars</a> on G2).</p>
+  </li>
+</ol>
+
+<ul>
+  <li>
+    <h4 id="bonus-build-in-ab-testing">Bonus: Build-in A/B Testing</h4>
+
+    <p>A number of landing page builders offer split testing. These are reasonable places to get started with <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a>, although you do miss out on being able to optimize the full user journey. A few examples include <a href="https://instapage.com" target="\_blank">Instapage</a> and <a href="https://unbounce.com" target="\_blank">Unbounce</a>.</p>
+  </li>
+</ul>
+
+<p>Did we miss anything on this list? <a href="https://experimentzone.com/contact/">Drop us a note</a> if you have any additional recommendations you’d like to see on this list.</p>
+
+<div class="container">
+  <div class="row justify-content-center mt-3">
+    <div class="col-12 col-md-10 md-team-summary justify-content-center strip-primary p-1 p-md-3 text-center">
+      <h2 class="text-white">Conversion Report Card</h2>
+      <h3 class="text-white">
+        Receive Actionable Conversion Insights by Email
+      </h3>
+      <p class="text-white mb-n3">
+        To increase your site’s conversion rate, we will provide 3-5 actionable
+        and personalized insights for your website by email. No sales pitch or
+        requirements, just useful and valuable feedback.
+      </p>
+      <div class="_form_33 mt-5"></div>
+      <script src="https://experimentzone.activehosted.com/f/embed.php?id=33" type="text/javascript" charset="utf-8"></script>
+    </div>
+  </div>
+</div>
+
+:ET

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Stay in Tune with Your Audience During Rapidly Changing Times | Austin Startup Week 2020"
 description: "During this session, we'll discuss specific and actionable ways to stay in tune with your target audience, so you can understand where they are today and anticipate what they need in the future. We'll explore ways to connect, collect data, and take action on these insights."
-permalink: video/stay-in-tune-during-rapidly-changing-times
+# permalink: video/stay-in-tune-during-rapidly-changing-times
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

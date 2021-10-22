@@ -2,7 +2,7 @@
 layout: post
 title: "How A/B Testing and CRO Can Increase Your Website’s Revenue?"
 description: "A/B Testing can have a big impact on your site’s revenue. This video will tell you how."
-permalink: video/increase-your-websites-revenue
+# permalink: video/increase-your-websites-revenue
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

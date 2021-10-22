@@ -2,7 +2,7 @@
 layout: post
 title: "Marketing as a Foreign Language With AJ Davis"
 description: "AJ is an industry expert in user experience strategy with a proven track record for delivering measurable value to clients. She’s the founder of Experiment Zone, which provides conversion strategy and testing for online businesses. "
-permalink: video/marketing-as-foreign-language
+# permalink: video/marketing-as-foreign-language
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

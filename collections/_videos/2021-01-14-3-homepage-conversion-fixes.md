@@ -2,7 +2,7 @@
 layout: post
 title: "Make These 3 Conversion Fixes To Your Homepage Today"
 description: "Optimize your site with these commonly overlooked, revenue boosting, characteristics of your homepage."
-permalink: video/3-homepage-conversion-fixes
+# permalink: video/3-homepage-conversion-fixes
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

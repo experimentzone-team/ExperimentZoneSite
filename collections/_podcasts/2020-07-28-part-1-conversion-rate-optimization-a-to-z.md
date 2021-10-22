@@ -2,7 +2,7 @@
 layout: post
 title: "Part 1/3: Conversion Rate Optimization from A to Z"
 description: "Are you getting started with conversion rate optimization? Our Founder and CEO, AJ Davis, talks through all the tools you need to start implementing and optimizing your website todday.⁠ ⁠ "
-permalink: /podcast/part-1-conversion-rate-optimization-a-to-z
+# permalink: /podcast/part-1-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"

@@ -1,0 +1,64 @@
+I"9<style>
+.hero-image .hero-text h1 {
+    font-size: 2rem;
+    } 
+@media (min-width: 768px) {
+    .hero-image .hero-text h1 {
+        font-size: 3rem;
+    }
+
+}
+</style>
+
+<h2 id="client-background">Client Background</h2>
+
+<p>The beauty company delivers a comprehensive assortment of effective skin care products at prices the everyday consumer can afford. With high expectations for growth in their online channel, they aim to increase their profitability and brand awareness through (1) measurable improvements to their online revenue and order conversion rates and (2) optimize to provide a great customer experience.</p>
+
+<p>This company brought Experiment Zone onboard to achieve these goals and lead their conversion strategy by generating, evaluating and measuring changes to the company site.</p>
+
+<p><br /></p>
+
+<h2 id="the-challenge">The Challenge</h2>
+
+<p>The client was increasing their investment in driving new site traffic, but the team was concerned about plateauing conversion rates. Their marketing team had updated product pages and pushed better rewards for customers, but didn’t see a significant change in conversion.</p>
+
+<p>The Head of Marketing, saw a breadth of opportunities across the site to improve the customer experience, but didn’t have the data or in-house team to support validating those ideas and focusing on those that are most impactful.</p>
+
+<p>She recognized the need to balance education and ease of navigation, and was looking to include more of this ethos in the site’s design. Additionally, limited development resources meant that the team had to be selective in what initiatives to implement immediately.</p>
+
+<p><br /></p>
+
+<h2 id="our-strategy">Our Strategy</h2>
+
+<p>In the first phase, Experiment Zone evaluated the clients’ site from two perspectives. First, they evaluated customer behaviors on the site to understand what customers are doing - and where they are getting stuck. Secondly, they analyzed the user experience (UX) of the site through a Site Experience Audit.</p>
+
+<p>This data, in tandem with the concerns noted by the the beauty company’s team, lead Experiment Zone to narrow in on the highest friction points of the visitor’s journey. They used a <a href="https://experimentzone.com/blog/6-best-split-test-scoring-models">methodical approach to evaluate the test ideas</a> and identified the most promising A/B tests for the test roadmap. These tests focused on changes that would bring a big benefit to the visitor–and the clients bottom line–that were also easy to implement.</p>
+
+<p>Over the next 6 months, Experiment Zone designed, developed, and analyzed tests across the site experiences on desktop and mobile. Tests drove improvements in navigation use, helped customers find important information, and ultimately made it easier for customers to purchase.</p>
+
+<p><br /></p>
+
+<h2 id="the-results">The Results</h2>
+
+<p>The impact of the testing program was seen quickly. Over the initial 6 months, the beauty company had a <strong>10X return on investment (ROI)</strong> on the investment they made in the partnership.</p>
+
+<p>Additionally, the client saw improvements in several top line metrics in their business. Compared to the prior year (prior to engaging with Experiment Zone for CRO and A/B Testing):</p>
+
+<ul>
+  <li>25.5% Online Revenue Growth</li>
+  <li>40.6% Order Conversion Rate</li>
+  <li>68.0% E-Commerce Orders</li>
+</ul>
+
+<div><b><i style="font-size: 1.3rem">“The improvements we saw from testing with Experiment Zone exceeded our expectations. Their communication and collaboration make them a trustworthy team with whom we’re happy to partner.”</i></b>
+</div>
+<div class="container">
+    <div class="row justify-content-center align-items-center">
+        <div class="col-12 col-md-6">
+
+            <h4 class="pt-1 text-right">- Head of Marketing</h4>
+        </div>
+    </div>
+
+</div>
+:ET

@@ -2,7 +2,7 @@
 layout: post
 title: "A/B Test Ideas for Companies Selling Boat Shoes | Testing The Experience"
 description: "In today's episode, we'll discuss A/B test ideas for sites marketing their productivity trackers and tool."
-permalink: video/boat-shoes
+# permalink: video/boat-shoes
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

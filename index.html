@@ -4,19 +4,19 @@ title: Experiment Zone | Unlock more value | Conversion Rate Optimization
 description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 body_classes: page-home
 header_classes: header-transparent
-heroHeading: 'Better Experiences,<br> More Revenue'
-heroSubHeading: 'Unlock more value from your website by optimizing your user experience'
-heroBackground: ''
+heroHeading: "Better Experiences,<br> More Revenue"
+heroSubHeading: "Unlock more value from your website by optimizing your user experience"
+heroBackground: ""
 heroBackgroundOverlay: false
 heroHeight: 500
 heroDiagonal: true
-heroDiagonalFill: '#f2f0f5'
-meta_title: 'Experiment Zone | Unlock more value | Conversion Rate Optimization'
+heroDiagonalFill: "#f2f0f5"
+meta_title: "Experiment Zone | Unlock more value | Conversion Rate Optimization"
 meta_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
-meta_og_title: 'Experiment Zone | Unlock more value | Conversion Rate Optimization'
+meta_og_title: "Experiment Zone | Unlock more value | Conversion Rate Optimization"
 meta_og_type: website
-meta_og_url: 'https://experimentzone.com/'
-meta_og_image: 'https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg'
+meta_og_url: "https://experimentzone.com/"
+meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "Optimize your user experience to gain more revenue and get insight from the customers you already have."
 ---
 
@@ -28,9 +28,7 @@ diagonalfill=page.heroDiagonalFill %}
 
 <div class="strip strip-grey">
   <div class="container pt-5 pb-5 text-center">
-    <h1 style="font-size: 3.5em;">
-      Why Experiment Zone?
-    </h1>
+    <h1 style="font-size: 3.5em">Why Experiment Zone?</h1>
     <h3>Learn More About <a href="/about/">Our Mission</a></h3>
     <div class="row justify-content-center">
       {% for feature in site.data.features %}
@@ -63,14 +61,14 @@ diagonalfill=page.heroDiagonalFill %}
   <div class="row justify-content-between">
     {% for step in site.data.steps %}
     <div class="col-12 col-md-4 col-md-4 mb-2">
-      <div class="work work-summary p-2" style="align-items: center;">
+      <div class="work work-summary p-2" style="align-items: center">
         {% if step.image %}
         <div class="work-image text-center">
-            <img src="{{ step.image | relative_url}}"/>
+          <img src="{{ step.image | relative_url}}" />
         </div>
         {% endif %}
         <div>
-          <h2 style="color: #12bf98;">{{ step.title }}</h2>
+          <h2 style="color: #12bf98">{{ step.title }}</h2>
         </div>
         {% if step.description %}
         <div class="work-description p-2">
@@ -183,7 +181,7 @@ diagonalfill=page.heroDiagonalFill %}
   button_text=site.params.free_consult_cta.button_text
   %} -->
 
-{% include consult-cta.html %}  
+{% include consult-cta.html %}
 
 <!-- Splash Two -->
 {% if site.params.homepage.show_splash_section_two %}
@@ -193,18 +191,34 @@ diagonalfill=page.heroDiagonalFill %}
       {% if site.params.homepage.splash_two_image %}
       <div class="col-12 col-md-4">
         <div class="col-12 text-center">
-          <img class="img-fluid rounded-circle w-50 h-50" src="{{ site.params.homepage.splash_two_image | relative_url }}" />
+          <img
+            class="img-fluid rounded-circle w-50 h-50"
+            src="{{ site.params.homepage.splash_two_image | relative_url }}"
+          />
         </div>
         {% if site.params.homepage.splash_two_second_paragraph %}
-        <p class="pl-3 pt-1">{{ site.params.homepage.splash_two_second_paragraph }}</p>
+        <p class="pl-3 pt-1">
+          {{ site.params.homepage.splash_two_second_paragraph }}
+        </p>
         {% endif %}
       </div>
       {% endif %}
-      <div class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %}">
+      <div
+        class="
+          col-12
+          {%
+          if
+          site.params.homepage.splash_one_image
+          %}col-md-4{%
+          else
+          %}col-md-12{%
+          endif
+          %}
+        "
+      >
         {% if site.params.homepage.splash_two_heading %}
         <h2>{{ site.params.homepage.splash_two_heading }}</h2>
-        {% endif %}
-        {% if site.params.homepage.splash_two_paragraph %}
+        {% endif %} {% if site.params.homepage.splash_two_paragraph %}
         <p>{{ site.params.homepage.splash_two_paragraph }}</p>
         {% endif %}
       </div>
@@ -212,7 +226,6 @@ diagonalfill=page.heroDiagonalFill %}
   </div>
 </div>
 {% endif %}
-
 
 <!-- Partners
 {% if site.data.partners.size > 0 and site.params.homepage.show_partners %}
@@ -254,7 +267,17 @@ works.size > 0 and site.params.homepage.show_work_section %}
         <div class="work work-summary">
           {% if work.heroBackground %}
           <div
-            class="work-image {% if work.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
+            class="
+              work-image
+              {%
+              if
+              work.cardImageHeight
+              %}card-image-style{%
+              else
+              %}card-image-height{%
+              endif
+              %}
+            "
           >
             <a href="{{ work.url | relative_url}}"
               ><img
@@ -316,9 +339,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
   src="{{ site.baseurl }}/assets/js/pages/home.js"
 ></script>
 
-{% include contact-cta.html
-  heading=site.params.contact_cta.heading
-  subheading=site.params.contact_cta.subheading
-  button_url=site.params.contact_cta.button_url
-  button_text=site.params.contact_cta.button_text
-  %}
+{% include contact-cta.html heading=site.params.contact_cta.heading
+subheading=site.params.contact_cta.subheading
+button_url=site.params.contact_cta.button_url
+button_text=site.params.contact_cta.button_text %}

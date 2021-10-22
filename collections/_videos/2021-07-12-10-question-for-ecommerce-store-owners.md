@@ -2,7 +2,7 @@
 layout: post
 title: "10 Questions You Should Be Asking About Your Ecommerce Store."
 description: "AJ Davis will share the ten questions you need to answer about your e-commerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
-permalink: video/10-question-for-ecommerce-store-owners
+# permalink: video/10-question-for-ecommerce-store-owners
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

@@ -2,7 +2,7 @@
 layout: post
 title: "Part 3/3: Conversion Rate Optimization from A to Z"
 description: "Improving your website User Experience is crucial if you want to increase conversion. Our Founder and CEO, AJ Davis, walks Adama, the host,  through an audit of her website, giving tips and suggestions to improve her website’s User Experience.  "
-permalink: /podcast/part-3-conversion-rate-optimization-a-to-z
+# permalink: /podcast/part-3-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"

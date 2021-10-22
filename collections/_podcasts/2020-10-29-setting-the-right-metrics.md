@@ -2,7 +2,7 @@
 layout: post
 title: "Setting The Right Metrics"
 description: "In this episode of Rebooting Business, AJ Davis and David Somerfleck talk about user experience strategies with proven track records for delivering value to businesses."
-permalink: /podcast/setting-the-right-metrics
+# permalink: /podcast/setting-the-right-metrics
 tags: [""]
 categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"

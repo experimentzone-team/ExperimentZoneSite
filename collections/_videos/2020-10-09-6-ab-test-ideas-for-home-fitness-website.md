@@ -2,7 +2,7 @@
 layout: post
 title: "6 A/B Test Ideas for Home Fitness Website and Apps | Testing the Experience"
 description: "In today's episode, we'll show you 6 A/B test ideas that can increase conversion rates for at home fitness sites."
-permalink: video/6-ab-test-ideas-for-home-fitness-website
+# permalink: video/6-ab-test-ideas-for-home-fitness-website
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

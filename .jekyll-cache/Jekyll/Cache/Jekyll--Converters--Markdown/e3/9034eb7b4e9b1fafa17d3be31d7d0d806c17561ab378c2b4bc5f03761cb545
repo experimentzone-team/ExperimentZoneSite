@@ -1,0 +1,98 @@
+I"�!<h3 id="get-more-value-from-your-website-and-generate-more-customers-with-the-free-tool-google-optimize">Get More Value From Your Website and Generate More Customers With the Free Tool, Google Optimize.</h3>
+
+<h1 id="google-optimize-an-essential-tool-for-your-brand">Google Optimize: An Essential Tool for Your Brand</h1>
+
+<p>If you’re looking for a free resource to implement A/B testing and enhance your CRO strategy, Google Optimize is a great place to experiment and gather insights on your website. We share the tool’s benefits and a how-to guide for you to set up an A/B test with Google Optimize. Let’s get started!</p>
+
+<h2 id="whats-google-optimize">What’s Google Optimize?</h2>
+
+<p><a href="https://marketingplatform.google.com/about/optimize/" target="\_blank">Google Optimize</a> is a free website optimization tool developed by Google. It helps business owners and online marketers increase visitor satisfaction and visitor conversion rates by testing various website design and content combinations. It facilitates A/B testing, redirect tests, and multivariate testing. Google Optimize is mainly used for conversion rate optimization (CRO).</p>
+
+<p><br /></p>
+
+<hr />
+
+<p><br /></p>
+
+<h2 id="benefits-of-using-google-optimize-for-your-business-or-brand">Benefits of Using Google Optimize for Your Business or Brand</h2>
+
+<p>There are various benefits that your business or brand can get from using Google optimize. These benefits include:</p>
+
+<ul>
+  <li>It offers insights that can help you improve the user-experience, ROI, and your business campaigns.</li>
+  <li>It’s free and has no in-app purchases or hidden fees. Anyone with a Google account can use it.</li>
+  <li>You can target users from specific Google ad groups, ad campaigns, and keywords to your website.</li>
+  <li>Google optimize offers A/B tests, redirect or split URL tests, and multivariate tests.</li>
+  <li>It’s easy to use. All you need to do is insert the link to your web page, name your variants, and then download a Google Chrome extension, which will let you edit your website in live mode. For more sophisticated testing, we recommend using their Javascript API for better control over the look and feel of the changes.</li>
+  <li>You should link your account to Google analytics. This will allow you to have a broad and comprehensive understanding of how the test changes impacted behavior across your site. You can move beyond the three test variables and get a full picture of what changed.</li>
+</ul>
+
+<p>The user experience on your website is vital. Google Optimize will help you improve the overall user experience on your website - as long as you are testing the right things that make an impact.</p>
+
+<p>The better the experience, the more customers, you’ll retain and attract. If the user experience is poor, you’ll keep losing visitors or conversions on your web page. For more insight into making the best user experience, check out our <a href="https://www2.slideshare.net/mandidavis/experiments-using-google-optimize-how-to-make-the-best-experience-for-your-online-retail-customers" target="\_blank">presentation on creating test experiments with Google Optimize</a>.</p>
+
+<p><br /></p>
+
+<h2 id="how-to-use-google-optimize">How to Use Google Optimize</h2>
+
+<p>Google Optimize has two significant elements: (1) the editor and (2) the reporting suite. They’re used together in setting up and analyzing experiments to find out what works best for your website.</p>
+
+<p><br /></p>
+
+<h2 id="start-with-the-editor">Start With the Editor</h2>
+
+<p>The editor allows you to create modified versions of a web page and test the various HTML content options against each other. For instance, in the first version, your web page can display the copy “Welcome to our website” versus “We help customers like you get what they need.” The editor works with an array of device-type views, including smartphones.</p>
+
+<p><br /></p>
+
+<h2 id="review-the-reporting-suite">Review the Reporting Suite</h2>
+
+<p>The reporting suite uses data from your linked Google Analytics account to give more insight into the experiments you’ve set up using the editor. The editor will see whether the first version or the second version got the best click-through rate.</p>
+
+<p><br /></p>
+
+<h2 id="how-to-set-up-an-ab-test-with-google-optimize">How to Set up an A/B Test With Google Optimize</h2>
+
+<p>Below is a step-by-step guide on how to run A/B tests with Google Optimize.</p>
+
+<ul>
+  <li>Ensure that your site is connected to both Google optimize and Google Analytics.</li>
+  <li>Create an A/B test. In your Google optimize account pick the element on which you would like to conduct the A/B test. One example for testing is a web page headline.</li>
+  <li>Click the “Create experiment” button. You will then have to name the experiment. Enter the URL of where you would like to carry out the test and select the experiment type.</li>
+  <li>Select the A/B experiment if you want to create a simple test variant using the optimized visual editor.</li>
+  <li>Click on “Create variant” and write the variant’s name on the window pop-up, then click “Add.”</li>
+  <li>Once you create the variant name, click on “Variant 1” to make modifications. Doing so will redirect you to your landing page. You can make any changes using the visual editor. Right-click on the headline and pick the “Edit text” option.</li>
+  <li>Change the text, save the editor, click on “Done,” and go back to your optimized account.</li>
+  <li>Scroll down the page to the objectives tab. Click on “Add experiment objective.” Ensure that your account is connected to your Google Analytics goal. The goal should be tracking conversions. You can log into your Google Analytics and create the goal if you haven’t already.</li>
+  <li>Specify your test description and hypothesis, then click on the “Targeting” tab. Specify how many people visiting your site should be included in the test.</li>
+  <li>Click on “Start experiment.” A modal pop-up will appear. Click “Start.” Let the experiment run for at least two weeks before you view the results. Google will let you know the winner after collecting sufficient data.</li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="other-tools-you-can-use">Other Tools You Can Use</h2>
+
+<p>There are other tools that you can use to optimize your web page. You’ll have to pay for some while others are entirely free. You could try using Google optimize 360, which is an improved version of Google optimize. It’s not free, but it provides more features. Optimization tools are split into different categories.</p>
+
+<ul>
+  <li>To collect information that can help your business generate better ideas. For instance, you will understand why visitors leave your website when they get to a particular page. A few of our favorite tools to inform A/B tests are <a href="https://clarity.microsoft.com/" target="\_blank">Microsoft Clarity</a>, <a href="http://respondent.io" target="\_blank">Respondent.io</a>, and <a href="https://www.trymyui.com/" target="\_blank">TryMyUI.com</a>.</li>
+  <li>Evaluate your ideas and pick the best ideas to test. These tools will help you generate test ideas and store the ideas for future testing. <a href="https://asana.com/" target="\_blank">Asana</a> and Google Sheets can be used to store team ideas and track our testing programs. Our favorite tool for tracking ideas is our Hypothesis Library app, built specifically to optimize your A/B testing process.</li>
+</ul>
+
+<p>If you’d like to learn more about the best CRO tools for your business, check out our <a href="https://experimentzone.com/blog/ab-testing-tools/" target="\_blank">blog on the best A/B testing tools</a>. Listed below are other tools you can use and how they can impact your business.</p>
+
+<p>If you have an online business, it’s essential to use optimization tools. If you want our experts to uncover insights and improve your conversion rate using Google Optimize, check out our <a href="https://experimentzone.com/services/optimization-strategy-and-testing/" target="\_blank">Optimization Strategy and Testing services</a>.</p>
+
+<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
+  <div class="container justify-content-center">
+    <div class="col-12">
+      <h2 class="mb-n2 text-center">
+        Get Future Conversion Rate Tips Send to Your Email.
+      </h2>
+      <div class="_form_11"></div>
+      <script src="https://experimentzone.activehosted.com/f/embed.php?id=11" type="text/javascript" charset="utf-8"></script>
+    </div>
+  </div>
+</div>
+
+:ET

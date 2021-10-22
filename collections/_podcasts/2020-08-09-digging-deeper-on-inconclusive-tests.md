@@ -2,7 +2,7 @@
 layout: post
 title: "Digging Deeper on Inconclusive Tests"
 description: "If your usual response to inconclusive test results is to move on to the next experiment, you’ll want to hear about how she and her team got a huge win after digging deeper into some flat results."
-permalink: /podcast/digging-deeper-on-inconclusive-tests
+# permalink: /podcast/digging-deeper-on-inconclusive-tests
 tags: [""]
 categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"

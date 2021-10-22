@@ -2,7 +2,7 @@
 layout: post
 title: "Make creativity a priority in your CRO process"
 description: "Curious about how to make creativity a priority in your CRO process?"
-permalink: /podcast/make-creativity-a-priority-in-your-cro-process
+# permalink: /podcast/make-creativity-a-priority-in-your-cro-process
 tags: [""]
 categories: [""]
 heroBackground: assets/images/podcasts/creativity.jpg

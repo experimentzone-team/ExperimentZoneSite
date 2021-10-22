@@ -2,7 +2,7 @@
 layout: post
 title: "A/B Test Ideas for Companies Selling Golf Apparel | Testing The Experience"
 description: "In today's episode, we'll discuss A/B test ideas for sites marketing their productivity trackers and tool."
-permalink: video/golf-apparel
+# permalink: video/golf-apparel
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

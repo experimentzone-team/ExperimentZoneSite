@@ -1,0 +1,78 @@
+I"h<h2 id="client-background">Client Background</h2>
+
+<p><a href="https://kinonasport.com/" target="\_blank">Kinona</a> is a women-led, women-inspired brand that was founded to make golf accessible - and fun - to all women. They produce stylish and high functioning golf apparel to combat the standard women’s golf apparel, which lacked style and was missing exciting patterns and cuts.</p>
+
+<p>They began working with Experiment Zone through our partner, <a href="https://www.trustworthydigital.com/" target="\_blank">Trustworthy Digital</a>, to achieve their high growth ecommerce goals. They wanted to improve their user experience by attacking the biggest pain points and finding (and stopping) the leaks in the conversion journey.</p>
+
+<p><br /></p>
+
+<h2 id="the-challenge">The Challenge</h2>
+
+<p>Visitors were moving through the site, but not making it to the product detail page. Our team identified that the category landing page began with an educational paragraph and product category image, which pushes the products down the page. We were concerned that visitors would be confused about how to move forward and possibly get disengaged when faced with a block of text to read.</p>
+
+<p>We wanted to balance giving visitors the education information with giving them a quick way to start browsing and comparing the available products.</p>
+
+<p><br /></p>
+
+<h2 id="our-strategy">Our Strategy</h2>
+
+<p>We decided to collapse the educational information by default, but provide visitors with an icon to easily expand the content if they were interested. This ultimately brought the products into focus, while still supporting visitors with additional content if they needed it.</p>
+
+<p>Kinona’s ecommerce store also provides the description information on the product detail page (PDP), so we were confident that visitors would still encounter motivating information in their journey.</p>
+
+<p><br /></p>
+
+<style>
+    td {
+        text-align: center
+    }
+    .content img {
+        margin: 30px 0 60px 0;
+        border: solid black 0.1px;
+    }
+    .content td h3 {
+        color: black;
+    }
+
+</style>
+
+<div>
+    <table>
+        <tr>
+            <td><h3>Mobile Control</h3></td>
+            <td><h3>Mobile Variant</h3></td>
+        </tr>
+        <tr>
+            <td><img src="/assets/images/work/Kinona/Mobile-Control.png" /></td>
+            <td><img src="/assets/images/work/Kinona/Mobile-Variant.png" /></td>
+        </tr>
+    </table>
+    <table>    
+        <tr>
+            <td><h3>Desktop Control</h3></td>
+        </tr>
+        <tr>
+            <td><img src="/assets/images/work/Kinona/Desktop-Control.png" /></td>
+        </tr>
+        <tr>
+            <td><h3>Desktop Variant</h3></td>
+        </tr>
+        <tr>
+            <td><img src="/assets/images/work/Kinona/Desktop-Variant.png" /></td>
+        </tr>
+    </table>
+</div>
+
+<h2 id="the-results">The Results</h2>
+
+<p>This was a huge success. We saw <strong>orders for those that viewed a category page increase by 31.7%</strong> based on this change alone. Visitors were more likely to get to a product detail page and then complete their journey as a result of this change.</p>
+
+<p>New visitors were largely influenced by this change. While this group traditionally needs more educational content, they were able to encounter it when they needed it but not before they found a product they were interested in.</p>
+
+<p>Visitors on mobile devices also were more likely to order, as this made better use of the small screen size.</p>
+
+<p>Kinona implemented the change permanently and projected a 27% increase in annual revenue.</p>
+
+<div><b><i style="font-size: 1.3rem">“Collaborating with Experiment Zone on this project has been such a great experience. With the increase we’ve seen in conversion rates, we’ve been able to more effectively scale our digital marketing efforts which has led to a significant increase in revenue for the business.”</i></b>
+</div>
+:ET

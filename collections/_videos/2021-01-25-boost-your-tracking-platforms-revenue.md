@@ -2,7 +2,7 @@
 layout: post
 title: "Boost Your Ticketing Platform's Revenue | Free Marketing Webinar | Featuring Trustworthy Digital"
 description: "Do you want to learn how to develop an encompassing digital marketing strategy for your ticketing business?"
-permalink: video/boost-your-tracking-platforms-revenue
+# permalink: video/boost-your-tracking-platforms-revenue
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

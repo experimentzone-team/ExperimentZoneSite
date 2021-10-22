@@ -2,7 +2,7 @@
 layout: post
 title: "5 A/B Test Ideas for Beauty Subscription Box Ecommerce Websites | Testing the Experience"
 description: "In today's episode, we'll show you 5 A/B test ideas that can increase conversion rates for beauty subscription box brands."
-permalink: video/landing-pages-that-convert
+# permalink: video/landing-pages-that-convert
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

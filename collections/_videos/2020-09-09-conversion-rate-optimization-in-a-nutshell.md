@@ -2,7 +2,7 @@
 layout: post
 title: "Conversion Rate Optimization in a Nutshell"
 description: "Got a website? You should be optimizing your conversion rate. Learn how to increase conversion with just small changes to your site without spending more on ads."
-permalink: video/conversion-rate-optimization-in-a-nutshell
+# permalink: video/conversion-rate-optimization-in-a-nutshell
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

@@ -2,7 +2,7 @@
 layout: post
 title: "Part 2/3: Conversion Rate Optimization from A to Z"
 description: "Are you getting started with Google Analytics? Our Founder and CEO, AJ Davis, talks through Google Analytics and where to start along with many of the features that can help increase your conversion rate."
-permalink: /podcast/part-2-conversion-rate-optimization-a-to-z
+# permalink: /podcast/part-2-conversion-rate-optimization-a-to-z
 tags: [""]
 categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"

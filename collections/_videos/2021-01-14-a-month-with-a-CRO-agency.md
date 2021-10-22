@@ -2,7 +2,7 @@
 layout: post
 title: "How can your business benefit from a month with a Conversion Rate Optimization agency?"
 description: "Find out how you can benefit from just a month with a conversion rate optimization agency."
-permalink: video/a-month-with-a-CRO-agency
+# permalink: video/a-month-with-a-CRO-agency
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

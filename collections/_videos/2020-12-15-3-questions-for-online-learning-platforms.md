@@ -2,7 +2,7 @@
 layout: post
 title: "3 Questions Every Online Learning Platform Should be Answering | Testing the Experience"
 description: "In today's episode, we'll show you the 3 top questions Online Learning Platforms need to answer for their visitors."
-permalink: video/3-questions-for-online-learning-platforms
+# permalink: video/3-questions-for-online-learning-platforms
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

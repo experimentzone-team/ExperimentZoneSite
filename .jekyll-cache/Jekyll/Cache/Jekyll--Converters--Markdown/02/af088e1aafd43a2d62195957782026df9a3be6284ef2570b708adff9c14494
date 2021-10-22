@@ -1,0 +1,139 @@
+I"P<h1 id="6-best-ab-scoring-models">6 Best A/B Scoring Models</h1>
+
+<p> </p>
+
+<h2 id="prioritize-your-teams-test-hypotheses">Prioritize your team’s test hypotheses</h2>
+
+<p> </p>
+
+<p>You probably have a large list of <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> ideas on your roadmap. We can’t test everything at once. We all have limited amounts of traffic and budgets.</p>
+
+<p>You should focus on ideas that have the potential to make the best impact rather than testing the small details.</p>
+
+<p>How do you do this? Prioritize! Here are our favorite 6 <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> scoring models:</p>
+
+<p> </p>
+
+<h2 id="1-pie-model-potential-importance-and-ease">1. PIE Model: Potential, Importance, and Ease</h2>
+
+<p> </p>
+
+<p>Chris Goward at Widerfunnel created the PIE framework. The model scores each page across three factors:</p>
+
+<ul>
+  <li>Potential: Factors in your web <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> and customer data to identify how much improvement can be made on a page.</li>
+  <li>Importance: Focuses on the pages with the highest volume and costliest traffic.</li>
+  <li>Ease: Considers how difficult or easy it would be to implement a test on a page.</li>
+</ul>
+
+<p>Each factor is scored from 1 – 10, and the factors are averaged together to determine the PIE score.</p>
+
+<p> </p>
+
+<h2 id="2-ice-model-importance-confidence-and-ease">2. ICE Model: Importance, Confidence, and Ease</h2>
+
+<p> </p>
+
+<p>The ICE model was invented by GrowthHackers’ founder, Sean Ellis. The model asks three simple questions:</p>
+
+<ul>
+  <li>Impact – What will the impact be if this works?</li>
+  <li>Confidence – How confident am I that this will work?</li>
+  <li>Ease – What is the ease of implementation?</li>
+</ul>
+
+<p>Similarly to PIE, the ICE model weighs each factor out of 10 and averages the three score to determine the ICE score. You can learn more about ICE from Sean’s 2015 Startup Fest presentation.</p>
+
+<p> </p>
+
+<h2 id="3-tir-model-time-impact-and-resources">3. T.I.R. Model: Time, Impact, and Resources</h2>
+
+<p> </p>
+
+<p>Bryan Eisenberg created the T.I.R. model. Factors include:</p>
+
+<ul>
+  <li>Time: How much time is needed to execute the project? A higher score is less time.</li>
+  <li>Impact: What is the projected revenue potential or cost savings from the project?</li>
+  <li>Resources: Does the project require few resources that are readily available?</li>
+</ul>
+
+<p>Each of the 3 factors are scored out of 5, then multiplied for the total score.</p>
+
+<p> </p>
+
+<h2 id="4-hotwires-points-model">4. Hotwire’s Points Model</h2>
+
+<p> </p>
+
+<p>Hotwire uses a binary scoring (0 or 1 point) across a number of factors including:</p>
+
+<ul>
+  <li>Main metric: Focuses on the company’s primary metric.</li>
+  <li>Location: Focuses on important pages for the company.</li>
+  <li>Fold: Makes a change above the fold</li>
+  <li>Targeting: Includes 100% of customers in the test</li>
+  <li>New information: Adds or removes an element from the page</li>
+  <li>Benchmarking: Borrows from a learning elsewhere</li>
+</ul>
+
+<p>This model was outlined by Pauline Marol and Josephine Foucher in an Optimizely post.</p>
+
+<p> </p>
+
+<h2 id="5-pxl-by-cxl">5. PXL by CXL</h2>
+
+<p> </p>
+
+<p>PXL also uses a binary scoring method. Similar to Hotwire’s model, this model assigns 1s or 0s to a number of factors:</p>
+
+<ul>
+  <li>Above the fold</li>
+  <li>Designed to increase user motivation</li>
+  <li>Running on high traffic pages</li>
+  <li>Addressing insights discovers in user testing, qualitative feedback, digital analytics, or mouse/eye tracking</li>
+</ul>
+
+<p>The PXL model also weights this factors more heavily:</p>
+
+<ul>
+  <li>Noticeable within 5 seconds</li>
+  <li>Adding or removing an element</li>
+  <li>Ease of implementation</li>
+</ul>
+
+<p> </p>
+
+<h2 id="6-customizable-model-by-experiment-zone">6. Customizable model by Experiment Zone</h2>
+
+<p> </p>
+
+<p>All organizations have different goals, limitations, and strengths, so it’s naive to think the same scoring model will work for all teams.</p>
+
+<p>Why not personalize one of these and make a model that works best for your company? With Experiment Zone, you can easily create and customize your own model.</p>
+
+<ul>
+  <li>You can create up to 25 factors.</li>
+  <li>For each factor, choose whether they are binary or from a scale (5 or 7 point is commonly used).</li>
+  <li>You can also weight the factors if they aren’t equally important to your team.</li>
+  <li>You can update the model seasonally or as the business focus changes without having to re-evaluate every test idea.</li>
+</ul>
+
+<p>Want to give it a try? Sign up for a 30-day free trial today.</p>
+
+<p>What scoring model does your team use? Are we missing any from the list? Please leave a comment below.</p>
+
+<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
+  <div class="container justify-content-center">
+    <!-- <div class="row"> -->
+    <div class="col-12">
+      <h2 class="mb-n2 text-center">
+        Get future conversion rate tips send to your email.
+      </h2>
+      <div class="_form_11"></div>
+      <script src="https://experimentzone.activehosted.com/f/embed.php?id=11" type="text/javascript" charset="utf-8"></script>
+    </div>
+  </div>
+  <!-- </div> -->
+</div>
+:ET

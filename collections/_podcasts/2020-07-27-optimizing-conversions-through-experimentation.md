@@ -2,7 +2,7 @@
 layout: post
 title: "Optimizing Conversions Through Experimentation"
 description: "In this podcast, we discuss the importance of optimizing website conversions, how little changes can make a big difference, the importance of testing changes, and how metrics are important in building meaningful analytics."
-permalink: /podcast/optimizing-conversions-through-experimentation
+# permalink: /podcast/optimizing-conversions-through-experimentation
 tags: [""]
 categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"

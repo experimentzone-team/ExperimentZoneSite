@@ -2,7 +2,7 @@
 layout: post
 title: "When and where to tell your story with AJ Davis."
 description: "AJ Davis, founder of Experiment Zone, breaks down results from an extremely effective category page tweak. She goes on to outline how to think about the role of each page on your site, where to add messaging about what makes your brand unique, and how to get that messaging right."
-permalink: video/ecomm-experiments
+# permalink: video/ecomm-experiments
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

@@ -2,7 +2,7 @@
 layout: post
 title: "Top 3 Elements Gift Basket Retailers Should Include in Their Site | Testing the Experience"
 description: "In today's episode, we'll show you the 3 top questions every Gift Baskets retailer needs to answer on their site."
-permalink: video/top-3-elements-gift-basket-retailers-should-include-in-their-site
+# permalink: video/top-3-elements-gift-basket-retailers-should-include-in-their-site
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

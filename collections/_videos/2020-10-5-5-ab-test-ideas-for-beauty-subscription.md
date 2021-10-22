@@ -2,7 +2,7 @@
 layout: post
 title: "Landing Pages that Convert"
 description: "Want to learn how to create landing pages that convert? We'll discuss how sites can boost conversion with just small tweaks."
-permalink: video/5-ab-test-ideas-for-beauty-subscription
+# permalink: video/5-ab-test-ideas-for-beauty-subscription
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

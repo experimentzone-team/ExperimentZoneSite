@@ -2,7 +2,7 @@
 layout: post
 title: "How Does CRO Fit Into Your Company's Marketing Strategy?"
 description: "Our CRO team walks you through the basics of fitting Conversion Rate Optimization (CRO) into your marketing strategy."
-permalink: video/CRO-marketing-strategy
+# permalink: video/CRO-marketing-strategy
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"

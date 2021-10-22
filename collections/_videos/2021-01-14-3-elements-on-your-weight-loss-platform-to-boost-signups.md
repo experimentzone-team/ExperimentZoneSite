@@ -2,7 +2,7 @@
 layout: post
 title: "Include these 3 Elements on Your Weight Loss Platform to Boost Signups | Testing the Experience"
 description: "In today's episode, we'll show you the 3 biggest conversion pitfalls of the marketing sites for weight loss programs."
-permalink: video/3-elements-on-your-weight-loss-platform-to-boost-signups
+# permalink: video/3-elements-on-your-weight-loss-platform-to-boost-signups
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
