@@ -30,9 +30,7 @@ body_classes: page-team-list
 
 <div class="container mt-n5">
   <div class="container text-center">
-    <h1>
-      Our Values
-    </h1>
+    <h1>Our Values</h1>
     <h3 class="pb-5">Transparency & Communication Is Key</h3>
     <div class="row">
       {% for about in site.about %}
@@ -107,9 +105,20 @@ body_classes: page-team-list
         />
       </div>
       <div
-        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-5{% else %}col-md-12{% endif %} offset-md-1"
+        class="
+          col-12
+          {%
+          if
+          site.params.homepage.splash_one_image
+          %}col-md-5{%
+          else
+          %}col-md-12{%
+          endif
+          %}
+          offset-md-1
+        "
       >
-        <h2>AJ Davis – Founder and CEO</h2>
+        <h2><a href="/team/aj-davis/">AJ Davis – Founder and CEO</a></h2>
         <p>
           AJ is an industry expert in user experience strategy with a proven
           track record for delivering true value to businesses.
@@ -128,6 +137,11 @@ body_classes: page-team-list
           AJ is a Wellesley College alumnae and has a masters in Human Factors
           in Information Design from Bentley University.
         </p>
+        <div>
+          <div class="col-12 pt-1 text-center">
+            <a class="button" href="/team/aj-davis/"> CONNECT WITH AJ </a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
