@@ -1,10 +1,10 @@
 ---
 title: "Conversion Consult"
-date: 2018-11-20T15:15:26+10:00
+date: 2018-11-03T15:15:26+10:00
 description: "Fast, expert advice focused on conversion"
 icon: "assets/images/services/icons8-web_design.png"
-featured: false
-weight: 1
+featured: true
+weight: 2
 heroHeight: 350
 service-list: false
 service-sign-up: true

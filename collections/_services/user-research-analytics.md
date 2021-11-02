@@ -1,10 +1,11 @@
 ---
 title: "User Research & analytics"
-date: 2018-11-21T15:15:26+10:00
+date: 2018-11-02T15:15:26+10:00
 description: "Get To Know Your Customers Better"
 icon: "assets/images/services/icons8-google_analytics_logo.png"
 featured: true
-weight: 2
+weight: 3
+heroHeight: 350
 header_classes: header-transparent
 ---
 

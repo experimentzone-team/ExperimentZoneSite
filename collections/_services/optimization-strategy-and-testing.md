@@ -1,9 +1,9 @@
 ---
 title: "Optimization Strategy & Testing"
-date: 2018-11-20T15:15:26+10:00
-description: " "
+date: 2018-11-04T15:15:26+10:00
+description: "Gain the benefits of having a team hyper-focused on improving your conversion rates"
 icon: "assets/images/services/icons8-web_design.png"
-featured: false
+featured: true
 weight: 3
 heroHeight: 350
 service-list: false
@@ -11,7 +11,7 @@ service-sign-up: true
 calendly-calender:
   '<div class="col-12 mt-3 mt-lg-0 mb-3 p-0 team-summary calendly-inline-widget" data-url="https://calendly.com/experimentzone/conversion-deep-dive-consultation-clone-1?hide_event_type_details=1&primary_color=6f42b7" style="min-width:320px;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>'
-summary-content: " "
+summary-content: "Quarterly Conversion Deep Dive including an analytics review, user experience audit, and user research."
 free-consult: true
 header_classes: header-transparent
 ---

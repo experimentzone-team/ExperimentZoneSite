@@ -39,7 +39,7 @@ footer_primary:
   - name: Newsletter Sign Up
     url: /blog#blog-sign-up
     weight: 3
-  # - name: Free 1-hour conversion consult
+  # - name: Free Conversion Consult
   #   url: /consult/
   #   weight: 4
   - name: Contact Us

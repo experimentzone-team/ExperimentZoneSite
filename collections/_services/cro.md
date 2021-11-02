@@ -1,10 +1,11 @@
 ---
 title: "Conversion Rate Optimization"
-date: 2018-11-20T15:15:26+10:00
+date: 2018-11-01T15:15:26+10:00
 description: "Unlock additional revenue from the visitors you already have on your site"
 icon: "assets/images/services/icons8-web_design.png"
 featured: true
 weight: 1
+heroHeight: 350
 header_classes: header-transparent
 ---
 

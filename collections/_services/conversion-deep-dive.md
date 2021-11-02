@@ -1,10 +1,10 @@
 ---
 title: "Conversion Deep Dive"
-date: 2018-11-20T15:15:26+10:00
+date: 2018-11-21T15:15:26+10:00
 description: "Boost your sales, leads, revenues and ROI"
 icon: "assets/images/services/icons8-web_design.png"
 featured: false
-weight: 1
+weight: 4
 heroHeight: 350
 service-list: false
 service-sign-up: true
