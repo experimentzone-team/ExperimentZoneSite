@@ -1,12 +1,14 @@
 ---
 title: "User Research & analytics"
 date: 2018-11-02T15:15:26+10:00
-description: "Get To Know Your Customers Better"
+description: "We’ll help you understand your customers and how they are interacting with your website. Contact us today!"
 icon: "assets/images/services/icons8-google_analytics_logo.png"
 featured: true
 weight: 3
 heroHeight: 350
 header_classes: header-transparent
+meta_title: " Remote User Research & Website Analytics"
+meta_description: "We’ll help you understand your customers and how they are interacting with your website. Contact us today!"
 ---
 
 We’ll help you understand your customers and how they are interacting with your site. Our team of analysts and user researchers will dig into your customers’ behavior, so you can uncover actionable and valuable insights.
