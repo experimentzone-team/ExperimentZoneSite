@@ -23,21 +23,36 @@ height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
 overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
 diagonalfill=page.heroDiagonalFill %}
 
-<div class="container mb-5">
-  <div class="row justify-content-center">
+<div class="container">
+  <div class="row justify-content-center flex-wrap-reverse">
     <div
       class="
-        col-11 col-md-8 col-lg-7
-        pb-3
-        mt-4
+        col-12 col-md-8 col-lg-5
         mb-4
         mt-lg-0
+        pr-lg-2
+        pl-lg-2
+        align-self-center
+      "
+    >
+      <div class="_form_41 justify-content-start"></div>
+      <script
+        src="https://experimentzone.activehosted.com/f/embed.php?id=41"
+        type="text/javascript"
+        charset="utf-8"
+      ></script>
+    </div>
+    <div
+      class="
+        col-12 col-md-8 col-lg-7
+        pb-3
+        mt-4 mt-lg-0
         mb-lg-0
         justify-content-center
       "
     >
-      <div class="col-12 container">
-        <h2 class="col-12 col-md-12 text-center">
+      <div class="col-12 container p-0">
+        <h2 class="col-12 col-md-12">
           White Label Conversion Rate Optimization Services
         </h2>
         <div class="container">
@@ -88,30 +103,15 @@ diagonalfill=page.heroDiagonalFill %}
               </li>
             </ol>
           </div>
-          <h3>About Experiment Zone</h3>
-          <div class="container">
-            <p>
-              We’re an Austin-based CRO agency. Our team of conversion experts
-              includes: strategists, data analysts, developers, designers, UX
-              researchers, and project managers.
-            </p>
-          </div>
         </div>
       </div>
-    </div>
-    <div class="col-11 col-md-8 col-lg-5 mt-lg-0 pr-lg-2 pl-lg-2">
-      <div class="_form_41 justify-content-start"></div>
-      <script
-        src="https://experimentzone.activehosted.com/f/embed.php?id=41"
-        type="text/javascript"
-        charset="utf-8"
-      ></script>
     </div>
   </div>
 </div>
 
-{% include why-experiment-zone-splash.html %} {% include footer-diagonal.html %}
-{% include contact-cta.html heading=site.params.contact_cta.heading
+{% include about-ez-team.html %} {% include why-experiment-zone-splash.html %}
+{% include footer-diagonal.html %} {% include contact-cta.html
+heading=site.params.contact_cta.heading
 subheading=site.params.contact_cta.subheading
 button_url=site.params.contact_cta.button_url
 button_text=site.params.contact_cta.button_text %}

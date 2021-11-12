@@ -45,6 +45,9 @@ footer_primary:
   - name: Contact Us
     url: /contact/
     weight: 5
+  - name: Partnering with Marketing Agencies
+    url: /whitelabeled-cro-services/
+    weight: 6
 footer_secondary:
   - name: Privacy Policy
     url: /support/privacy
