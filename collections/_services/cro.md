@@ -1,12 +1,14 @@
 ---
 title: "Conversion Rate Optimization"
 date: 2018-11-01T15:15:26+10:00
-description: "Unlock additional revenue from the visitors you already have on your site"
+description: "Are you looking for conversion rate optimization for an ecommerce website? Our team of CRO experts will assess your current experience & run the highest impact tests."
 icon: "assets/images/services/icons8-web_design.png"
 featured: true
 weight: 1
 heroHeight: 350
 header_classes: header-transparent
+meta_title: "Website Conversion Rate Optimization in Austin, Texas"
+meta_description: "Are you looking for conversion rate optimization for an ecommerce website? Our team of CRO experts will assess your current experience & run the highest impact tests."
 ---
 
 We’ll help you unlock additional revenue from visitors already on your site. Our team of CRO experts will assess your current experience and recommend the highest impact tests. We will develop a plan, configure and monitor the test, and provide a final report for each test.
