@@ -51,7 +51,7 @@ If so, you'll know that it can be difficult to get buy-in at smaller companies, 
 
 In other words, even though remote unmoderated testing is supposed to be a Lean technique, often in practice, it isn’t. When that happens, too much of the UX budget goes to paying for the tools, sometimes leaving too little for the research efforts that will result in the greatest insights.
 
-Some lower-cost solutions for remote unmoderated testing exist (see Table) including [Loop11](https://www.loop11.com/){:target="\_blank"}, [Validately](https://validately.com/){:target="\_blank"}, and [WhatUsersDo](https://www.whatusersdo.com/){:target="\_blank"} (recently acquired by [UserZoom](https://www.userzoom.com/){:target="\_blank"}). These can be a good option for some applications but can be limiting in other cases unless you purchase a higher level of service. For example, at the basic level of service, [TryMyUI](https://www.trymyui.com/){:target="\_blank"} is limited to 20 minutes or less of testing and doesn’t include screener questions.
+Some lower-cost solutions for remote unmoderated testing exist (see Table) including [Loop11](https://www.loop11.com/){:target="\_blank"}, [Validately](https://validately.com/){:target="\_blank"}, and [WhatUsersDo](/){:target="\_blank"} (recently acquired by [UserZoom](https://www.userzoom.com/){:target="\_blank"}). These can be a good option for some applications but can be limiting in other cases unless you purchase a higher level of service. For example, at the basic level of service, [TryMyUI](https://www.trymyui.com/){:target="\_blank"} is limited to 20 minutes or less of testing and doesn’t include screener questions.
 
 <p><img src="../../assets/images/posts/chart-low-cost-tools.png" alt="Chart of research tools"></p>
 
