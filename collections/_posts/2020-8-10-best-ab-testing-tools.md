@@ -91,23 +91,23 @@ You can’t - and shouldn’t - test every idea on your website. Testing require
 
 1. #### AB Tasty
 
-   [AB Tasty](https://www.abtasty.com/){:target="\_blank"} is a comprehensive tool for website <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. It is a user-friendly tool capable of running A/B tests as well as multivariant tests ([4.4 stars](https://www.g2.com/products/ab-tasty/reviews){:target="\_blank"} on G2).
+   [AB Tasty](https://www.abtasty.com/){:target="\_blank"} is a comprehensive tool for website <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. It is a user-friendly tool capable of running A/B tests as well as multivariant tests ([4.4 stars](){:target="\_blank"} on G2).
 
 2. #### Google Optimize _Free_
 
-   [Google Optimize](https://optimize.google.com/){:target="\_blank"} offers one of the best free <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solutions around. You can get a lot done with the free version of these tools - if you have the team on board to know how to set up the tests and advanced tracking ([4.4 stars](https://www.g2.com/products/google-optimize/reviews){:target="\_blank"} on G2).
+   [Google Optimize](https://optimize.google.com/){:target="\_blank"} offers one of the best free <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solutions around. You can get a lot done with the free version of these tools - if you have the team on board to know how to set up the tests and advanced tracking ([4.4 stars](){:target="\_blank"} on G2).
 
 3. #### Optimizely
 
-   [Optimizely](https://optimizely.com){:target="\_blank"} is a robust <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solution for enterprise. They offer a variety of products - and Optimizely Web provides the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> for optimizing web pages. You can build on this with Optimizely Personalization, which targets specific messages and experiences based on audience segments ([4.3 stars](https://www.g2.com/products/optimizely/reviews){:target="\_blank"} on G2).
+   [Optimizely](https://optimizely.com){:target="\_blank"} is a robust <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solution for enterprise. They offer a variety of products - and Optimizely Web provides the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> for optimizing web pages. You can build on this with Optimizely Personalization, which targets specific messages and experiences based on audience segments ([4.3 stars](){:target="\_blank"} on G2).
 
 4. #### VWO
 
-   [VWO](https://vwo.com){:target="\_blank"} is another robust <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solution but at a lower cost than Optimizely. It’s an almost-enterprise testing solution ([4.1 stars](https://www.g2.com/products/wingify-vwo-testing/reviews){:target="\_blank"} on G2).
+   [VWO](https://vwo.com){:target="\_blank"} is another robust <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solution but at a lower cost than Optimizely. It’s an almost-enterprise testing solution ([4.1 stars](){:target="\_blank"} on G2).
 
 5. #### Convert
 
-   [Convert](https://convert.com){:target="\_blank"} is an advanced <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> platform for CRO experts and agencies. This is a tool designed for experienced professionals, with advanced features easily accessed throughout the interface ([4.7 stars](https://www.g2.com/products/convert-experiences/reviews){:target="\_blank"} on G2).
+   [Convert](https://convert.com){:target="\_blank"} is an advanced <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> platform for CRO experts and agencies. This is a tool designed for experienced professionals, with advanced features easily accessed throughout the interface ([4.7 stars](){:target="\_blank"} on G2).
 
 - #### Bonus: Build-in A/B Testing
 
