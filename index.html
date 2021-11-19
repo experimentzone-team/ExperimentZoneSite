@@ -64,7 +64,7 @@ diagonalfill=page.heroDiagonalFill %}
       <div class="work work-summary p-2" style="align-items: center">
         {% if step.image %}
         <div class="work-image text-center">
-          <img src="{{ step.image | relative_url}}" />
+          <img alt="Our 3-step process to improve conversion" src="{{ step.image | relative_url}}" />
         </div>
         {% endif %}
         <div>
@@ -99,7 +99,7 @@ diagonalfill=page.heroDiagonalFill %}
         <div class="service service-summary">
           {% if service.icon %}
           <div class="service-image">
-            <img src="{{service.icon | relative_url}}" />
+            <img alt="services" src="{{service.icon | relative_url}}" />
           </div>
           {% endif %}
           <div class="service-title">
@@ -141,7 +141,7 @@ diagonalfill=page.heroDiagonalFill %}
       <div class="service service-summary">
         {% if service.icon %}
         <div class="service-image">
-          <img src="{{service.icon | relative_url}}" />
+          <img alt="our services" src="{{service.icon | relative_url}}" />
         </div>
         {% endif %}
         <div class="service-title">
@@ -191,7 +191,7 @@ diagonalfill=page.heroDiagonalFill %}
       {% if site.params.homepage.splash_two_image %}
       <div class="col-12 col-md-4">
         <div class="col-12 text-center">
-          <img
+          <img alt="Testimonials"
             class="img-fluid rounded-circle w-50 h-50"
             src="{{ site.params.homepage.splash_two_image | relative_url }}"
           />
@@ -280,7 +280,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
             "
           >
             <a href="{{ work.url | relative_url}}"
-              ><img
+              ><img alt="Case Study"
                 src="{% if work.cardImage %}{{ work.cardImage | relative_url }}{% else %}{{ work.heroBackground | relative_url }}{% endif%}"
                 {%
                 if
