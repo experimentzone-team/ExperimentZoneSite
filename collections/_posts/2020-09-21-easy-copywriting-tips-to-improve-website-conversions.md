@@ -129,15 +129,6 @@ If you have more than one audience, consider having separate sections or pages t
 
 <br>
 
-{% include contact-cta.html
-  heading="Want help with the copy on your website and marketing?"
-  button_url="https://www.micahlambertcopy.com/contact"
-  button_text="Contact Micah"
-  style="rounded"
-  %}
-
-<br>
-
 ### What are a few simple things businesses can do today to improve their website copy?
 
 Here are a few simple, tangible things you can start doing today to improve website conversion:
