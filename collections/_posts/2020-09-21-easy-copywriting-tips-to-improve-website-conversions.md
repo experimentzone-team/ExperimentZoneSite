@@ -131,7 +131,7 @@ If you have more than one audience, consider having separate sections or pages t
 
 {% include contact-cta.html
   heading="Want help with the copy on your website and marketing?"
-  button_url="https://www.micahlambertcopy.com/contact"
+  button_url=""
   button_text="Contact Micah"
   style="rounded"
   %}
