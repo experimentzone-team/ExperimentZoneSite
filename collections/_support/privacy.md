@@ -94,7 +94,7 @@ Experiment Zone reserves the right to change this Privacy Policy from time to ti
 Experiment Zone welcomes your questions or comments regarding this Statement of Privacy. If you believe that Experiment Zone has not adhered to this Statement, please contact Experiment Zone at:
 
 Experiment Zone
-701 Brazos Street, Suite 1616
+1401 Lavaca St PMB 40707,
 Austin, Texas 78701
 
 Email Address: [info@experimentzone.com](mailto:info@experimentzone.com)
