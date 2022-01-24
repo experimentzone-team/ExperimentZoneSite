@@ -22,6 +22,7 @@ meta_og_url: "https://experimentzone.com/podcast/part-1-conversion-rate-optimiza
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "Are you getting started with conversion rate optimization? Our Founder and CEO, AJ Davis, talks through all the tools you need to start implementing and optimizing your website todday.⁠ ⁠ "
 header_classes: header-transparent
+custom_css: blog-hero
 ---
 
 # Learn about conversion rate optimization and the tools you need to get started.
