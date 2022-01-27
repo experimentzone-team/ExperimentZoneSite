@@ -64,7 +64,10 @@ diagonalfill=page.heroDiagonalFill %}
       <div class="work work-summary p-2" style="align-items: center">
         {% if step.image %}
         <div class="work-image text-center">
-          <img alt="Our 3-step process to improve conversion" src="{{ step.image | relative_url}}" />
+          <img
+            alt="Our 3-step process to improve conversion"
+            src="{{ step.image | relative_url}}"
+          />
         </div>
         {% endif %}
         <div>
@@ -191,7 +194,8 @@ diagonalfill=page.heroDiagonalFill %}
       {% if site.params.homepage.splash_two_image %}
       <div class="col-12 col-md-4">
         <div class="col-12 text-center">
-          <img alt="Testimonials"
+          <img
+            alt="Testimonials"
             class="img-fluid rounded-circle w-50 h-50"
             src="{{ site.params.homepage.splash_two_image | relative_url }}"
           />
@@ -204,17 +208,7 @@ diagonalfill=page.heroDiagonalFill %}
       </div>
       {% endif %}
       <div
-        class="
-          col-12
-          {%
-          if
-          site.params.homepage.splash_one_image
-          %}col-md-4{%
-          else
-          %}col-md-12{%
-          endif
-          %}
-        "
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %}"
       >
         {% if site.params.homepage.splash_two_heading %}
         <h2>{{ site.params.homepage.splash_two_heading }}</h2>
@@ -267,20 +261,11 @@ works.size > 0 and site.params.homepage.show_work_section %}
         <div class="work work-summary">
           {% if work.heroBackground %}
           <div
-            class="
-              work-image
-              {%
-              if
-              work.cardImageHeight
-              %}card-image-style{%
-              else
-              %}card-image-height{%
-              endif
-              %}
-            "
+            class="work-image {% if work.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
           >
             <a href="{{ work.url | relative_url}}"
-              ><img alt="Case Study"
+              ><img
+                alt="Case Study"
                 src="{% if work.cardImage %}{{ work.cardImage | relative_url }}{% else %}{{ work.heroBackground | relative_url }}{% endif%}"
                 {%
                 if
@@ -318,7 +303,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
     </div>
   </div>
 </div>
-{% endif %}
+{% endif %} {% include hypothesis-library.html %}
 
 <div class="strip strip-secondary">
   <svg
@@ -326,7 +311,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
     viewBox="0 0 1000 100"
     preserveAspectRatio="none"
   >
-    <path class="svg-grey" d="M738,99l262-93V0H0v5.6L738,99z"></path>
+    <path class="svg-white" d="M738,99l262-93V0H0v5.6L738,99z"></path>
   </svg>
 </div>
 
