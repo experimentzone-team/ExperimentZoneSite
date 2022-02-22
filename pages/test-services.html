@@ -1,0 +1,157 @@
+---
+layout: default
+title: Experience Optimization
+subtitle: Get More Value From Your Website
+body_classes: page-services-list
+heroSection: Grow your Customers into Visitors
+heroHeading: "Conversion Optimization Services"
+heroSubHeading: 
+heroSubSubHeading:
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 500
+heroDiagonal: true
+heroDiagonalFill: "#fff"
+---
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+  height=page.heroHeight section=page.heroSection heading=page.heroHeading subheading=page.heroSubHeading
+  subsubheading=page.heroSubSubHeading cta-button=page.cta-button
+  cta-button-href=page.cta-button-href overlay=page.heroBackgroundOverlay
+  diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
+
+<div class="strip pt-5 pb-5">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <h2>What you get</h2>
+          <ul>
+            <li>Clear insights and recommendations that lead to improved conversion</li>
+            <li>Effectively scale your digital marketing efforts</li>
+            <li>Insights to drive your digital roadmap</li>
+          </ul>
+          <h2>What makes us different</h2>
+          <ul>
+            <li>Simple and seamless workflow</li>
+            <li>Rigorous and formulaic approach</li>
+            <li>Professional and easy to work with team of experts</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="work-image">
+            <img
+              class="img-fluid"
+              alt="Hypothesis Library tool"
+              src="../assets/images/people-at-work-small-format.png">
+        </div>
+      </div>
+      <!-- <div class="col-12 col-lg-4">
+        <div class="section-menu p-2">
+          <h2 class="text-primary">Benefits</h2>
+          <ul>
+            <li>- Increase your revenue</a></li>
+            <li>- Know your customers better</a></li>
+            <li>- Uncover what keeps visitors from buying</a></li>
+            <li>- Make decisions backed by insights</a></li>
+          </ul>
+        </div>
+      </div> -->
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey pt-5 pb-5">
+  <div class="container pb-4">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="text-secondary">Our Professional Services</h2>
+        <p class="large">Make data-driven UX and conversion improvements for your website, backed by customer insights.</p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="text-secondary pb-2" style="font-size: 2.6rem">Core Services:</h2>
+      </div>
+      {% for service in site.test-services %}
+      {%if service.core == true%}
+      <div class="col-12 col-md-6 mb-3">
+        <div class="service service-summary">
+          {% if service.icon %}
+          <div class="service-image">
+            <img src="{{service.icon | relative_url}}" />
+          </div>
+          {% endif %}
+          <div class="service-title">
+            <h2>
+              <a href="{{ service.url | relative_url}}">{{ service.title }}</a>
+            </h2>
+          </div>
+          <div class="service-description">
+            <p>{{ service.description }}</p>
+          </div>
+          <div class="service-content">{% if service.summary-content %}<p>{{service.summary-content}}</p>{%else%}{{ service.content | truncate: 180 }}{%endif%}</div>
+          <div class="service-link">
+            <a class="service-read-more" href="{{ service.url | relative_url}}"
+              >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  
+  </div>
+</div>
+
+<div class="strip strip-secondary pt-5 pb-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="text-white pb-2" style="font-size: 2.6rem">A la Carte Services:</h2>
+      </div>
+      {% for service in site.test-services %}
+      {%if service.featured == true%}
+      <div class="col-12 col-md-6 mb-3">
+        <div class="service service-summary">
+          {% if service.icon %}
+          <div class="service-image">
+            <img src="{{service.icon | relative_url}}" />
+          </div>
+          {% endif %}
+          <div class="service-title">
+            <h2>
+              <a href="{{ service.url | relative_url}}">{{ service.title }}</a>
+            </h2>
+          </div>
+          <div class="service-description">
+            <p>{{ service.description }}</p>
+          </div>
+          <div class="service-content">{% if service.summary-content %}<p>{{service.summary-content}}</p>{%else%}{{ service.content | truncate: 180 }}{%endif%}</div>
+          <div class="service-link">
+            <a class="service-read-more" href="{{ service.url | relative_url}}"
+              >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+
+
+
+{% include why-experiment-zone-splash-white.html %}
+
+
+{% include contact-cta.html heading=site.params.contact_cta.heading
+subheading=site.params.contact_cta.subheading
+button_url=site.params.contact_cta.button_url
+button_text=site.params.contact_cta.button_text %}

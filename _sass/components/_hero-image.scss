@@ -43,6 +43,9 @@
         width: 60%;
       }
     }
+    .subsubheading {
+      font-size: 1.2rem;
+    }
   }
   .hero-down {
     flex: 0;
@@ -80,4 +83,8 @@
 
 h1.Testing.Your.Way.To.Success {
   display: none;
+}
+
+.subsubheading {
+  font-size: 1.2rem;
 }
