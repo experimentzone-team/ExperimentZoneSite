@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ultimate Guide to Conversion Rate Optimization in 2021"
+title: "The Ultimate Guide to Conversion Rate Optimization in 2022"
 description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)."
 permalink: /conversion-rate-optimization/
 tags: ["Conversion Rate Optimization", "CRO"]
@@ -12,7 +12,7 @@ heroBackgroundOverlay: false
 heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "The Ultimate Guide to Conversion Rate Optimization in 2021"
+meta_title: "The Ultimate Guide to Conversion Rate Optimization in 2022"
 meta_description: "Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO)."
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
@@ -26,7 +26,7 @@ header_classes: header-transparent
 
 Get more value from your website and generate more customers and qualified leads using conversion rate optimization (CRO).
 
-# The Ultimate Guide to Conversion Rate Optimization in 2021
+# The Ultimate Guide to Conversion Rate Optimization in 2022
 
 Written by AJ Davis
 
