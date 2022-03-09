@@ -15,3 +15,5 @@ Extract the .zip file to your local computer.
 To run the theme locally, navigate to the project root (it contains the README.md) and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve --livereload` to start the Jekyll server.
 
 To build the Jekyll site run `bundle exec jekyll build`
+
+# Experiment Zone Developers guide
