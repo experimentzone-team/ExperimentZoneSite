@@ -270,6 +270,14 @@
     display: inline;
     height: 32px;
   }
+  #_form_3_ input[type="date"].datetime_date {
+    width: 69%;
+    display: inline-flex;
+  }
+  #_form_3_ input[type="time"].datetime_time {
+    width: 29%;
+    display: inline-flex;
+  }
   @media all and (min-width: 320px) and (max-width: 667px) {
     ::-webkit-scrollbar {
       display: none;
@@ -378,7 +386,7 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     *zoom: 1;
-    background: white !important;
+    background: transparent !important;
     border: 0px solid #b0b0b0 !important;
     width: 559px;
     -moz-border-radius: 0px !important;
@@ -490,7 +498,7 @@
   <input type="hidden" name="m" value="0" />
   <input type="hidden" name="act" value="sub" />
   <input type="hidden" name="v" value="2" />
-  <input type="hidden" name="or" value="f3d4bbbe058187c1d3c87ff4fb416036" />
+  <input type="hidden" name="or" value="355f2e5ccb4b7ee33bc1da2a7ceaf9ed" />
   <div class="_form-content">
     <div class="_form_element _x86245727 _full_width">
       <label for="firstname" class="_form-label"> </label>
@@ -502,6 +510,7 @@
           placeholder="First name"
         />
       </div>
+      <!--  This STARTS the Custom Objects section  -->
     </div>
     <div class="_form_element _x44356330 _full_width">
       <label for="lastname" class="_form-label"> </label>
@@ -513,6 +522,7 @@
           placeholder="Last name"
         />
       </div>
+      <!--  This STARTS the Custom Objects section  -->
     </div>
     <div class="_form_element _field1 _full_width">
       <label for="field[1]" class="_form-label"> </label>
@@ -537,6 +547,7 @@
           required
         />
       </div>
+      <!--  This STARTS the Custom Objects section  -->
     </div>
     <div class="_form_element _field2 _full_width">
       <label for="field[2]" class="_form-label"> </label>
@@ -547,6 +558,18 @@
           placeholder="Message"
           style="height: 93px"
         ></textarea>
+      </div>
+    </div>
+    <div style="display: none" class="_form_element _field34 _full_width">
+      <label for="field[34]" class="_form-label"> </label>
+      <div class="_field-wrapper">
+        <input
+          type="text"
+          id="field[34]"
+          name="field[34]"
+          value=""
+          placeholder=""
+        />
       </div>
     </div>
     <div class="_form_element _field33 _full_width">
