@@ -8,7 +8,6 @@ categories: ["Conversion Rate Optimization", "CRO"]
 author: aj_davis
 heroBackground: "assets/images/yellow-bulb-1556704.jpg"
 backgroundOverlay: true
-heroBackgroundOverlay: false
 heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false

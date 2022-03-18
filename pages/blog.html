@@ -9,12 +9,12 @@ heroHeight: 350
 heroDiagonal: true
 heroDiagonalFill: "#fff"
 title: Experiment Zone Blog
-meta_title: 'Experiment Zone Blog'
+meta_title: "Experiment Zone Blog"
 meta_description: "Blog-Experiment Zone"
-meta_og_title: 'Experiment Zone Blog'
+meta_og_title: "Experiment Zone Blog"
 meta_og_type: website
-meta_og_url: 'https://experimentzone.com/blog'
-meta_og_image: 'https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg'
+meta_og_url: "https://experimentzone.com/blog"
+meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
 meta_og_description: "Blog-Experiment Zone"
 header_classes: header-transparent
 ---
@@ -29,9 +29,7 @@ diagonalfill=page.heroDiagonalFill %}
 >
   <div class="section-menu p-2 text-center">
     <h2 class="text-primary">Free Conversion Insights</h2>
-    <h4>
-      Get Customized Conversion Insights for Your Website's Home Page
-    </h4>
+    <h4>Get Customized Conversion Insights for Your Website's Home Page</h4>
     <a
       href="https://experimentzone.com/giveaways/actionable_conversion_insights/"
       class="button button-primary mt-1"
@@ -45,7 +43,6 @@ diagonalfill=page.heroDiagonalFill %}
     {% for post in site.posts %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
-        
         <div
           class="work-image {% if post.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}"
         >
@@ -62,7 +59,7 @@ diagonalfill=page.heroDiagonalFill %}
               %}
           /></a>
         </div>
-        
+
         <div class="post post-summary p-2">
           <div class="post-title">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -106,6 +103,5 @@ diagonalfill=page.heroDiagonalFill %}
     </div>
   </div>
 </div>
-
 
 {% include guest-blogger-signup-form.html %}
