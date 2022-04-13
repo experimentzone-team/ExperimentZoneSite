@@ -1,9 +1,10 @@
 ---
+layout: service-old
 title: "Optimization Strategy & Testing"
 date: 2018-11-04T15:15:26+10:00
 description: "Gain the benefits of having a team hyper-focused on improving your conversion rates"
 icon: "assets/images/services/icons8-web_design.png"
-featured: true
+featured: false
 weight: 3
 heroHeight: 350
 service-list: false

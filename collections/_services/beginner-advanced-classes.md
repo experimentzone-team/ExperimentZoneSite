@@ -1,9 +1,10 @@
 ---
+layout: service-old
 title: "Beginner & Advanced Classes"
 date: 2018-11-23T15:15:26+10:00
 description: "Level Up Your Skills"
 icon: "assets/images/icons8-school-96.png"
-featured: true
+featured: false
 weight: 4
 header_classes: header-transparent
 ---

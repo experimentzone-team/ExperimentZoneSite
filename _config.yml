@@ -14,7 +14,7 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-  test-services:
+  services:
     output: true
     permalink: /:collection/:path/
   resources:
@@ -66,10 +66,6 @@ collections:
 defaults:
   - scope:
       type: services
-    values:
-      layout: service
-  - scope:
-      type: test-services
     values:
       layout: default
   - scope:

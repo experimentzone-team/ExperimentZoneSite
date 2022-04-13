@@ -1,9 +1,10 @@
 ---
+layout: service-old
 title: "Test & Learn Workshops"
 date: 2018-11-22T15:15:26+10:00
 description: "Get Your Whole Team Involved"
 icon: "assets/images/icons8-pass-fail-96.png"
-featured: true
+featured: false
 weight: 3
 service-list: true
 header_classes: header-transparent
