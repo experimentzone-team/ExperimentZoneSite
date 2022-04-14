@@ -91,7 +91,7 @@ diagonalfill=page.heroDiagonalFill %}
 <!-- Services -->
 {% assign services = site.services | where: "featured", true | sort:'weight' %}
 {% if services.size > 0 and site.params.homepage.show_services_section %}
-<div class="strip strip-grey pb-5 pt-5">
+<!-- <div class="strip strip-grey pb-5 pt-5">
   <div class="container d-none d-md-block">
     <div class="row justify-content-center">
       <div class="col-12">
@@ -104,7 +104,7 @@ diagonalfill=page.heroDiagonalFill %}
           <div class="service-image">
             <img alt="services" src="{{service.icon | relative_url}}" />
           </div>
-          {% endif %}
+
           <div class="service-title">
             <h2>
               <a href="{{ service.url | relative_url}}">{{ service.title }}</a>
@@ -121,6 +121,7 @@ diagonalfill=page.heroDiagonalFill %}
               >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
             ></a>
           </div>
+          {% endif %}
         </div>
       </div>
       {% endfor %}
@@ -174,7 +175,7 @@ diagonalfill=page.heroDiagonalFill %}
       </div>
     </div>
   </div>
-</div>
+</div> -->
 {% endif %}
 
 <!-- {% include free-consult.html

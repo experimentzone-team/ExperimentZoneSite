@@ -1,5 +1,5 @@
 ---
-layout: service-old
+layout: service
 title: "Optimization Strategy & Testing"
 date: 2018-11-04T15:15:26+10:00
 description: "Gain the benefits of having a team hyper-focused on improving your conversion rates"

@@ -1,5 +1,5 @@
 ---
-layout: service-old
+layout: service
 title: "Beginner & Advanced Classes"
 date: 2018-11-23T15:15:26+10:00
 description: "Level Up Your Skills"
