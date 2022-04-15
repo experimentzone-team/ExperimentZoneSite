@@ -89,15 +89,15 @@ diagonalfill=page.heroDiagonalFill %}
 {% include services-splash.html %}
 
 <!-- Services -->
-{% assign services = site.services | where: "featured", true | sort:'weight' %}
-{% if services.size > 0 and site.params.homepage.show_services_section %}
-<!-- <div class="strip strip-grey pb-5 pt-5">
+{% assign services = site.services | where: "core", true | sort:'weight' %} {%
+if services.size > 0 and site.params.homepage.show_services_section %}
+<div class="strip strip-grey pb-5 pt-5">
   <div class="container d-none d-md-block">
     <div class="row justify-content-center">
       <div class="col-12">
         <h2 class="text-center mb-3">Our Services</h2>
       </div>
-      {% for service in services limit: 2%}
+      {% for service in services %} {% if service.core == true %}
       <div class="col-12 col-md-6 col-lg-6 mb-2">
         <div class="service service-summary">
           {% if service.icon %}
@@ -113,9 +113,6 @@ diagonalfill=page.heroDiagonalFill %}
           <div class="service-description">
             <p>{{ service.description }}</p>
           </div>
-          <div class="service-content">
-            {{ service.content | truncate: 120 }}
-          </div>
           <div class="service-link">
             <a class="service-read-more" href="{{ service.url | relative_url}}"
               >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
@@ -124,7 +121,7 @@ diagonalfill=page.heroDiagonalFill %}
           {% endif %}
         </div>
       </div>
-      {% endfor %}
+      {% endif %} {% endfor %}
       <div class="col-12 text-center">
         <a
           class="button button-primary text-center"
@@ -156,7 +153,6 @@ diagonalfill=page.heroDiagonalFill %}
         <div class="service-description">
           <p>{{ service.description }}</p>
         </div>
-        <div class="service-content">{{ service.content | truncate: 180 }}</div>
         <div class="service-link">
           <a class="service-read-more" href="{{ service.url | relative_url}}"
             >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
@@ -175,7 +171,7 @@ diagonalfill=page.heroDiagonalFill %}
       </div>
     </div>
   </div>
-</div> -->
+</div>
 {% endif %}
 
 <!-- {% include free-consult.html
