@@ -1,0 +1,145 @@
+---
+title: "Usability Evaluation"
+meta_title: Usability Evaluation | Determine how visitors understand your Site |  Experiment Zone
+heroHeading: "Usability Evaluation"
+heroSubHeading:
+heroSubSubHeading:
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 500
+heroDiagonal: true
+heroDiagonalFill: "#fff"
+date: 2018-11-02T15:15:26+10:00
+description: "Optimize your user experience. Identify top pain points so you can make a delightful customer experience."
+icon: "assets/images/icons8-pass-fail-96.png"
+featured: true
+weight: 1
+service-list: false
+service-sign-up: true
+summary-content: "Understand your top customer journey pain points with a usability assessment."
+free-consult: true
+header_classes: header-transparent
+cta-button: Schedule Consult
+cta-button-href: "#sign-up-form"
+---
+
+<style>
+  @media (min-width: 768px) {
+    .hero-image .hero-text h1 {
+      width: 100%;
+    }
+    .hero-image .hero-text p {
+      font-size: 1.6rem;
+      width: 100%;
+    }
+  }
+</style>
+
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+subsubheading=page.heroSubSubHeading cta-button=page.cta-button
+cta-button-href=page.cta-button-href overlay=page.heroBackgroundOverlay
+diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
+
+<div class="strip pb-5 pt-5">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <h2 class="text-secondary">
+            Understand your top customer journey pain points with a usability assessment.
+          </h2>
+          <p>
+            Identify opportunities to improve user experiences, usability and paths to conversion on your website or product.
+          </p>
+        
+          <h2 class="text-secondary">How we’ll undercover usability issues</h2>
+          <p>
+            Identify top usability issues with your user experience with a usability test conducted by our expert team of UX Researchers. We’ll provide a thorough and detailed report of the findings from the usability study, and we’ll provide conversion strategy backed recommendations and experience improvements. 
+          </p>
+          <p>
+           We will employ two research methods for the site experience audit: 
+            <li> Usability testing - To find the most pressing issues facing your target audience </li>
+             <li> Conversion strategy - To prioritize potential fixes and A/B tests to resolve those issues </li>
+
+          </p>
+        </div>
+      </div>
+      <div id="sign-up-form" class="col-12 col-lg-6 pt-3 pt-lg-0">
+        <h2 class="text-secondary text-center mb-2">Schedule Consult</h2>
+        {% include contact-us-form.html %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey pt-5 pb-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <div class="content">
+          <h2 class="text-secondary">
+         Our Simple and Seamless Process
+          </h2>
+          <p>
+            In 6-8 weeks, we’ll provide a deep analysis of your customer journey and experience to uncover high-impact usability problems.
+
+          </p>
+          <div class="item">
+            <h4 class="text-primary">Step 1 | Kickoff (Week 1)</h4>
+            <p>
+            In this 30 min call, we'll make sure we understand your goals with this usability evaluation. We'll discuss your current and target customers, so we can identify the participants for your study and start to create screener questions. We'll also discuss expectations & set up our collaboration with your other partners.
+            </p>
+           
+          </div>
+          <div class="item">
+            <h4 class="text-primary">
+            Step 2 | Research Plan (Week 2)
+
+            </h4>
+            <p>
+           During this step, we'll define the UX Research plan for the usability evaluation. This step includes:
+
+            </p>
+            <ul>
+              <li>Defining the recruitment strategy and screening questions</li>
+              <li>Identifying the key flows and pages for the assessment</li>
+              <li>Creating the scenario and tasks for participants</li>
+            </ul>
+           
+          </div>
+          <div class="item">
+            <h4 class="text-primary">Step 3 | Conducting Usability Research (Week 3-6)</h4>
+            <p>
+              During this step, we'll conduct the recruitment, schedule the participants, and run the usability study.
+            </p>
+            <p>
+            As we gather insights, we’ll begin our full analysis of the data. Once we understand the biggest problems and opportunities in the experience, our Conversion Strategist will prioritize identify specific solutions your team can do to improve the experience. 
+
+            </p>
+          </div>
+        </div>
+        
+        
+          <div class="item">
+            <h4 class="text-primary">Step 4 | Results Readout + Conversion Strategy Call</h4>
+            <p>
+              During this 2-hour call, we will review the Usability Evaluation Executive Summary. You'll get the data we gather, insights, and recommended actions to increase your conversion rate. 
+            </p>
+          </div>
+        </div>
+        
+        
+        <div class="col-12 text-center pt-2">
+          <a class="button" href="#sign-up-form" style="text-decoration: none"
+            >Get Started</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include why-experiment-zone-splash-white.html %} {% include
+footer-diagonal-white.html %} {% include form-sign-up-button-in-footer.html
+button_url=page.cta-button-href button_text=page.cta-button %}
