@@ -49,6 +49,22 @@ footer_primary:
     url: /whitelabeled-cro-services/
     weight: 6
 footer_secondary:
+  - name: Ecommerce
+    url: /cro-for-ecommerce-retailers/
+    weight: 1
+  - name: Non-Profit
+    url: /cro-for-nonprofits-and-fundraising/
+    weight: 2
+  - name: Political Campaign
+    url: /cro-for-political-campaigns/
+    weight: 3
+  - name: Website Leads
+    url: /cro-for-lead-generation/
+    weight: 3
+  - name: SaaS Business
+    url: /cro-for-SaaS/
+    weight: 3
+footer_thirdly:
   - name: Privacy Policy
     url: /support/privacy
     weight: 1

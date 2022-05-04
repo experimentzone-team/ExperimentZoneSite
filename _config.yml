@@ -116,6 +116,7 @@ params:
   footer:
     show_menu_footer_primary: true
     show_menu_footer_secondary: true
+    show_menu_footer_thirdly: true
     show_services_links: true
     show_work_links: true
   homepage:

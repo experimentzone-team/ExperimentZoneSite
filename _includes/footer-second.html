@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-second-menu font-weight-normal">
-          <div class="row">
+          <div class="row justify-content-between">
             {% if site.params.footer.show_menu_footer_primary %}
             <div class="col-12 col-md-3">
               <h3>Experiment Zone</h3>
@@ -17,33 +17,6 @@
                 {% for service in services limit:4 %}
                 <li><a href="{{ service.url }}">{{ service.title }}</a></li>
                 {% endfor %}
-                <!-- <li>
-                  <a href="/cro-for-lead-generation/"
-                    >Get More Leads using Experiments</a
-                  >
-                </li>
-                <li>
-                  <a href="/cro-for-ecommerce-retailers/"
-                    >Increasing Online Orders through Ecommerce Experiments</a
-                  >
-                </li>
-                <li>
-                  <a href="/cro-for-nonprofits-and-fundraising/"
-                    >Increasing Non-Profit Donations through Fundraising
-                    Experiments</a
-                  >
-                </li>
-                <li>
-                  <a href="/cro-for-political-campaigns/"
-                    >Increasing Political Campaign Participation through
-                    Experiments</a
-                  >
-                </li>
-                <li>
-                  <a href="/cro-for-SaaS/"
-                    >Get More Software Customers using Experiments</a
-                  >
-                </li> -->
               </ul>
             </div>
             {% endif %} {% assign giveaways = site.giveaways | sort: 'date' %}
@@ -57,9 +30,14 @@
               </ul>
             </div>
             {% endif %} {% if site.params.footer.show_menu_footer_secondary %}
-            <div class="col-12 col-md-3">
-              <h3>Support</h3>
+            <div class="col-12 col-md-2">
+              <h3>Industries</h3>
               {% include menu-footer-secondary.html %}
+            </div>
+            {% endif %} {% if site.params.footer.show_menu_footer_thirdly %}
+            <div class="col-12 col-md-3">
+              <h3 class="mt-1">Support</h3>
+              {% include menu-footer-thirdly.html %}
             </div>
             {% endif %}
           </div>
