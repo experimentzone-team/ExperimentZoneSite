@@ -14,9 +14,12 @@ title:  Your Website Report Card <br> is ready to be downloaded.
     <div class="col-12">
       <div class="basic basic-single text-center">
         <h1 class="text-center">{{ page.title }}</h1>
-        <button onclick="location.href='../../assets/pdf/Experiment Zone - Website Report Card.pdf/'" class="button mt-5">
-            DOWNLOAD
-        </button>
+        <br>
+        <a
+            href="../../assets/pdf/Experiment Zone - Website Report Card.pdf"
+            download
+            class="button d-none d-md-inline-block text-white justify-content-center"
+            >Download</a>
       </div>
     </div>
     
