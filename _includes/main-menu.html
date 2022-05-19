@@ -1,12 +1,23 @@
 <div id="main-menu" class="main-menu">
   <ul>
     {% for item in site.data.menu.main %}
-    <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}{% if item.dropdown %} dropdown {% endif %}">
-      {% if item.dropdown %} 
-      <a class="dropdown-toggle" id="{{ item.id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
+    <li
+      class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}{% if item.dropdown %} dropdown {% endif %}"
+    >
+      {% if item.dropdown %}
+      <a
+        class="dropdown-toggle"
+        id="{{ item.id }}"
+        data-toggle="dropdown"
+        aria-haspopup="true"
+        aria-expanded="false"
+        >{{ item.name }}</a
+      >
       <div class="dropdown-menu" aria-labelledby="{{ item.id }}">
         {% for tab in item.dropdown %}
-        <a class="dropdown-item" href="{{ tab.url | relative_url }}">{{ tab.label }}</a>
+        <a class="dropdown-item" href="{{ tab.url | relative_url }}"
+          >{{ tab.label }}</a
+        >
         {% endfor %}
       </div>
       {% else %}
@@ -14,5 +25,10 @@
       {% endif %}
     </li>
     {% endfor %}
+    <li>
+      <a class="button-secondary ml-1" href="/giveaways/report_card/">
+        <u>Free</u> CRO Report
+      </a>
+    </li>
   </ul>
 </div>
