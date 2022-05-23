@@ -51,10 +51,11 @@
           text-transform: uppercase;
           color: #000;
           padding: 10px 14px 10px 14px;
+        }
+        a.button-secondary {
           text-decoration: none;
-          &:hover {
-            opacity: 0.7;
-          }
+          text-decoration-thickness: 1.5px;
+          text-underline-offset: 3px;
         }
       }
       li.active {
@@ -197,7 +198,10 @@
         > a {
           color: #000;
           &:hover {
-            color: $primary;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
           }
         }
       }
@@ -205,7 +209,10 @@
         > a {
           color: #000;
           &:hover {
-            color: $primary;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 3px;
+            text-underline-offset: 5px;
           }
         }
       }
@@ -259,7 +266,10 @@
         > a {
           color: #000;
           &:hover {
-            color: $primary;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
           }
         }
       }
@@ -267,7 +277,10 @@
         > a {
           color: #000;
           &:hover {
-            color: $primary;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
           }
         }
       }
