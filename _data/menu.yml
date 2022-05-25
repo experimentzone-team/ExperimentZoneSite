@@ -5,6 +5,16 @@ main:
   - name: What we do
     url: /services/
     weight: 2
+    id: services
+    dropdown:
+      - label: Conversion Strategy and Testing
+        url: /services/conversion-strategy-and-testing/
+      - label: Site Experience Audit
+        url: /services/site-experience-audit/
+      - label: Conversion Audit
+        url: /services/conversion-audit/
+      - label: All Services
+        url: /services/
   - name: Case Studies
     url: /work/
     weight: 3
