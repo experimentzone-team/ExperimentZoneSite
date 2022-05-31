@@ -57,10 +57,10 @@ footer_secondary:
     weight: 3
   - name: Website Leads
     url: /cro-for-lead-generation/
-    weight: 3
+    weight: 4
   - name: SaaS Business
     url: /cro-for-SaaS/
-    weight: 3
+    weight: 5
 footer_thirdly:
   - name: Privacy Policy
     url: /support/privacy
@@ -69,5 +69,5 @@ footer_thirdly:
     url: /support/faq
     weight: 1
   - name: Icons from icons8.com
-    url: https://icons8.com/icon/
+    url: https://icons8.com/
     weight: 2
