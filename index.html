@@ -5,9 +5,11 @@ description: "Optimize your user experience to gain more revenue and get insight
 body_classes: page-home
 header_classes: header-transparent
 heroHeading: "Better Experiences,<br> More Revenue"
-heroSubHeading: "Unlock more value from your website by optimizing your user experience"
+heroSubHeading: "Unlock more value from your website with conversion rate optimization (CRO)"
 heroBackground: ""
 heroBackgroundOverlay: false
+cta-button: "Get Started"
+cta-button-href: "/contact/"
 heroHeight: 500
 heroDiagonal: true
 heroDiagonalFill: "#f2f0f5"
@@ -23,7 +25,8 @@ meta_og_description: "Optimize your website’s user experience to increase your
 <!-- Hero Image Partial-->
 {% include hero-image.html background=null fullscreen=page.heroFullscreen
 height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
-overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+overlay=page.heroBackgroundOverlay cta-button=page.cta-button
+cta-button-href=page.cta-button-href diagonal=page.heroDiagonal
 diagonalfill=page.heroDiagonalFill %}
 
 <div class="strip strip-grey">
