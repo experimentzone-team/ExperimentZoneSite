@@ -12,7 +12,7 @@ cta-button: "Get Started"
 cta-button-href: "/contact/"
 heroHeight: 500
 heroDiagonal: true
-heroDiagonalFill: "#f2f0f5"
+heroDiagonalFill: "#fff"
 meta_title: "Conversion Rate Optimization Agency/Company in USA"
 meta_description: "Optimize your website’s user experience to increase your revenue. Hire a top digital optimization manager from the best CRO agency/firm in USA today."
 meta_og_title: "Conversion Rate Optimization Agency/Company in USA"
@@ -27,32 +27,8 @@ meta_og_description: "Optimize your website’s user experience to increase your
 height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
 overlay=page.heroBackgroundOverlay cta-button=page.cta-button
 cta-button-href=page.cta-button-href diagonal=page.heroDiagonal
-diagonalfill=page.heroDiagonalFill %}
-
-<div class="strip strip-grey">
-  <div class="container pt-5 pb-5 text-center">
-    <h1 style="font-size: 3.5em">Why Experiment Zone?</h1>
-    <h3>Learn More About <a href="/about/">Our Mission</a></h3>
-    <div class="row justify-content-center">
-      {% for feature in site.data.features %}
-      <div class="col-12 col-sm-4 col-md-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image">
-            <img
-              alt="{{ feature.title }} logo"
-              src="{{ feature.image | relative_url}}"
-            />
-          </div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <p>{{feature.description}}</p>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
+diagonalfill=page.heroDiagonalFill %} {% include
+why-experiment-zone-splash-white.html %}
 
 <!-- Three Steps To Improving Conversion -->
 <div class="container mt-2 text-center">

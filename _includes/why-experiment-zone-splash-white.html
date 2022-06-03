@@ -2,13 +2,12 @@
 <div class="strip">
   <div class="container pt-5 pb-5 text-center">
     <h1>Why Experiment Zone?</h1>
-    <h3>Learn More About <a href="/about/">Our Mission</a></h3>
     <div class="row justify-content-center">
       {% for feature in site.data.features %}
-      <div class="col-12 col-sm-4 col-md-4 mb-2">
+      <div class="col-12 col-md-4 mb-2">
         <div class="feature">
           {% if feature.image %}
-          <div class="feature-image">
+          <div class="feature-image mb-3 mt-3">
             <img
               alt="{{ feature.title }} logo"
               src="{{ feature.image | relative_url}}"
@@ -16,10 +15,17 @@
           </div>
           {% endif %}
           <h2 class="feature-title">{{ feature.title }}</h2>
-          <p>{{feature.description}}</p>
+          <div class="feature-content">
+            <p>{{feature.description}}</p>
+          </div>
         </div>
       </div>
       {% endfor %}
+    </div>
+    <div>
+      <h3 class="text-black">
+        Learn More About <a class="link" href="/about/">Our Mission</a>
+      </h3>
     </div>
   </div>
 </div>
