@@ -4,42 +4,41 @@
       <div class="row justify-content-between align-items-center">
         <div class="col-12 col-lg-5 text-left text-sm-center text-lg-left pl-2 pl-sm-0">
           <h3 class="text-white mb-1 mb-lg-2">Conversion Rate Optimization (CRO) Strategies</h3>
-          <h2 class="text-white mb-1 mb-lg-2">Explore What We Do Better</h2>
-          <p class="text-white mb-1 mb-lg-2">
+          <h1 class="text-white mb-1 mb-lg-3">What We Do <u>Better</u></h1>
+          <h2 class="text-white mb-1 mb-lg-3">
             Would you like to get more visitors to become customers?
-          </p>
-          <p class="text-white mb-1 mb-lg-2">
-            We’re here to help you increase conversion rates.
-          </p>
+          </h2>
+          <h2 class="text-white mb-1 mb-lg-3">
+            We're here to help you increase conversion rates.
+          </h2>
           <div class="row">
-            <div class="col-12 text-center text-lg-left mb-4 mb-lg-0">
+            <div class="col-12 text-center text-lg-left mb-2 mt-1 mb-lg-0 mt-lg-0">
               <a
               class="button mt-1"
               href="{{ 'services' | relative_url }}"
               >
-              STRATEGIES
+              OUR SERVICES
               </a>
             </div>
           </div>
       </div>
         <div class="col-lg-7 mb-2">
-          <div class="container work-summary pt-2 pr-2 pl-2">
+          <div class="container pt-2 pr-2 pl-2">
             <div class="row">
               {% for cro_service in site.data.cro_services %}
-              <div class="col-12 col-lg-6 mb-2">
+              <div class="col-12 col-md-6 mb-2">
                 <div class="work work-summary" style="align-items: center;">
+                  <div>
+                    <a class="stretched-link" href="{{ cro_service.url | relative_url}}"></a>
+                    <h3 class="mt-2">{{ cro_service.title }}</h3>
+                  </div>
                   {% if cro_service.image %}
-                  <div class="work-image text-center">
-                    <a href="{{ cro_service.url | relative_url}}"
-                    ><img alt="Conversion Rate Optimization (CRO) Strategies" src="{{ cro_service.image | relative_url}}"
-                    /></a>
+                  <div class="work-image text-center mb-1">
+                    <img alt="Conversion Rate Optimization (CRO) Strategies" src="{{ cro_service.image | relative_url}}"/>
                   </div>
                   {% endif %}
-                  <div>
-                    <h3><a href="{{ cro_service.url | relative_url}}">{{ cro_service.title }}</a></h3>
-                  </div>
                   {% if cro_service.description %}
-                  <div class="work-description text-center pr-2 pl-2">
+                  <div class="work-description text-center pr-3 pl-3">
                     <p>{{ cro_service.description }}</p>
                   </div>
                   {% endif %}

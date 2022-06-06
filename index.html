@@ -27,8 +27,13 @@ meta_og_description: "Optimize your website’s user experience to increase your
 height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
 overlay=page.heroBackgroundOverlay cta-button=page.cta-button
 cta-button-href=page.cta-button-href diagonal=page.heroDiagonal
-diagonalfill=page.heroDiagonalFill %} {% include
-why-experiment-zone-splash-white.html %}
+diagonalfill=page.heroDiagonalFill %}
+
+<!-- Why EZ splash -->
+{% include why-experiment-zone-splash-white.html %}
+
+<!-- Splash One Services -->
+{% include services-splash.html %}
 
 <!-- Three Steps To Improving Conversion -->
 <div class="container mt-2 text-center">
@@ -62,10 +67,6 @@ why-experiment-zone-splash-white.html %}
     {% endfor %}
   </div>
 </div>
-
-<!-- Splash One -->
-
-{% include services-splash.html %}
 
 <!-- Services -->
 {% assign services = site.services | where: "core", true | sort:'weight' %} {%
