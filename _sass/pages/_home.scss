@@ -29,4 +29,30 @@
       padding: 20px;
     }
   }
+  .step-splash {
+    .green-line {
+      width: 100%;
+      border: solid 2px $primary;
+      width: 75%;
+      position: relative;
+      bottom: -96px;
+      margin: auto;
+      display: none;
+      @include media-breakpoint-up(md) {
+        display: block;
+      }
+    }
+    .number-image {
+      background-color: #eee8f6;
+      border-radius: 50%;
+      padding: 20px;
+      width: 150px;
+      height: 150px;
+      margin: auto;
+    }
+    .number {
+      font-size: 4rem;
+      color: $secondary;
+    }
+  }
 }

@@ -2,19 +2,22 @@
   {
     "title": "Generate",
     "image": "assets/images/icons8-number-1-96.png",
-    "description": "Ideas from your team, your customers, your data, and our depth of testing expertise to we can find the best one.",
-    "content": ""
+    "description": "We begin by collecting ideas - from your team, your clients, your data and our depth of testing expertise.",
+    "content": "",
+    "number": "1"
   },
   {
     "title": "Evaluate",
     "image": "assets/images/icons8-number-2-96.png",
-    "description": "Using a standardized criteria set across all of the ideas, we uncover the best test hypotheses.",
-    "content": ""
+    "description": "We apply a standardized set of criteria across all of the ideas to uncover the strongest test hypothesis.",
+    "content": "",
+    "number": "2"
   },
   {
     "title": "Measure",
     "image": "assets/images/icons8-3-c-96.png",
-    "description": "We have to test whether the idea works. We use A/B tests to measure the impact and be sure we’re on the right track.",
-    "content": ""
+    "description": "We use A/B testing to measure the impact of our solution, so we can provide actionable, data-driven recommendations.",
+    "content": "",
+    "number": "3"
   }
 ]

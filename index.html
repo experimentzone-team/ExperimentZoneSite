@@ -36,26 +36,24 @@ diagonalfill=page.heroDiagonalFill %}
 {% include services-splash.html %}
 
 <!-- Three Steps To Improving Conversion -->
-<div class="container mt-2 text-center">
+<div class="container mt-2 text-center step-splash">
   <h1>Our 3-step process to improve conversion</h1>
   <!-- <h1>Good User Experience Starts With GEM</h1> -->
-  <h4 class="mb-3">
-    Create customer-centric experiences that drive more revenue.
-  </h4>
+  <p class="mb-2 text-black">
+    Creating customer-centric experiences that drive more revenue.
+  </p>
+  <div class="green-line"></div>
   <div class="row justify-content-between">
     {% for step in site.data.steps %}
     <div class="col-12 col-md-4 col-md-4 mb-2">
-      <div class="work work-summary p-2" style="align-items: center">
+      <div class="work p-2" style="align-items: center">
         {% if step.image %}
-        <div class="work-image text-center">
-          <img
-            alt="Our 3-step process to improve conversion"
-            src="{{ step.image | relative_url}}"
-          />
+        <div class="number-image text-center mb-2">
+          <h1 class="number mb-0">{{ step.number }}</h1>
         </div>
         {% endif %}
         <div>
-          <h2 style="color: #12bf98">{{ step.title }}</h2>
+          <h2 class="mb-0" style="color: #663db1">{{ step.title }}</h2>
         </div>
         {% if step.description %}
         <div class="work-description p-2">
