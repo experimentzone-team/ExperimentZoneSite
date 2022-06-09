@@ -45,18 +45,17 @@ diagonalfill=page.heroDiagonalFill %}
   <div class="green-line"></div>
   <div class="row justify-content-between">
     {% for step in site.data.steps %}
-    <div class="col-12 col-md-4 col-md-4 mb-2">
-      <div class="work p-2" style="align-items: center">
+    <div class="col-12 col-md-4 mb-2">
+      <div class="work p-0 p-md-2 d-flex justify-content-between d-md-block">
         {% if step.image %}
-        <div class="number-image text-center mb-2">
+        <div class="number-image col-md-12 text-center mb-2 ml-1 ml-md-auto">
           <h1 class="number mb-0">{{ step.number }}</h1>
         </div>
-        {% endif %}
-        <div>
-          <h2 class="mb-0" style="color: #663db1">{{ step.title }}</h2>
-        </div>
-        {% if step.description %}
-        <div class="work-description p-2">
+        {% endif %} {% if step.description %}
+        <div
+          class="work-description col-8 col-md-12 text-left text-md-center pl-2"
+        >
+          <h2 style="color: #663db1">{{ step.title }}</h2>
           <p>{{ step.description }}</p>
         </div>
         {% endif %}
