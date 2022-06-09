@@ -307,17 +307,8 @@ works.size > 0 and site.params.homepage.show_work_section %}
     </div>
   </div>
 </div>
-{% endif %} {% include hypothesis-library.html %}
-
-<div class="strip strip-secondary">
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 1000 100"
-    preserveAspectRatio="none"
-  >
-    <path class="svg-white" d="M738,99l262-93V0H0v5.6L738,99z"></path>
-  </svg>
-</div>
+{% endif %} {% include hypothesis-library.html %} {% include
+footer-diagonal-white.html %}
 
 <script
   type="text/javascript"
@@ -328,7 +319,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
   src="{{ site.baseurl }}/assets/js/pages/home.js"
 ></script>
 
-{% include contact-cta.html heading=site.params.contact_cta.heading
+{% include contact-form-splash.html heading=site.params.contact_cta.heading
 subheading=site.params.contact_cta.subheading
 button_url=site.params.contact_cta.button_url
 button_text=site.params.contact_cta.button_text %}
