@@ -250,17 +250,19 @@ if services.size > 0 and site.params.homepage.show_services_section %}
 <!-- Work Section -->
 {% assign works = site.work | where: "featured", true | sort:'weight' %} {% if
 works.size > 0 and site.params.homepage.show_work_section %}
-<div class="home-work strip strip-grey">
+<div class="home-work strip strip-secondary pt-5">
   <div class="container pb-10">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="text-center mb-3">
-          {{ site.params.homepage.work_section_heading }}
-        </h2>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <h2 class="text-center text-white">Case Studies</h2>
+        <h3 class="text-center text-white mb-3 font-weight-normal">
+          Explore our portfolio to learn more about how our work has achieved
+          “wins” for our clients who come from a variety of disciplines.
+        </h3>
       </div>
     </div>
     <div class="row justify-content-center">
-      {% for work in works %}
+      {% for work in works limit:4 %}
       <div class="col-12 col-md-6 mb-2">
         <div class="work work-summary">
           {% if work.heroBackground %}
@@ -290,9 +292,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
               <p>{{ work.heroSubHeading }}</p>
             </div>
             <div class="post-link">
-              <a class="post-read-more" href="{{ work.url | relative_url }}"
-                >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
-              ></a>
+              <a class="link" href="{{ work.url | relative_url }}">Read More</a>
             </div>
           </div>
         </div>

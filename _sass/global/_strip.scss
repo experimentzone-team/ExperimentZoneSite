@@ -21,6 +21,12 @@
 .strip-bg-primary {
   background-color: $primary;
 }
+
+.strip-secondary,
+.strip-bg-secondary {
+  background-color: $secondary;
+}
+
 .strip-light-purple,
 .strip-bg-light-purple {
   background-color: $light-purple;
