@@ -44,7 +44,7 @@ button_text=site.params.GTE_site_cta.button_text %} -->
 
 <div class="container pb-6 mt-6">
   <div class="row">
-    {% for podcast in site.podcasts %}
+    {% for podcast in site.podcasts reversed %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
         {% if podcast.heroBackground %}
