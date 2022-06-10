@@ -186,7 +186,7 @@ html {
   display: none;
 }
 #main-menu-mobile .dropdown.show {
-  margin-bottom: 105px;
+  z-index: 1100;
 }
 
 #main-menu-mobile .dropdown-menu.show {

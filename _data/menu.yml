@@ -4,7 +4,7 @@ main:
     weight: 2
     id: services
     dropdown:
-      - label: Conversion Strategy and Testing
+      - label: Conversion Strategy
         url: /services/conversion-strategy-and-testing/
       - label: Site Experience Audit
         url: /services/site-experience-audit/
