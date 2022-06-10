@@ -42,6 +42,9 @@
     font-family: $font-family-heading;
     font-size: 1.8rem;
     font-weight: 400;
+    a {
+      color: $secondary;
+    }
   }
   .post-description {
     font-size: 1.3rem;

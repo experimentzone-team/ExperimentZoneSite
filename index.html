@@ -5,12 +5,14 @@ description: "Optimize your user experience to gain more revenue and get insight
 body_classes: page-home
 header_classes: header-transparent
 heroHeading: "Better Experiences,<br> More Revenue"
-heroSubHeading: "Unlock more value from your website by optimizing your user experience"
+heroSubHeading: "Unlock more value from your website with conversion rate optimization (CRO)"
 heroBackground: ""
 heroBackgroundOverlay: false
+cta-button: "Get Started"
+cta-button-href: "/contact/"
 heroHeight: 500
 heroDiagonal: true
-heroDiagonalFill: "#f2f0f5"
+heroDiagonalFill: "#fff"
 meta_title: "Conversion Rate Optimization Agency/Company in USA"
 meta_description: "Optimize your website’s user experience to increase your revenue. Hire a top digital optimization manager from the best CRO agency/firm in USA today."
 meta_og_title: "Conversion Rate Optimization Agency/Company in USA"
@@ -23,58 +25,37 @@ meta_og_description: "Optimize your website’s user experience to increase your
 <!-- Hero Image Partial-->
 {% include hero-image.html background=null fullscreen=page.heroFullscreen
 height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
-overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+overlay=page.heroBackgroundOverlay cta-button=page.cta-button
+cta-button-href=page.cta-button-href diagonal=page.heroDiagonal
 diagonalfill=page.heroDiagonalFill %}
 
-<div class="strip strip-grey">
-  <div class="container pt-5 pb-5 text-center">
-    <h1 style="font-size: 3.5em">Why Experiment Zone?</h1>
-    <h3>Learn More About <a href="/about/">Our Mission</a></h3>
-    <div class="row justify-content-center">
-      {% for feature in site.data.features %}
-      <div class="col-12 col-sm-4 col-md-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image">
-            <img
-              alt="{{ feature.title }} logo"
-              src="{{ feature.image | relative_url}}"
-            />
-          </div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <p>{{feature.description}}</p>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
+<!-- Why EZ splash -->
+{% include why-experiment-zone-splash-white.html %}
+
+<!-- Splash One Services -->
+{% include services-splash.html %}
 
 <!-- Three Steps To Improving Conversion -->
-<div class="container mt-2 text-center">
+<div class="container mt-2 text-center step-splash">
   <h1>Our 3-step process to improve conversion</h1>
   <!-- <h1>Good User Experience Starts With GEM</h1> -->
-  <h4 class="mb-3">
-    Create customer-centric experiences that drive more revenue.
-  </h4>
+  <p class="mb-2 text-black">
+    Creating customer-centric experiences that drive more revenue.
+  </p>
+  <div class="green-line"></div>
   <div class="row justify-content-between">
     {% for step in site.data.steps %}
-    <div class="col-12 col-md-4 col-md-4 mb-2">
-      <div class="work work-summary p-2" style="align-items: center">
+    <div class="col-12 col-md-4 mb-2">
+      <div class="work p-0 p-md-2 d-flex justify-content-between d-md-block">
         {% if step.image %}
-        <div class="work-image text-center">
-          <img
-            alt="Our 3-step process to improve conversion"
-            src="{{ step.image | relative_url}}"
-          />
+        <div class="number-image col-md-12 text-center mb-2 ml-1 ml-md-auto">
+          <h1 class="number mb-0">{{ step.number }}</h1>
         </div>
-        {% endif %}
-        <div>
-          <h2 style="color: #12bf98">{{ step.title }}</h2>
-        </div>
-        {% if step.description %}
-        <div class="work-description p-2">
+        {% endif %} {% if step.description %}
+        <div
+          class="work-description col-8 col-md-12 text-left text-md-center pl-2"
+        >
+          <h2 style="color: #663db1">{{ step.title }}</h2>
           <p>{{ step.description }}</p>
         </div>
         {% endif %}
@@ -83,10 +64,6 @@ diagonalfill=page.heroDiagonalFill %}
     {% endfor %}
   </div>
 </div>
-
-<!-- Splash One -->
-
-{% include services-splash.html %}
 
 <!-- Services -->
 {% assign services = site.services | where: "core", true | sort:'weight' %} {%
@@ -191,20 +168,33 @@ if services.size > 0 and site.params.homepage.show_services_section %}
         <h2 class="text-center mb-3">Testimonials</h2>
       </div>
     </div>
+<<<<<<< HEAD
   
     <div class="row">
       <div class="col-12">
         <script type="text/javascript" src="https://widget.clutch.co/static/js/widget.js"></script>
         <div class="clutch-widget" data-url="https://widget.clutch.co" data-widget-type="12" data-height="375" data-clutchcompany-id="1495686"></div>
+=======
+    <div class="row">
+      <div class="col-12">
+        <script
+          type="text/javascript"
+          src="https://widget.clutch.co/static/js/widget.js"
+        ></script>
+        <div
+          class="clutch-widget"
+          data-url="https://widget.clutch.co"
+          data-widget-type="12"
+          data-height="375"
+          data-clutchcompany-id="1495686"
+        ></div>
+>>>>>>> dev
       </div>
     </div>
   </div>
 </div>
 
-
 <!-- New testimonial end-->
-
-
 
 <!-- Old testimonial Splash Two --
 {% if site.params.homepage.show_splash_section_two %}
@@ -243,7 +233,6 @@ if services.size > 0 and site.params.homepage.show_services_section %}
 
 -- Old testimonial Splash Two ends-->
 
-
 <!-- Partners
 {% if site.data.partners.size > 0 and site.params.homepage.show_partners %}
 <div class="strip strip-white home-partners">
@@ -269,17 +258,19 @@ if services.size > 0 and site.params.homepage.show_services_section %}
 <!-- Work Section -->
 {% assign works = site.work | where: "featured", true | sort:'weight' %} {% if
 works.size > 0 and site.params.homepage.show_work_section %}
-<div class="home-work strip strip-grey">
+<div class="home-work strip strip-secondary pt-5">
   <div class="container pb-10">
-    <div class="row">
-      <div class="col-12">
-        <h2 class="text-center mb-3">
-          {{ site.params.homepage.work_section_heading }}
-        </h2>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        <h2 class="text-center text-white">Case Studies</h2>
+        <h3 class="text-center text-white mb-3 font-weight-normal">
+          Explore our portfolio to learn more about how our work has achieved
+          “wins” for our clients who come from a variety of disciplines.
+        </h3>
       </div>
     </div>
     <div class="row justify-content-center">
-      {% for work in works %}
+      {% for work in works limit:4 %}
       <div class="col-12 col-md-6 mb-2">
         <div class="work work-summary">
           {% if work.heroBackground %}
@@ -309,9 +300,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
               <p>{{ work.heroSubHeading }}</p>
             </div>
             <div class="post-link">
-              <a class="post-read-more" href="{{ work.url | relative_url }}"
-                >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
-              ></a>
+              <a class="link" href="{{ work.url | relative_url }}">Read More</a>
             </div>
           </div>
         </div>
@@ -326,17 +315,8 @@ works.size > 0 and site.params.homepage.show_work_section %}
     </div>
   </div>
 </div>
-{% endif %} {% include hypothesis-library.html %}
-
-<div class="strip strip-secondary">
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 1000 100"
-    preserveAspectRatio="none"
-  >
-    <path class="svg-white" d="M738,99l262-93V0H0v5.6L738,99z"></path>
-  </svg>
-</div>
+{% endif %} {% include hypothesis-library.html %} {% include
+footer-diagonal-white.html %}
 
 <script
   type="text/javascript"
@@ -347,7 +327,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
   src="{{ site.baseurl }}/assets/js/pages/home.js"
 ></script>
 
-{% include contact-cta.html heading=site.params.contact_cta.heading
+{% include contact-form-splash.html heading=site.params.contact_cta.heading
 subheading=site.params.contact_cta.subheading
 button_url=site.params.contact_cta.button_url
 button_text=site.params.contact_cta.button_text %}

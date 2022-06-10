@@ -1,12 +1,75 @@
 .page-home {
   .splash {
     h2 {
-      font-size: 2.6rem;
+      font-size: 1.6rem;
       line-height: 1.2;
       margin-bottom: 30px;
       margin-top: 20px;
       @include media-breakpoint-up(md) {
         margin-top: 0;
+      }
+    }
+    h3 {
+      a {
+        color: $secondary;
+        text-transform: uppercase;
+      }
+    }
+    p {
+      color: #000;
+      font-size: initial;
+      line-height: initial;
+    }
+    .work-image {
+      flex: 0 0 auto;
+      display: flex;
+      text-align: center;
+      background-color: $light-purple;
+      border-radius: 50%;
+      padding: 20px;
+    }
+  }
+  .step-splash {
+    .green-line {
+      width: 100%;
+      border-left: solid 4px $primary;
+      height: 500px;
+      position: absolute;
+      left: 21.5%;
+      margin: 20px 0px;
+      display: none;
+      @include media-breakpoint-up(md) {
+        border: solid 2px $primary;
+        display: block;
+        width: 75%;
+        height: 0px;
+        bottom: -96px;
+        margin: auto;
+        position: relative;
+        left: 0;
+      }
+    }
+    .number-image {
+      background-color: #eee8f6;
+      border-radius: 50%;
+      padding: 20px;
+      height: 115px;
+      width: 115px;
+      @include media-breakpoint-up(md) {
+        display: block;
+        margin: auto;
+        width: 150px;
+        height: 150px;
+      }
+    }
+    .number {
+      font-size: 4rem;
+      color: $secondary;
+      line-height: 75px;
+      width: 75px;
+      @include media-breakpoint-up(md) {
+        line-height: 1.6;
+        width: auto;
       }
     }
   }

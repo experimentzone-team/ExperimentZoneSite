@@ -1,13 +1,13 @@
 $color-main: $primary;
-$color-active: #fff;
-$color-link: #fff;
+$color-active: #000;
+$color-link: #000;
 
 $button-height: 27px;
 $button-width: 35px;
 
 .main-menu-mobile {
   position: fixed;
-  background: $primary;
+  background: $light-purple;
   top: 0;
   left: 0;
   width: 100%;
@@ -65,7 +65,7 @@ $button-width: 35px;
         text-decoration: none;
         overflow: hidden;
         &:hover {
-          opacity: 0.7;
+          opacity: 1;
         }
       }
     }

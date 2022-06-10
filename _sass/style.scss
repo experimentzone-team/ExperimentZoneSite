@@ -3,7 +3,8 @@
 
 // Variables
 $primary: #00b187;
-$secondary: #6f42b7;
+$secondary: #663db1;
+$light-purple: #eee8f6;
 $grey: #f2f0f5;
 $link: #12bf98;
 $font-family-base: "Lato", Arial, sans-serif, -apple-system;
@@ -181,14 +182,18 @@ html {
 }
 
 // Mobile navigation dropdown styling
+#main-menu-mobile .dropdown-menu {
+  display: none;
+}
 #main-menu-mobile .dropdown.show {
   margin-bottom: 105px;
 }
 
 #main-menu-mobile .dropdown-menu.show {
+  display: block;
   width: 100%;
-  background-color: #00b187;
-  color: white;
+  background-color: white;
+  color: #000;
   border: solid white 2px;
   font-size: 25px;
 }

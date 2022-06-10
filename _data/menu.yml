@@ -1,4 +1,5 @@
 main:
+<<<<<<< HEAD
   - name: FREE CRO Report
     url: /giveaways/report_card/
     weight: 1
@@ -15,15 +16,20 @@ main:
         url: /services/conversion-audit/
       - label: All Services
         url: /services/
+=======
+  - name: What we do
+    url: /services/
+    weight: 1
+>>>>>>> dev
   - name: Case Studies
     url: /work/
-    weight: 3
+    weight: 2
   # # - name: Team
   # #   url: /team/
   #   weight: 3
   - name: Resources
     url: /blog/
-    weight: 4
+    weight: 3
     id: resources
     dropdown:
       - label: Blog
@@ -35,10 +41,10 @@ main:
   #   weight: 4
   - name: About
     url: /about/
-    weight: 5
+    weight: 4
   - name: Contact
     url: /contact/
-    weight: 6
+    weight: 5
 footer_primary:
   - name: Hypothesis Library Product
     url: https://hypothesislibrary.com/
@@ -70,10 +76,10 @@ footer_secondary:
     weight: 3
   - name: Website Leads
     url: /cro-for-lead-generation/
-    weight: 3
+    weight: 4
   - name: SaaS Business
     url: /cro-for-SaaS/
-    weight: 3
+    weight: 5
 footer_thirdly:
   - name: Privacy Policy
     url: /support/privacy
@@ -82,5 +88,5 @@ footer_thirdly:
     url: /support/faq
     weight: 1
   - name: Icons from icons8.com
-    url: https://icons8.com/icon/
+    url: https://icons8.com/
     weight: 2

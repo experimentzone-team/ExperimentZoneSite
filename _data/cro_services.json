@@ -11,20 +11,20 @@
     "image": "assets/images/icons8-pass-fail-96.png",
     "description": "Make data driven decisions with confidence.",
     "content": "",
-    "url": "/services/cro/"
+    "url": "/services/conversion-strategy-and-testing/"
   },
   {
     "title": "User Research",
     "image": "assets/images/icons8-graph-report-96.png",
     "description": "Understand your customers and their pain points.",
     "content": "",
-    "url": "/services/user-research-analytics/"
+    "url": "/services/usability-evaluation/"
   },
   {
     "title": "Analytics",
     "image": "assets/images/services/icons8-google_analytics_logo.png",
     "description": "Track visitors behavior and uncover opportunities.",
     "content": "",
-    "url": "/services/user-research-analytics/"
+    "url": "/services/site-experience-audit/"
   }
 ]

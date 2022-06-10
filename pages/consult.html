@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Want to improve your conversion rates?
-subtitle: Schedule your Free Conversion Consult today.
+subtitle: Schedule your FREE 15-minute consult today
 body_classes: page-services-list
 meta_title: "Free Conversion Rate Optimization Consult"
 meta_description: "Free Conversion Rate Optimization Consult | Experiment Zone"
@@ -18,11 +18,7 @@ meta_og_description: "Free Conversion Rate Optimization Consult | Experiment Zon
   }
 </style>
 
-<div
-  class="intro pb-0 pt-0"
-  id="free-consult-form"
-  style="background-color: #00b187"
->
+<div class="intro strip strip-secondary pb-0 pt-0" id="free-consult-form">
   <div class="container">
     <div class="row align-items-center justify-content-center">
       <div class="col-11 col-md-6 mt-10">
@@ -41,30 +37,7 @@ meta_og_description: "Free Conversion Rate Optimization Consult | Experiment Zon
   </div>
 </div>
 
-<div class="strip strip-grey">
-  <div class="container pt-5 pb-5 text-center">
-    <h1>Why Experiment Zone?</h1>
-    <h3>Learn More About <a href="/about/">Our Mission</a></h3>
-    <div class="row justify-content-center">
-      {% for feature in site.data.features %}
-      <div class="col-12 col-sm-4 col-md-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image">
-            <img
-              alt="{{ feature.title }} logo"
-              src="{{ feature.image | relative_url}}"
-            />
-          </div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <p>{{feature.description}}</p>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
+{% include why-experiment-zone-splash-white.html %}
 
 <!-- Splash AJ -->
 <div class="strip strip-secondary pt-5 pb-2 splash splash-one pb-5">
@@ -74,19 +47,7 @@ meta_og_description: "Free Conversion Rate Optimization Consult | Experiment Zon
         <img class="img-fluid" src="../assets/images/AJDavis-Headshot.jpg" />
       </div>
       <div
-        class="
-          col-12
-          {%
-          if
-          site.params.homepage.splash_one_image
-          %}col-md-5{%
-          else
-          %}col-md-12{%
-          endif
-          %}
-          offset-md-1
-          team-summary
-        "
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-5{% else %}col-md-12{% endif %} offset-md-1 team-summary"
       >
         <h2>What you'll get from our free consultation</h2>
         <ul class="pl-2" style="list-style: disc">
@@ -131,17 +92,7 @@ meta_og_description: "Free Conversion Rate Optimization Consult | Experiment Zon
       </div>
       {% endif %}
       <div
-        class="
-          col-12
-          {%
-          if
-          site.params.homepage.splash_one_image
-          %}col-md-4{%
-          else
-          %}col-md-12{%
-          endif
-          %}
-        "
+        class="col-12 {% if site.params.homepage.splash_one_image %}col-md-4{% else %}col-md-12{% endif %}"
       >
         {% if site.params.homepage.splash_two_heading %}
         <h2>{{ site.params.homepage.splash_two_heading }}</h2>

@@ -48,13 +48,19 @@
           padding: 0;
           font-size: 0.9rem;
           font-weight: 400;
+<<<<<<< HEAD
           /*text-transform: uppercase;*/
           color: $primary;
+=======
+          text-transform: uppercase;
+          color: #000;
+>>>>>>> dev
           padding: 10px 14px 10px 14px;
+        }
+        a.button-secondary {
           text-decoration: none;
-          &:hover {
-            opacity: 0.7;
-          }
+          text-decoration-thickness: 1.5px;
+          text-underline-offset: 3px;
         }
       }
       li.active {
@@ -163,17 +169,17 @@
   background-color: transparent;
   box-shadow: none;
   .hamburger {
-    color: white;
+    color: #000;
   }
   .logos {
     .logo {
       display: none;
       @include media-breakpoint-up(sm) {
-        display: none;
+        display: inline-block;
       }
     }
     .logo-mobile {
-      display: none;
+      display: inline-block;
       @include media-breakpoint-up(sm) {
         display: none;
       }
@@ -181,11 +187,11 @@
     .logo-invert {
       display: none;
       @include media-breakpoint-up(sm) {
-        display: inline-block;
+        display: none;
       }
     }
     .logo-invert-mobile {
-      display: inline-block;
+      display: none;
       @include media-breakpoint-up(sm) {
         display: none;
       }
@@ -195,17 +201,23 @@
     > ul {
       > li {
         > a {
-          color: white;
+          color: #000;
           &:hover {
-            color: white;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
           }
         }
       }
       > li.active {
         > a {
-          color: white;
+          color: #000;
           &:hover {
-            color: white;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 3px;
+            text-underline-offset: 5px;
           }
         }
       }
@@ -225,7 +237,7 @@
   // transition: all 500ms cubic-bezier(0.55, 0, 0.1, 1);
   box-shadow: 0 1px 6px 0 rgba(36, 50, 66, 0.15);
   .hamburger {
-    color: $primary;
+    color: #000;
   }
   .logos {
     .logo {
@@ -257,17 +269,23 @@
     > ul {
       > li {
         > a {
-          color: $primary;
+          color: #000;
           &:hover {
-            color: $primary;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
           }
         }
       }
       > li.active {
         > a {
-          color: $primary;
+          color: #000;
           &:hover {
-            color: $primary;
+            color: #000;
+            text-decoration: underline;
+            text-decoration-thickness: 1.5px;
+            text-underline-offset: 3px;
           }
         }
       }
