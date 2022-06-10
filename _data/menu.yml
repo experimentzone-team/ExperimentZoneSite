@@ -1,7 +1,4 @@
 main:
-  - name: FREE CRO Report
-    url: /giveaways/report_card/
-    weight: 1
   - name: What We Do
     url: /services/
     weight: 2
