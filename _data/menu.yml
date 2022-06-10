@@ -1,5 +1,4 @@
 main:
-<<<<<<< HEAD
   - name: FREE CRO Report
     url: /giveaways/report_card/
     weight: 1
@@ -16,11 +15,6 @@ main:
         url: /services/conversion-audit/
       - label: All Services
         url: /services/
-=======
-  - name: What we do
-    url: /services/
-    weight: 1
->>>>>>> dev
   - name: Case Studies
     url: /work/
     weight: 2
