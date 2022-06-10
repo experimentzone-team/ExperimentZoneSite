@@ -27,7 +27,10 @@ diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
       <div
         class="col-12 col-md-8 col-lg-5 {% if page.heroFullscreen == nil %}{% endif %}"
       >
-      <h2 class="text-center mt-3 mt-md-0 mb-3">{% if page.free-consult == true %}Schedule your FREE consult call{% else%} Schedule your consult call{% endif %}</h2>
+        <h2 class="text-center mt-3 mt-md-0 mb-3">
+          {% if page.free-consult == true %}Schedule your FREE consult call{%
+          else%} Schedule your consult call{% endif %}
+        </h2>
         {% include service-sign-up.html collection="services" %}
       </div>
       {%endif%}
@@ -47,7 +50,7 @@ diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
   </svg>
 </div>
 
-{% include contact-cta.html heading=site.params.contact_cta.heading
+{% include contact-form-splash.html heading=site.params.contact_cta.heading
 subheading=site.params.contact_cta.subheading
 button_url=site.params.contact_cta.button_url
 button_text=site.params.contact_cta.button_text %}
