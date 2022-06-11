@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Has the CRO market matured as a 'must have' solution?"
+title: "As Digital Marketing Matures, the Role of CRO Solutions Become More Critical"
 description: "A lot of core business decisions are starting to look at experimentation programs to inform higher-level strategy. In this podcast, I discuss how, as a market matures, the role of CRO solutions changes."
 permalink: /podcast/big-lift-podcast
 tags: ["podcast","Conversion Rate Optimization", "CRO", "CRO Consulting"]
@@ -13,11 +13,11 @@ cardImageHeight: small
 heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "Has the CRO market matured as a 'must have' solution?"
+meta_title: "As Digital Marketing Matures, the Role of CRO Solutions Become More Critical"
 meta_description: "A lot of core business decisions are starting to look at experimentation programs to inform higher-level strategy. In this podcast, I ss how, as a market matures, the role of CRO solutions changes."
 <br/><br/>meta_author: "
 **AJ Davis"
-meta**_og_title: "Has the CRO market matured as a 'must have' solution?"
+meta**_og_title: "As Digital Marketing Matures, the Role of CRO Solutions Become More Critical"
 meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/big-lift-podcast"
 meta_og_image: "http://experimentzone.com/assets/images/Experiment-Zone-social-logo.jpg"
@@ -143,9 +143,10 @@ I think that you're onto something that's generally too true as you're able to s
 I'm going to take you back to when you started Experiment Zone there back in March 2017. Because that landscape must have been quite different at that point, it was very little expertise that was around. There was Google who was announcing their free tier product which must have been, I suppose, generating some hype, that A/B testing, as it was really known then, was actually going to launch at some very large accelerated viewpoint. 
 
 Now I go back to something, which is earlier in my career, we had the same thing with desktop publishing many, many years ago in the 80s, where everybody's got to become an expert in desktop publishing, it never really took off in-house, it was still the agencies that look after that. What was it that stimulated you to go off and do your own thing?
+
 <br/>
 
-**AJ Davis  10:3**5  
+**AJ Davis  10:35**  
 That's a great question. One of the things that were a hypothesis I had, as a researcher at Google that has since changed, or I've learned and gathered some single on otherwise, is the idea that you know, A/B testing should be for everyone. The idea of a WYSIWYG where people can drag and drop features, make really smart test ideas, and have easy-to-read reports. I still believe that's true. 
 
 Having worked with some major companies, also smaller companies that are just quickly growing and are trying to take advantage of that increase in traffic. It's a really hard puzzle to solve, to figure out what to do with it, and to have that dedicated focus. I think one of the things that motivated me to have my own agency is this intersection of research and A/B testing. 
@@ -155,7 +156,8 @@ Oftentimes, I've worked in both agencies that strictly do A/B testing and agenci
 For me, it's just a really fun intersection. I love working with teams that have maybe tested a little bit or have tried some things out, but are really looking to level it up and learn not just about what works or not for their visitors becoming customers, but also things that can apply more broadly to their business strategy.
 <br/><br/>
 
-**John Fleming  12:24** 
+**John Fleming  12:24**
+
 I think there's a lot to do with UX and design and flow and things like that, which can only be measured really by testing different variants. I think that's an area where there's a hidden benefit with regard to CRO because not only can it deliver value increase in return on investment, but it also can help you get your site better to make less friction. This I suppose, is one way of describing it on your site, and therefore improving the overall customer experience, and that can be brought back into developing other areas of your site as well.
 
 <br/>
