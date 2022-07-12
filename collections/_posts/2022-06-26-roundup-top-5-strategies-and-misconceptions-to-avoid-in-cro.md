@@ -138,12 +138,18 @@ Many technology companies enabling A/B testing use this as an example of demos b
 If that's the A/B test you're running, you don't know what problem you're trying to solve and you’re not likely to impact customer behavior on your website. 
  
 
-<br/><br/><br/>
+<br/>
+
+*Content originally featured on our partner site [getmasion.io](https://getmason.io/blog/post/top-5-strategies-beyond-a-b-testing-common-misconceptions-about-cro-experimentation)*
+
+<br/><br/>
 
 # Conclusion
 In the evolving and growing CRO industry, you can learn from common misconceptions so your optimization program won’t fail. You can also improve the success of your optimization program by working with leading industry experts, such as partnering with seasoned industry experts.
 
+
 [Experiment Zone](https://experimentzone.com/) is a leading optimization agency based in Austin, Texas. We help companies identify opportunities and evaluate ideas using data so that they can improve customer experiences and increase sales. [Contact us today](https://experimentzone.com/contact/) to get started with optimization.
+
 
 
 {% include contact-page-cta.html %}

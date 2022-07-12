@@ -24,7 +24,7 @@
             <div class="col-12 col-md-3">
               <h3>Giveaways</h3>
               <ul>
-                {% for giveaway in giveaways limit:4 %}
+                {% for giveaway in giveaways limit:6 %}
                 <li><a href="{{ giveaway.url }}">{{ giveaway.title }}</a></li>
                 {% endfor %}
               </ul>
