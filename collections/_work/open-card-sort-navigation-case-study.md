@@ -1,12 +1,12 @@
 ---
-title: "Case Study: Open Cart Sort Navigation"
-description: The research was incredibly powerful and validates part of what we were planning to do. The report was so well set up and easy to digest.
+title: "Case Study: Open Card Sort Navigation"
+description: A research effort that laid the foundation for a new, more efficient navigation for the client’s website.
 date: 2022-07-18T15:22:30+10:00
 draft: false
 featured: true
 weight: 7
-heroHeading: "Case Study: Open Cart Sort Navigation"
-heroSubHeading: "The research was incredibly powerful and validates part of what we were planning to do. The report was so well set up and easy to digest."
+heroHeading: "Case Study: Open Card Sort Navigation"
+heroSubHeading: "A research effort that laid the foundation for a new, more efficient navigation for the client’s website."
 heroBackground: "assets/images/work/cart-sort-cover.jpg"
 backgroundOverlay: true
 heroHeight: 400
