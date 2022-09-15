@@ -1,6 +1,6 @@
 ---
 title: "Case Study: Evaluating the mobile visitor experience of an e-commerce website"
-description:  Contextual findings provided the clarity our client was looking for on the pain points of the current mobile shopping experience ..
+description:  Contextual findings provided the clarity our client was looking for on the pain points of the current mobile shopping experience .
 date: 2022-07-18T15:22:30+10:00
 draft: false
 featured: true
