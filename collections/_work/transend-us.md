@@ -8,10 +8,10 @@ featured: true
 weight: 1
 heroHeading: "Case Study: Transend.us"
 heroSubHeading: "Site Experience Audit using the Baymard Institute criteria to help a lead automotive industry client identify user flow improvement opportunities ahead of website redesign"
-heroBackground: "assets/images/work/transend.jpg"
+heroBackground: "assets/images/work/transend.png"
 backgroundOverlay: true
 heroHeight: 400
-image: "assets/images/work/transend.jpg"
+image: "assets/images/work/transend.png"
 custom_css: case-study
 header_classes: header-transparent
 ---
