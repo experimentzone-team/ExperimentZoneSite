@@ -13,7 +13,7 @@ Here are the commonly asked questions about testing, CRO, and Experiment Zone. H
 
 ### There are hundreds of CRO tools on the market. Why would we use Experiment Zone?
 
-Existing [CRO](/services/cro/) tools fit into two categories. There are tools that run the test and collect the data, such as Optimizely and Google Optimize. There are tools that help you get to know what your customers are doing (such as <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tools, surveys, or <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> tools).
+Existing [CRO](/services/conversion-strategy-and-testing/) tools fit into two categories. There are tools that run the test and collect the data, such as Optimizely and Google Optimize. There are tools that help you get to know what your customers are doing (such as <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Click-Tracking">click tracking</a> tools, surveys, or <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Analytics">analytics</a> tools).
 
 We stand apart from these two categories. We are here to support and optimize your CRO Program itself. We’re the tool for before and after the tests.
 

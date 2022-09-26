@@ -2,7 +2,7 @@
 layout: post
 title: Unlocking the power of User Experience to boost your nonprofit donations
 description: "You can achieve your nonprofit fundraising goals with these UX design methods."
-permalink: blog/UX-boost-nonprofit-donations
+permalink: blog/UX-boost-nonprofit-donations-research-case-study
 tags: ["Conversion Rate Optimization", "UX Design", "Nonprofit", "Donations"]
 categories:
   ["Conversion Rate Optimization", "UX Design", "Nonprofit", "Donations"]
@@ -20,7 +20,7 @@ meta_description: "You can achieve your nonprofit fundraising goals with these U
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com/blog/UX-boost-nonprofit-donations"
+meta_og_url: "https://experimentzone.com/blog/UX-boost-nonprofit-donations-research-case-study"
 meta_og_image: "https://experimentzone.com/assets/images/posts/nonprofit-donations.jpg"
 meta_og_description: "You can achieve your nonprofit fundraising goals with these UX design methods."
 custom_css: blog-hero
