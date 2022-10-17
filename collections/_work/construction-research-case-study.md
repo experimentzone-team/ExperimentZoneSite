@@ -1,12 +1,12 @@
 ---
 title: "Case Study: Uncovering new market opportunities by understanding a new market segment in the construction industry"
-description:  The company was looking to identify ways to grow for the newly acquired brand, particularly seeking customer segments they were not reaching yet.
+description:  Customer interview study to help the client identify significant market opportunities to grow their offering
 date: 2022-07-18T15:22:30+10:00
 draft: false
 featured: true
 weight: 7
 heroHeading: "Case Study: Uncovering new market opportunities by understanding a new market segment in the construction industry"
-heroSubHeading: " The company was looking to identify ways to grow for the newly acquired brand, particularly seeking customer segments they were not reaching yet."
+heroSubHeading: " Customer interview study to help the client identify significant market opportunities to grow their offering"
 heroBackground: "assets/images/work/construction-cover.jpg"
 backgroundOverlay: true
 heroHeight: 400
