@@ -25,12 +25,6 @@ This was a white label project for which we partnered with another research agen
 
 The company was looking to identify ways to grow for the newly acquired brand, particularly seeking customer segments they were not reaching yet. They tapped Experiment Zone to uncover these opportunities in new markets. No previous research had been done.   
 
-The goals of our collaboration  were to:
-<ul>
-    <li>Identify what the best navigation would look like based on how visitors expect items to be organized and labeled.</li>
-    <li>Identify whether the website should have a different navigation for new vs returning visitors.</li>
-    <li>Capture feedback on the existing navigation after the open card sort, so we can identify: (1) immediate fixes to the navigation and (2) incremental improvements we should A/B test.</li>
-</ul>
 
 <br>
 
