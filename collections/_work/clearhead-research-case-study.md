@@ -14,40 +14,51 @@ custom_css: case-study
 header_classes: header-transparent
 ---
 
+**Clearhead** Partners with **Experiment Zone** to Bring Customer Feedback into their Optimization Process 
+
+<br>
+
 ## Client Background
 
-Clearhead, the digital optimization company, helps daring brands optimize their business outcomes through continuous testing and personalization.
+Clearhead, the digital optimization company, prides itself on leveraging behavioral data in developing optimization programs for its clients. Working with Fortune 500 clients such as CVS, Procter & Gamble, USAA, and other leading organizations, the stakes are high to develop digital
+experiences that serve both the customer and the bottom line. 
 
 <br>
 
 ## The Challenge
 
-Clearhead, the digital optimization company, prides itself on leveraging behavioral data in developing optimization programs for its clients. Working with Fortune 500 clients such as CVS, Procter & Gamble, USAA, and other leading organizations, the stakes are high to develop digital
-experiences that serve both the customer and the bottom line.
-
 In all projects ranging from A/B tests to full website redesigns, the Clearhead team needs to ensure they’re solving real problems with impactful and innovative solutions, not simply maintaining the status quo or copying the client’s competitors.
 
 While Clearhead has historically used both qualitative and quantitative data for their customers, they needed a consistent approach and method to bringing in customer voice research into their established optimization process.
 
+<br>
+
+## The Hypothesis
+
 With that in mind, they came to Experiment Zone with three specific objectives:
-Identify opportunities for research in Clearhead’s Problem Solution Mapping framework
-Implement a research process to maximize value for Clearhead clients
-Expand Clearhead’s research resources and provide high quality support
+<ul>
+    <li>Identify opportunities for research in Clearhead’s Problem Solution Mapping framework</li>
+    <li>Implement a research process to maximize value for Clearhead clients</li>
+    <li>Expand Clearhead’s research resources and provide high quality support</li>
+</ul>
 
 Clearhead also had the overarching goal of changing the culture to embrace a combination of qualitative and quantitative research for both Clearhead and its clients.
 
 &nbsp;
 
-## Our Strategy
+## The Solution
 
 ### Identify Research Opportunities
 
 While many clients are anxious to dive into solutions first, Clearhead believes that everything is an experiment and uses their Problem Solution Mapping (PSM) framework to orient their clients to real problems. Since everything is an experiment, there is no outright solution. Rather, there are solutions hypotheses that should be tested and validated.
 
 Experiment Zone embedded with the Clearhead teams to understand how the their Problem Solution Mapping (PSM) was working in practice and to identify opportunities to incorporate customer insights into the process. They brought in research to:
-Understand “why” a test won or lost
-Reduce risk in an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> by putting the best designs forward
-Discover external customer problems to inform solutions
+
+<ul style="list-style-type: none">
+    <li>(1) Understand “why” a test won or lost</li>
+    <li>(2) Reduce risk in an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing"><strong>A/B test</strong></a> by putting the best designs forward</li>
+    <li>(3) Discover external customer problems to inform solutions</li>
+</ul>
 
 &nbsp;
 
@@ -62,12 +73,16 @@ After creating a baseline process, Experiment Zone organized and facilitated col
 ### Expand Clearhead’s Research Resources
 
 With increased demand for research, Clearhead also leans on Experiment Zone to execute on the research studies. Experiment Zone supports research end-to-end, including:
-Setting a strategic direction for the research
-Establishing a testing protocol
-Executing on research
-Sharing outcomes and recommendations with Clearhead clients
 
-“Experiment Zone created a team out of thin air, that they steered in the right direction, all while executing on high-quality research” said Sarah Kettles, the recently hired Research Product Team Lead at Clearhead.
+<ul style="list-style-type: none">
+    <li>(1) Setting a strategic direction for the research</li>
+    <li>(2) Establishing a testing protocol</li>
+    <li>(3) Executing on research</li>
+    <li>(4) Sharing outcomes and recommendations with Clearhead clients</li>
+</ul>
+
+
+*“Experiment Zone created a team out of thin air, that they steered in the right direction, all while executing on high-quality research”* said Sarah Kettles, the recently hired Research Product Team Lead at Clearhead.
 
 &nbsp;
 
@@ -75,4 +90,4 @@ Sharing outcomes and recommendations with Clearhead clients
 
 With Experiment Zone, Clearhead is able to deliver more effective data-driven solutions that move the needle for their clients.
 
-The addition, the of research has added value to the experimentation approach at Clearhead. “Experiment Zone has been an incredible partner in establishing a research process and executing on high-quality and timely research for our clients” said Kettles. Kettles credits her team’s success to collaborating with Experiment Zone early and often. “It’s powerful when you can lean on the expertise of a partner who can bridge the gap between qualitative and quantitative approaches.”
+The addition, the of research has added value to the experimentation approach at Clearhead. *“Experiment Zone has been an incredible partner in establishing a research process and executing on high-quality and timely research for our clients”* said Kettles. Kettles credits her team’s success to collaborating with Experiment Zone early and often. *“It’s powerful when you can lean on the expertise of a partner who can bridge the gap between qualitative and quantitative approaches.”*
