@@ -14,9 +14,6 @@ custom_css: case-study
 header_classes: header-transparent
 ---
 
-**Clearhead** Partners with **Experiment Zone** to Bring Customer Feedback into their Optimization Process 
-
-<br>
 
 ## Client Background
 
