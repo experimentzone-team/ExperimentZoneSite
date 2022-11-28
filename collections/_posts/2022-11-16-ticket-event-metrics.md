@@ -110,17 +110,6 @@ Attendance rate is an event success metric that also helps you determine your ev
 
 <br/>
 
-### A “fully” optimized site
-A lot of people ask, “how long does it take to optimize my site?” **There's no such thing as a fully optimized experience**. 
-
-Customer experiences and expectations change over time, and you may have aspects of your business offering and the competitive landscape that change as well. All of these factors mean that your site can never be fully optimized. Instead, your site can outperform other experiences by understanding what visitors need and what challenges they have, and ultimately addressing those problems with meaningful solutions. 
-
-*“If you think about the web in the 90s, versus the web in the 2010s, versus now, we've all evolved and what we expect from a website. We no longer tolerate flashing banners or sites with complicated checkouts”* - AJ Davis, CEO of Experiment Zone
-
-If you optimized your site 20 years ago, it's certainly not optimized today. It’s an ever-evolving landscape that needs to be addressed with curiosity in order to stay ahead of the game.
-
-
-<br/>
 
 ### Event Check-in
 

@@ -46,6 +46,9 @@ The success of your organization can be measured by its fundraising metrics. Bas
 
 # 7 Metrics for Nonprofits to Monitor to Increase Donations
 
+<br/>
+
+## Donation Conversion Rate
 The donation conversion rate metric shows a nonprofit how successful a given fundraising campaign is at getting people to complete the desired action (e.g., donating). 
 
 > Donation Conversion Rate = (Total number of donations / Total number of donation sign-ups) x 100
@@ -60,7 +63,7 @@ Have you considered what your strategy is for optimizing donation conversion rat
 
 Click-through rate measures the percentage of people who clicked on a hyperlink in an email, or your website or donation page to make donations or perform a nonprofit activity. CTR in combination with conversion rate can help your nonprofit identify shortcomings in your marketing efforts. 
 
-Email click-through rate is most useful in planning email campaigns requiring contact list segmentation. If your conversion rate is at 1.7% (which is the average for nonprofits), you can predict the result of your next email and plan your strategy accordingly. 
+Email click-through rate is most useful in planning email campaigns requiring contact list segmentation. If your conversion rate is at 2.7% (which is the [average for nonprofits](https://www.campaignmonitor.com/resources/knowledge-base/what-are-good-email-metrics/)), you can predict the result of your next email and plan your strategy accordingly. 
 
 > Email Click-through Rate = (Unique Email Clicks / Total Number of Emails Delivered) x 100 
 
@@ -70,7 +73,7 @@ If your email CTR is low, you should consider optimizing your calls-to-action (C
 
 ## Bounce Rate
 
-Bounce rate for your website is the percentage of website visitors who immediately exit your site after viewing a page. The lower the bounce rate, the more pages your users see and the more likely they are to convert. Many nonprofits average around 60%, but anything under 50% is considered a healthy bounce rate. 
+Bounce rate for your website is the percentage of website visitors who immediately exit your site after viewing a page. The lower the bounce rate, the more pages your users see and the more likely they are to convert. Many [nonprofits average around 60%](https://impactseo.co/resources/website-analytics-for-nonprofits-5-metrics-that-will-help-you-build-success/), but [anything under 50%](https://www.square2marketing.com/blog/8-insightful-website-metrics-for-nonprofits) is considered a healthy bounce rate. 
 
 Email bounce rate is the percentage of emails sent that do not get delivered to the inbox. Whatever the reason for the bounce, it is good to track your email bounce rate so you can monitor your contact list. 
 
