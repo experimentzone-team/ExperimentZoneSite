@@ -27,8 +27,6 @@ header_classes: header-transparent
 custom_css: blog-hero
 ---
 
-<style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;} .content img {margin: 20px 0px}</style>
-
 Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on September 30, 2023. While experiments and personalizations can run until the date, any active experiences will automatically end.
 Many brands are shocked at the news that Google will no longer be supporting experimentation, especially without a specific alternate product ready to go. While Google has a history of sunsetting their A/B testing tools, they have historically launched a product to replace the previous iteration. For example, Google Optimize replaced the Google Analytic Experiments when it launched 5 years ago. 
 Google has alluded to future experimentation capabilities in their announcement: Google has a history of sunsetting and relaunching products and alludes to another A/B testing capability within GA 4 in their announcement: “. We remain committed to enabling businesses of all sizes to improve your user experiences and are investing in A/B testing in Google Analytics 4.”
