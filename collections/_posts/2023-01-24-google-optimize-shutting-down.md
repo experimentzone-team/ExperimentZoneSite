@@ -37,14 +37,14 @@ Google has alluded to future experimentation capabilities in their announcement:
 
 <br/>
 Here’s our checklist for companies currently using Google Optimize or Google Optimize 360: 
-## Mark the calendar for September 30th, 2022. 
+<b> Mark the calendar for September 30th, 2022. </b>
 Set a reminder that your experiments and personalizations will automatically end on this date.
 
 <br/>
-## Download/export your data from Google Optimize. 
+<b> Download/export your data from Google Optimize.</b>
 You can find instructions on Google Support. We recommend downloading your experimentation data in case you need to do additional analysis on your experiments after the product has sunset. 
 <br/>
-## Migrate to a new testing platform. 
+<b> Migrate to a new testing platform. </b>
 Most importantly, you have 8 months to test out different A/B testing platforms that are available. 
 
 <br/>
@@ -61,7 +61,7 @@ User experience
 We’ll continue to keep this list updated as competitors to Google Optimize react to the announcement that Google Optimize (the leading free A/B testing tool on the market) is vacating the market.
 <br/>
 
-## Alternative 1: VWO (Free and Paid Options)
+# Alternative 1: VWO (Free and Paid Options)
 In response to the Google Optimize sunset, VWO announced a new, FREE plan called their VWO Testing Starting Plan. 
 $199/month for companies with up to 100K monthly tested visitors
 $0/month for companies with up to 50K monthly tested visitors
