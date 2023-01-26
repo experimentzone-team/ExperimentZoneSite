@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Google Optimize is Shutting Down in September: What are the Next Best Alternatives for Affordable A/B Testing Tools?
+title: Google Optimize is Shutting Down in September 🙁 What are the Next Best Alternatives for Affordable A/B Testing Tools?
 description: "Many brands are shocked at the news that Google will no longer be supporting experimentation, especially without a specific alternate product ready to go."
 permalink: /blog/google-optimize-shutting-down/
-tags: ["Conversion Rate Optimization", "CRO", "CRO Consulting", "AB testing"]
+tags: ["Conversion Rate Optimization", "CRO", "CRO Consulting", "AB testing","Google Optimize"]
 categories:
-  ["Conversion Rate Optimization", "CRO", "CRO Consulting", "AB testing"]
+  ["Conversion Rate Optimization", "CRO", "CRO Consulting", "AB testing","Google Optimize"]
 author: aj_davis
-heroBackground: "assets/images/metric.jpg"
+heroBackground: "assets/images/go-sunset.png"
 backgroundOverlay: true
-cardImage: "assets/images/metric.jpg"
+cardImage: "assets/images/go-sunset.png"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 450
@@ -28,45 +28,56 @@ custom_css: blog-hero
 ---
 
 Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on September 30, 2023. While experiments and personalizations can run until the date, any active experiences will automatically end.
+
 Many brands are shocked at the news that Google will no longer be supporting experimentation, especially without a specific alternate product ready to go. While Google has a history of sunsetting their A/B testing tools, they have historically launched a product to replace the previous iteration. For example, Google Optimize replaced the Google Analytic Experiments when it launched 5 years ago. 
-Google has alluded to future experimentation capabilities in their announcement: Google has a history of sunsetting and relaunching products and alludes to another A/B testing capability within GA 4 in their announcement: “. We remain committed to enabling businesses of all sizes to improve your user experiences and are investing in A/B testing in Google Analytics 4.”
+
+Google has alluded to future experimentation capabilities in their announcement: Google has a history of sunsetting and relaunching products and alludes to another A/B testing capability within GA 4 in their announcement: “We remain committed to enabling businesses of all sizes to improve your user experiences and are investing in A/B testing in Google Analytics 4.”
 
 <br/>
 
 # What to do from now until September 30?
 
 <br/>
-Here’s our checklist for companies currently using Google Optimize or Google Optimize 360: 
-<b> Mark the calendar for September 30th, 2022. </b>
-Set a reminder that your experiments and personalizations will automatically end on this date.
+Here’s our checklist for companies currently using Google Optimize or Google Optimize 360:
 
-<br/>
-<b> Download/export your data from Google Optimize.</b>
-You can find instructions on Google Support. We recommend downloading your experimentation data in case you need to do additional analysis on your experiments after the product has sunset. 
-<br/>
-<b> Migrate to a new testing platform. </b>
-Most importantly, you have 8 months to test out different A/B testing platforms that are available. 
+- <b> Mark the calendar for September 30th, 2022.</b> Set a reminder that your experiments and personalizations will automatically end on this date.
+
+- <b> Download/export your data from Google Optimize.</b> 
+You can find [instructions on Google Support](https://support.google.com/optimize/answer/10147298#how-to-do-it). We recommend downloading your experimentation data in case you need to do additional analysis on your experiments after the product has sunset. 
+
+- <b>Migrate to a new testing platform.</b> Most importantly, you have 8 months to test out different A/B testing platforms that are available. 
 
 <br/>
 
 # How should we evaluate a testing tool (beyond price)?
 We recommend considering a number of factors in determining your next experimentation platform. Here are some criteria to start with: 
-Pricing
-Integrations with your existing analytics tool, such as Google Analytics
-Number of experiments you can conduct at a time
-Number of personalizations you can have on at a time
-User experience
+
+- Pricing
+
+- Integrations with your existing analytics tool, such as Google Analytics
+
+- Number of experiments you can conduct at a time
+
+- Number of personalizations you can have on at a time
+
+- User experience (how easy to use and onboard your team with the new tool)
+
+<br/>
 
 # Google Optimize Alternatives
 We’ll continue to keep this list updated as competitors to Google Optimize react to the announcement that Google Optimize (the leading free A/B testing tool on the market) is vacating the market.
+
 <br/>
 
-# Alternative 1: VWO (Free and Paid Options)
-In response to the Google Optimize sunset, VWO announced a new, FREE plan called their VWO Testing Starting Plan. 
+### VWO (Free and Paid Options)
+In response to the Google Optimize sunset, VWO announced a new, FREE plan called their [VWO Testing Starting Plan](https://vwo.com/blog/launching-a-free-plan-of-vwo-testing-a-better-google-optimize/). 
 $199/month for companies with up to 100K monthly tested visitors
 $0/month for companies with up to 50K monthly tested visitors
 
-Their new starter plan includes unlimited experiments, integration with Google Analytics, and the ability to run experiments on single page applications.  Read more on VWO.com.
+Their new starter plan includes unlimited experiments, integration with Google Analytics, and the ability to run experiments on single page applications. 
+
+<br/>
+
 
 
 <br/>
