@@ -124,7 +124,10 @@ Your click-through rate (CTR) is a metric that measures the percentage of people
 > CTR = (Total Number of Clicks / Total Number of Views or Impressions) x 100
 
 
-Calculating your churn rate provides clarity on how well your business is retaining customers, which is a reflection of the quality of the service the business is providing, as well as its usefulness. It will also indicate that you need to understand why your clients are leaving and where to fix your business. For your business to experience growth, you must ensure that your new subscriptions are higher than the subscriptions lost in a particular period.
+CTR can indicate the performance of ad copy, subject lines, and metadata (titles and descriptions). Increasing your click-through rate is one of the simplest and fastest ways to engage visitors at the top of the funnel, and ultimately can lead to more order conversions and sales.
+
+The CTR can be increased by improving the performance of the elements it tracks: copy, imagery, subject lines, titles, descriptions, and keywords. To achieve the best results, you need to look at each element individually and employ A/B testing to confirm that the right elements are driving higher CTRs. 
+
 
 <br/>
 
