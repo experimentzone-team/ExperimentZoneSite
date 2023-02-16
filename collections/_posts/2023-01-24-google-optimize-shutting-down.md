@@ -70,11 +70,11 @@ We’ll continue to keep this list updated as competitors to Google Optimize rea
 <br/>
 
 ### VWO (Free and Paid Options)
-In response to the Google Optimize sunset, VWO announced a new, FREE plan called their [VWO Testing Starting Plan](https://vwo.com/blog/launching-a-free-plan-of-vwo-testing-a-better-google-optimize/). 
-$199/month for companies with up to 100K monthly tested visitors
-$0/month for companies with up to 50K monthly tested visitors
+In response to the Google Optimize sunset, VWO announced a new, FREE plan called the [VWO Testing Starter Plan](https://vwo.com/blog/launching-a-free-plan-of-vwo-testing-a-better-google-optimize/) for companies with up to 50K monthly visitors.
 
-Their new starter plan includes unlimited experiments, integration with Google Analytics, and the ability to run experiments on single page applications. 
+For companies with up to 100K monthly tested visitors, the plan costs $199/month.
+
+Their new starter plan includes unlimited experiments, integration with Google Analytics, and the ability to run experiments on single page applications.
 
 <br/>
 
