@@ -28,6 +28,8 @@ custom_css: blog-hero
 
 <style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;} .content img {margin: 20px 0px}</style>
 
+*This article makes mention of Google Optimize. Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on **September 30, 2023**.... [Read More](/blog/google-optimize-shutting-down/){:target="\_blank"}
+{: .disclaimer}
 
 # Introduction - Brief History of Experiment Zone
 
@@ -41,17 +43,17 @@ Our team began our journey focused on DTC eCommerce websites and helping custome
 AJ Davis is an industry expert in user experience strategy with a proven track record for delivering true value to businesses. She is a Wellesley College alumnae with a Masters in Human Factors in Information Design from Bentley University.
 
 
-## Backstory 
+## Backstory
 
 AJ has decades of experience in UX research and Conversion Rate Optimization (CRO). AJ led optimization strategy for Fortune 500 companies during her tenure at Clearhead, including CVS, Steve Madden, and lululemon. She also created the user research practice and the team at Clearhead.
- 
+
 Prior to Clearhead, AJ was the lead UX researcher on the Google Optimize product. She was on the team from ideation at a sprint week to product launch.
 
 ## Why did she start Experiment Zone?
 
 The founder and CEO of Experiment Zone, [AJ Davis](https://experimentzone.com/team/aj-davis/), was the lead UX researcher on the Google Optimize product. As a part of her user research, she interviewed hundreds of people who did A/B testing and optimization, empowering her to understand the best processes and why companies find conversion rate optimization critical to their business.
 
-She also observed a disconnect between the teams doing A/B testing and the user research teams, which she knew she had the expertise and resolve to tackle. 
+She also observed a disconnect between the teams doing A/B testing and the user research teams, which she knew she had the expertise and resolve to tackle.
 
 AJ brought her understanding of top testing and experimentation programs and created Experiment Zone. You’ll see this lived in our values and culture at **Experiment Zone: be curious, ask the right questions, and go layers deep.** By (working with our team)[blog/9-facts-about-EZ], you get real-world answers to what's going on with your prospects and customers and will be able to resolve those issues through real-world experimentation.
 
@@ -60,20 +62,20 @@ AJ brought her understanding of top testing and experimentation programs and cre
 
 ## What do we do?
 
-Experiment Zone helps companies identify opportunities and evaluate ideas using data so that they can improve customer experiences and increase sales. We help businesses get visitors to their website to become customers. We use scientific methods and research to achieve our client's goals. 
+Experiment Zone helps companies identify opportunities and evaluate ideas using data so that they can improve customer experiences and increase sales. We help businesses get visitors to their website to become customers. We use scientific methods and research to achieve our client's goals.
 
 # Who do we help?
 
-We help online B2B and B2C businesses that want to grow their customer base – and their revenue – by providing easy to use & high-converting experiences for their online visitors. 
+We help online B2B and B2C businesses that want to grow their customer base – and their revenue – by providing easy to use & high-converting experiences for their online visitors.
 
-Our expertise spans many industries, including e-commerce/retail, health and wellness, beauty,  fashion, software (SaaS), financial and insurance services, real estate and construction, and lead generation across a myriad of additional verticals. 
+Our expertise spans many industries, including e-commerce/retail, health and wellness, beauty,  fashion, software (SaaS), financial and insurance services, real estate and construction, and lead generation across a myriad of additional verticals.
 
 
 # Our values & philosophy about experimentation and user research
 
 At Experiment Zone, we identify pain points and prioritize what to work on on the site, based on your customer input and based on where you might be falling short in your data. But we **[experiment by validating everything with an A/B test.](https://experimentzone.com/services/conversion-strategy-and-testing/)**
 
-We separate out the problem we're trying to solve from the potential solutions. **Any given solution is a hypothesis.** It's an idea that we think will have an impact. 
+We separate out the problem we're trying to solve from the potential solutions. **Any given solution is a hypothesis.** It's an idea that we think will have an impact.
 
 
 We’re not just an outsourced A/B testing agency; you can find someone who will build and run random A/B tests. We strive to be a really smart partner, to build trust and understanding of your whole business, and to work closely together to make sure we’re putting the best experiences out there for your customers.

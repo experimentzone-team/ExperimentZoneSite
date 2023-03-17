@@ -27,6 +27,11 @@ header_classes: header-transparent
 
 # Make creativity a priority in your CRO process
 
+*This article makes mention of Google Optimize. Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on **September 30, 2023**.... [Read More](/blog/google-optimize-shutting-down/){:target="\_blank"}
+{: .disclaimer}
+
+&nbsp;
+
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/1721051f"></iframe>
 
 &nbsp;
@@ -119,7 +124,7 @@ judgment on yourself. But also that sounds like something that needs to be
 
 a cultural thing that you need to have in your team, right? There's not necessarily that's that's for just one person that needs to be fostered and read by the company itself. Absolutely. It has to be something where you can if you can define the ground rules before the conversation, and then keep reinforcing them it will make it will create a safe space or create an environment where people can put those vulnerable ideas out there. They don't have to worry about whether that idea makes them seem smart or informed. But instead you explicitly state like there are no judgments, we will delay any conversation that negates these ideas. And instead take something I would borrow from improv which I do a little bit of that on the side. And for improv, what we do is we say yes, and so there's this idea of somebody has an idea, and you build on it, as opposed to saying, No, that's not true, this world doesn't have that thing to be true. And so it's even just laying ground rules like yes, standing in the conversation, as opposed to let's shoot down every reason why this is a bad idea. And when you do that, it really just creates negativity and doesn't allow people to make those more risky ideas.
 
-Unknown Speaker 8:59  
+Unknown Speaker 8:59
 Yesterday's brainstorm was so good. I really liked staffs idea of running that test on the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> buttons, making them orange will really make them stand out, don't you think?
 
 <br>

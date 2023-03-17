@@ -38,7 +38,7 @@ custom_css: blog-hero
     .iframe-container{
         position: relative;
         width: 100%;
-        padding-bottom: 56.25%; 
+        padding-bottom: 56.25%;
         height: 0;
     }
     .iframe-container iframe{
@@ -55,6 +55,9 @@ custom_css: blog-hero
 </div>
 
 &nbsp;
+
+*This article makes mention of Google Optimize. Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on **September 30, 2023**.... [Read More](/blog/google-optimize-shutting-down/){:target="\_blank"}
+{: .disclaimer}
 
 If your usual response to inconclusive test results is to move on to the next experiment, you’ll want to hear about how she and her team got a huge win after digging deeper into some flat results.
 
