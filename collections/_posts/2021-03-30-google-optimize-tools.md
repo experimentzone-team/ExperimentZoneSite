@@ -27,8 +27,8 @@ custom_css: blog-hero
 header_classes: header-transparent
 ---
 
-<p class="disclaimer">* This article makes mention of Google Optimize. Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on <strong>September 30, 2023</strong>.... <a href="/blog/google-optimize-shutting-down/">Read More</a></p>
-
+*This article makes mention of Google Optimize. Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on **September 30, 2023**.... [Read More](/blog/google-optimize-shutting-down/){:target="\_blank"}
+{: .disclaimer}
 
 ### Get More Value From Your Website and Generate More Customers With the Free Tool, Google Optimize.
 
