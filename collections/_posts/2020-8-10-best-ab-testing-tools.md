@@ -96,7 +96,7 @@ You can’t - and shouldn’t - test every idea on your website. Testing require
 
    [AB Tasty](https://www.abtasty.com/){:target="\_blank"} is a comprehensive tool for website <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. It is a user-friendly tool capable of running A/B tests as well as multivariant tests ([4.4 stars](https://www.g2.com/products/ab-tasty/reviews){:target="\_blank"} on G2).
 
-2. #### Google Optimize _Free_
+2. #### Google Optimize* _Free_ --- <span style="font: italic 1.1rem lato;">until September 30, 2023</span>
 
    [Google Optimize](https://optimize.google.com/){:target="\_blank"} offers one of the best free <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B testing</a> solutions around. You can get a lot done with the free version of these tools - if you have the team on board to know how to set up the tests and advanced tracking ([4.4 stars](https://www.g2.com/products/google-optimize/reviews){:target="\_blank"} on G2).
 

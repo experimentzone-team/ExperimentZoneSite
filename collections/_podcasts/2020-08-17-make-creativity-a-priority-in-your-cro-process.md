@@ -40,7 +40,7 @@ Curious about how to make creativity a priority in your CRO process? Our Founder
 ## Outline
 
 - Introduction (0:10)
-- Working on the user experience of Google Optimize (2:07)
+- Working on the user experience of Google Optimize* (2:07)
 - Something (10:12)
 - Other stuff (12:43)
 - Closing stuff (22:33)
@@ -49,19 +49,19 @@ Curious about how to make creativity a priority in your CRO process? Our Founder
 
 ##### Guido Jansen 0:10
 
-Today we're going to talk about how to make creativity a priority zero process, and how to level up your zero research. And we'll be doing that together with AJ Davis. AJ is an industry expert in user experience strategy with a proven track record for delivering measurable value to clients. He's the founder of optimization agency experiment zone. And before that she led optimization strategy for Fortune 500 companies during her tenure at Kia has. And she was also the lead UX researcher for a product that we all at least played around with, which is Google Optimize. My name is Peter, we also welcome to zero cafe, the podcast where I show you the behind the scenes optimization themes, and talk with their specialists about data and meaning driven optimization and implementing a culture transition and delegation. In case you missed it, in a previous episode, I spoke with somebody about why empathy is the most important skill for any professional, you can listen to that episode on the zero have a website or in the podcast app, be honest. Now, this episode of zero Cafe is made possible by our partners sites back online influences contentsquare, comfortable calm and online dialogue. Welcome to season two, Episode 33 to AJ a warm welcome to coffee. And let's start off with how you got started with UX.
+Today we're going to talk about how to make creativity a priority zero process, and how to level up your zero research. And we'll be doing that together with AJ Davis. AJ is an industry expert in user experience strategy with a proven track record for delivering measurable value to clients. He's the founder of optimization agency experiment zone. And before that she led optimization strategy for Fortune 500 companies during her tenure at Kia has. And she was also the lead UX researcher for a product that we all at least played around with, which is Google Optimize*. My name is Peter, we also welcome to zero cafe, the podcast where I show you the behind the scenes optimization themes, and talk with their specialists about data and meaning driven optimization and implementing a culture transition and delegation. In case you missed it, in a previous episode, I spoke with somebody about why empathy is the most important skill for any professional, you can listen to that episode on the zero have a website or in the podcast app, be honest. Now, this episode of zero Cafe is made possible by our partners sites back online influences contentsquare, comfortable calm and online dialogue. Welcome to season two, Episode 33 to AJ a warm welcome to coffee. And let's start off with how you got started with UX.
 
 <br>
 
 ##### AJ Davis 1:36
 
-Great, thanks for having me on. So what I do is I do <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization cross with user experience research. So I started my career as a user experience researcher. And then I moved into <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. I was working at Google for a while and I got the chance to work on the Google optimized product and to see how people do CRM and what AV testing is all about, and decided to go and do that. So I worked for a company called clear head in Austin, Texas for a while. And then I started my own owning I started my own agency called experiment then three years ago,
+Great, thanks for having me on. So what I do is I do <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization cross with user experience research. So I started my career as a user experience researcher. And then I moved into <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization. I was working at Google for a while and I got the chance to work on the Google optimize* product and to see how people do CRM and what AV testing is all about, and decided to go and do that. So I worked for a company called clear head in Austin, Texas for a while. And then I started my own owning I started my own agency called experiment then three years ago,
 
 <br>
 
 ##### Guido Jansen 2:07
 
-what would stand out the most if you if you think back on looking at how people use Optimizely or sorry, Google Optimize? What stands out the most? What's the what are the weird things that you remember people doing?
+what would stand out the most if you if you think back on looking at how people use Optimizely or sorry, Google Optimize*? What stands out the most? What's the what are the weird things that you remember people doing?
 
 <br>
 
@@ -117,7 +117,7 @@ judgment on yourself. But also that sounds like something that needs to be
 
 a cultural thing that you need to have in your team, right? There's not necessarily that's that's for just one person that needs to be fostered and read by the company itself. Absolutely. It has to be something where you can if you can define the ground rules before the conversation, and then keep reinforcing them it will make it will create a safe space or create an environment where people can put those vulnerable ideas out there. They don't have to worry about whether that idea makes them seem smart or informed. But instead you explicitly state like there are no judgments, we will delay any conversation that negates these ideas. And instead take something I would borrow from improv which I do a little bit of that on the side. And for improv, what we do is we say yes, and so there's this idea of somebody has an idea, and you build on it, as opposed to saying, No, that's not true, this world doesn't have that thing to be true. And so it's even just laying ground rules like yes, standing in the conversation, as opposed to let's shoot down every reason why this is a bad idea. And when you do that, it really just creates negativity and doesn't allow people to make those more risky ideas.
 
-Unknown Speaker 8:59  
+Unknown Speaker 8:59
 Yesterday's brainstorm was so good. I really liked staffs idea of running that test on the <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Call-To-Action">call to action</a> buttons, making them orange will really make them stand out, don't you think?
 
 <br>

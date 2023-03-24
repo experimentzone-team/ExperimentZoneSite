@@ -233,7 +233,7 @@ With all this important data, you’ll begin to develop ideas to address custome
 Once you decide what to test, you can set up an <a class="glossary-word" href="https://experimentzone.com/support/glossary/#AB-Testing">A/B test</a> to understand the impact of this change and make a decision on data.
 **Important Tools**
 
-- <a id="how-to-approach-cro"></a>Free A/B Testing: [Google Optimize](https://optimize.withgoogle.com/){:target="\_blank"}
+- <a id="how-to-approach-cro"></a>Free A/B Testing: [Google Optimize](https://optimize.withgoogle.com/){:target="\_blank"}* --- until September 30, 2023... [Read More](/blog/google-optimize-shutting-down/){:target="\_blank"}
 - Premium A/B Testing: [Optimizely](https://www.optimizely.com/){:target="\_blank"}, [AB Tasty](https://www.abtasty.com/){:target="\_blank"}, among many others.
 
 # How should you approach optimization?

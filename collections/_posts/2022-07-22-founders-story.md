@@ -40,18 +40,18 @@ Our team began our journey focused on DTC eCommerce websites and helping custome
 
 # Who is AJ Davis, the company founder?
 
-AJ Davis is an industry expert in user experience strategy with a proven track record for delivering true value to businesses. She is a Wellesley College alumnae with a Masters in Human Factors in Information Design from Bentley University.
+[AJ Davis](https://experimentzone.com/team/aj-davis/){: target="\_blank"} is an industry expert in user experience strategy with a proven track record for delivering true value to businesses. She is a Wellesley College alumnae with a Masters in Human Factors in Information Design from Bentley University.
 
 
 ## Backstory
 
 AJ has decades of experience in UX research and Conversion Rate Optimization (CRO). AJ led optimization strategy for Fortune 500 companies during her tenure at Clearhead, including CVS, Steve Madden, and lululemon. She also created the user research practice and the team at Clearhead.
 
-Prior to Clearhead, AJ was the lead UX researcher on the Google Optimize product. She was on the team from ideation at a sprint week to product launch.
+Prior to Clearhead, AJ was the lead UX researcher on the Google Optimize* product. She was on the team from ideation at a sprint week to product launch.
 
 ## Why did she start Experiment Zone?
 
-The founder and CEO of Experiment Zone, [AJ Davis](https://experimentzone.com/team/aj-davis/), was the lead UX researcher on the Google Optimize product. As a part of her user research, she interviewed hundreds of people who did A/B testing and optimization, empowering her to understand the best processes and why companies find conversion rate optimization critical to their business.
+As a part of her user research, AJ interviewed hundreds of people who did A/B testing and optimization, empowering her to understand the best processes and why companies find conversion rate optimization critical to their business.
 
 She also observed a disconnect between the teams doing A/B testing and the user research teams, which she knew she had the expertise and resolve to tackle.
 

@@ -51,9 +51,9 @@ Experiment Zone helps companies identify opportunities and evaluate ideas using 
 
 You're listening to the big lift the podcast of Webtrends Optimize - the CRM solution that enables marketers and developers to maximize the ROI on their digital properties. Webtrends optimized is a powerful, feature-rich, and easy-to-use solution, all delivered within a fixed-price contract with no additional cost for increased functionality. Ever. During these podcasts, we meet some of the key influencers within the marketing and conversion world to understand their roles and examine their challenges.
 
-Today, I'm in conversation with AJ Davis, founder, and CEO of US-based Experiment Zone. As one of the team AJ worked at Google during the conception and development of Google Optimize, so we discuss how A/B testing/CRO has advanced since then, we talk about how the market has matured, whether the balance between data-driven and visitor empathy is right. If businesses are attracting the right customers.
+Today, I'm in conversation with AJ Davis, founder, and CEO of US-based Experiment Zone. As one of the team AJ worked at Google during the conception and development of Google Optimize*, so we discuss how A/B testing/CRO has advanced since then, we talk about how the market has matured, whether the balance between data-driven and visitor empathy is right. If businesses are attracting the right customers.
 
-Hey, AJ, I noticed from your LinkedIn profile that you are a User Experience Researcher at Google, before they launched Google Optimize, it was around 2015 when it went to beat or something like that. What was it like during those early days? How did your own experience help drive the product forward?
+Hey, AJ, I noticed from your LinkedIn profile that you are a User Experience Researcher at Google, before they launched Google Optimize*, it was around 2015 when it went to beat or something like that. What was it like during those early days? How did your own experience help drive the product forward?
 
 
 
@@ -61,7 +61,7 @@ Hey, AJ, I noticed from your LinkedIn profile that you are a User Experience Res
 
 **AJ Davis  1:17**
 
-Yeah, I had a fantastic opportunity to be part of the Google Optimize team as their lead researcher, and user experience researcher. From the day it was in a hotel lobby where we were brainstorming ideas and user journeys and doing the full Google sprint week together. It was just in that ideation, what are those core problems we're going to solve? What are some of the pain points that customers have, and all that fun discovery? Then I was part of all the research that went hand in hand for the product from that day until that product launch. That was a really fun journey to be on, lots of learning and hypothesis testing
+Yeah, I had a fantastic opportunity to be part of the Google Optimize* team as their lead researcher, and user experience researcher. From the day it was in a hotel lobby where we were brainstorming ideas and user journeys and doing the full Google sprint week together. It was just in that ideation, what are those core problems we're going to solve? What are some of the pain points that customers have, and all that fun discovery? Then I was part of all the research that went hand in hand for the product from that day until that product launch. That was a really fun journey to be on, lots of learning and hypothesis testing
 
 
 <br/><br/>
@@ -86,7 +86,7 @@ So did you yourself learn anything that you took forward to your future career?
 
 I think I basically learned that I was jealous of people who got to do optimization so I was in my career as a qualitative user experience researcher. What that means is I was running a lot of user testing, interviews, and usability studies, really getting to the nitty-gritty of how people use products, how they move through their lives, and what that intersection of technology and human looks like. It was very fun. It's very energizing. But I had come from an economics degree and really loved hard data and being able to make decisions at that intersection.
 
-With the research on Google Optimize, I was interviewing people who got to look at user experiences and then have a quantitative approach to testing out their hypotheses for whether those changes would really work or not in the real world.
+With the research on Google Optimize*, I was interviewing people who got to look at user experiences and then have a quantitative approach to testing out their hypotheses for whether those changes would really work or not in the real world.
 
 I always felt as a user experience researcher, this lingering question of, yes, we saw it in the lab, yes, we learned about this behavior but does it hold up in the real world, and optimization and A/B testing really passes that bar of saying, we've learned about it, we've thought about it, we've really researched it upfront, and let's validate it in the real world as well. I ended up transitioning careers after working on the product and becoming director of the optimization.
 <br/><br/>

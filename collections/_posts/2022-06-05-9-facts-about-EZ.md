@@ -81,7 +81,7 @@ Our pricing depends on your traffic levels and the complexity of your website, h
 
 ## 4. Experiment Zone was born from first-hand experience at Google
 
-The founder and CEO of Experiment Zone, [AJ Davis](/team/aj-davis/), was the lead UX researcher on the Google Optimize product. As a part of her user research, she interviewed hundreds of people who did A/B testing and optimization, empowering her to understand the best processes and the reasons why companies find conversion rate optimization critical to their business.
+The founder and CEO of Experiment Zone, [AJ Davis](/team/aj-davis/), was the lead UX researcher on the Google Optimize* product. As a part of her user research, she interviewed hundreds of people who did A/B testing and optimization, empowering her to understand the best processes and the reasons why companies find conversion rate optimization critical to their business.
 
 She also observed that there was a disconnect between the teams doing A/B testing and the user research teams, which she knew she had the expertise and resolve to tackle.
 

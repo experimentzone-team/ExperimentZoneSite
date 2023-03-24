@@ -90,7 +90,7 @@ Thank you! I want to get a little bit of a grip on these great opportunities tha
 **AJ Davis  1:35**
 I am very passionate about finding what it is that will make a difference for your customers. My history and journey into conversion rate optimization is pretty kind of a wavy path, just like anyone else you find in this field. I started in product development as a UX researcher. I got to talk to hundreds and hundreds of people about the pain points they had in their lives, things that mattered to them, and where their experiences intersect with technology.
 
-This led me to work on this really wonderful product, Google Optimize. I was the lead researcher for that product and I had this opportunity to meet lots of people who were doing conversion rate optimization, and looking to do A/B testing on their websites. They say “Is this thing true or not about my customers,” Will that help us increase ROI, but also make the experience better.”
+This led me to work on this really wonderful product, Google Optimize*. I was the lead researcher for that product and I had this opportunity to meet lots of people who were doing conversion rate optimization, and looking to do A/B testing on their websites. They say “Is this thing true or not about my customers,” Will that help us increase ROI, but also make the experience better.”
 
 After interviewing hundreds of people about CRO I decided to make the leap from being a UX researcher into the conversion rate optimization space and have been doing it ever since. It marries the two things I love the most: getting to talk to people, figuring out their pain points, and then putting them into action, solutions, as fast as possible, that will make things easier and make the business grow.
 
@@ -141,12 +141,12 @@ It's a really important thing for us to ground what it is that we're working on.
 <br/>
 
 **Jeff Mendelson  7:13**
-What are some of the tools that you use to do this? You mentioned the Google Optimize tool. But there are others out there, right? You're not necessarily married to this one tool. What does that landscape look like to you?
+What are some of the tools that you use to do this? You mentioned the Google Optimize* tool. But there are others out there, right? You're not necessarily married to this one tool. What does that landscape look like to you?
 
 <br/>
 
 **AJ Davis  7:26**
-I would describe that landscape as the first part of the first pillar of being able to do an A/B test. Within that sphere, there are a whole bunch of different tools like the free version of Google Optimize. They have an Optimize 360, Optimizely, AB Tasty, web opt, optimal trends, there's a whole bunch of tools out there that will provide the capability to take an experience, make a change to it, and split your traffic 50:50.
+I would describe that landscape as the first part of the first pillar of being able to do an A/B test. Within that sphere, there are a whole bunch of different tools like the free version of Google Optimize*. They have an Optimize 360, Optimizely, AB Tasty, web opt, optimal trends, there's a whole bunch of tools out there that will provide the capability to take an experience, make a change to it, and split your traffic 50:50.
 
 A foundational part of having it in your conversion strategy is to have a specific tool for testing and then the other thing you need to do is to have analytics tools. The behaviors on the site, what people are clicking on, where they're going, you need to have generally a click tracking tool to see how far they're scrolling, where they're focusing their time, and their clicks.
 
@@ -155,7 +155,7 @@ Then user research tools are another category, you've got to understand how to i
 <br/>
 
 **Jeff Mendelson  8:28**
-What's interesting about all that is that we're talking about a tech stack at this point, we're not just talking about using Google Optimize or Google Analytics and being done with it. I used to be able to tell a story about a particular website just by looking at their analytics, where people are coming in from, what they're clicking on, and once they're inside with just the Analytics tool. Whereas the Optimize tool is for when people are coming in, and you can provoke those changes in real-time, in order to tease out those measurable results.
+What's interesting about all that is that we're talking about a tech stack at this point, we're not just talking about using Google Optimize* or Google Analytics and being done with it. I used to be able to tell a story about a particular website just by looking at their analytics, where people are coming in from, what they're clicking on, and once they're inside with just the Analytics tool. Whereas the Optimize tool is for when people are coming in, and you can provoke those changes in real-time, in order to tease out those measurable results.
 
 One of the things I'm curious about is when a client comes to you for this kind of stuff, do you normally have to source those tools and set them up yourselves? Or do they normally come prepared, knowing that they need this, and they maybe just didn't know how to work with it well enough that they needed to hire a professional? How does that work for you?
 
