@@ -1,12 +1,12 @@
 ---
-title: "Case Study: Driving higher conversion rates by identifying value propositions that matter to potential customers"
+title: "Case Study: Driving higher conversion rates by identifying value"
 description: Experiment Zone developed and analyzed a customer survey to uncover the most important value propositions to customers shopping for olive oil
 meta_title: "Case Study: Driving higher conversion rates"
 date: 2023-03-24T15:29:40
 draft: false
 featured: true
 weight: 1
-heroHeading: "Case Study: Driving higher conversion rates by identifying value propositions that matter to potential customers"
+heroHeading: "Case Study: Driving higher conversion rates by identifying value"
 heroSubHeading: "Experiment Zone developed and analyzed a customer survey to uncover the most important value propositions to customers shopping for olive oil"
 heroBackground: "../../assets/images/work/THCOCheroAwards.jpg"
 backgroundOverlay: true
@@ -20,9 +20,6 @@ header_classes: header-transparent
    @media only screen and (max-width: 500px) {
       .hero-image .hero-text p {
          font-size: 1.3rem;
-      }
-      .hero-image .hero-text h1 {
-         font-size: 1.75rem;
       }
    }
 </style>
