@@ -16,6 +16,17 @@ custom_css: case-study
 header_classes: header-transparent
 ---
 
+<style>
+   @media only screen and (max-width: 500px) {
+      .hero-image .hero-text p {
+         font-size: 1.3rem;
+      }
+      .hero-image .hero-text h1 {
+         font-size: 1.75rem;
+      }
+   }
+</style>
+
 ## Client Background
 
 [Texas Hill Country Olive Co.](https://texashillcountryoliveco.com/){: target="\_blank"} (THCOC) is a family-run olive oil company and orchard located in the Hill Country outside of Austin, Texas. The online store sells their olive oils and balsamic vinegars, gift sets, membership programs, skincare products and more. Texas Hill Country Olive Co. works with Experiment Zone via our [Conversion Strategy and Testing program](/services/conversion-strategy-and-testing/){: target="\_blank"} in order to drive higher conversion rates on their e-commerce website.
