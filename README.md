@@ -14,6 +14,8 @@ Advance is a premium, multi-purpose Hugo theme. It has 5 content-types for arche
 
 Make sure you have Jekyll installed - For more information read Jekyll docs [installation](https://jekyllrb.com/docs/installation/)
 
+If you have a mac and are having issues installing through the Jekyll docs read this [article specific to mac](https://mac.install.guide/ruby/12.html)
+
 Extract the .zip file to your local computer.
 
 To run the theme locally, navigate to the project root (it contains the README.md) and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve --livereload` to start the Jekyll server.
