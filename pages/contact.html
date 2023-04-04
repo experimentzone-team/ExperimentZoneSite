@@ -4,27 +4,42 @@ title: Contact Us
 body_classes: page-contact
 ---
 
-<div class="intro intro-big pb-5">
+<div id="contact-us" class="intro intro-big pb-5">
   <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>{{ page.title }}</h1>
+    <div class="row justify-content-center new-contact-us">
+      <div class="col-6 contactContext">
+        <h1>Get in Touch</h1>
+        <h2 style="color:#663db1;">Talk with a CRO specialist about your website goals</h2>
+        <p class="contact-text" style="font-size: 1rem;">Fill out the form with your contact information and any details you'd like to provide about your current challenges</p>
+        <p class="contact-text" style="font-size: 1rem;">We'll get in touch to set up time to connect!</p>
+      </div>
+      <div class="contact-form col-6 col-md-5 offset-md-1">
+        {% include contact-us-form.html %}
       </div>
     </div>
   </div>
 </div>
 
-<div class="strip strip-grey pt-5 pb-5">
+<div class="strip pt-5 pb-5">
   <div class="container">
-    <div class="row justify-content-center align-items-center">
-      <div class="col-10 col-md-4">
-        <p>Let's Talk</p>
-        <h2>Ask Us Anything. Anytime.</h2>
-        <h4>Our Location<h4>
-          <p>Experiment Zone<br>1401 Lavaca St PMB 40707<br>Austin, Texas 78701</p>
+    <div class="row">
+      <div class="col-12">
+        <h1>Stay connected</h1>
+        <p class="connected-Subheader" style="color:#663db1;">Join our community to stay up to date on the latest CRO tips & tricks and Experiment Zone company news</p>
       </div>
-      <div class="col-12 col-md-5 offset-md-1">
-        {% include contact-us-form.html %}
+    </div>
+    <div class="row justify-content-center align-content-center">
+      <div class=" col-sm-4 pb-7 social-item">
+        <a class="contact-icon mail"><i class="fa fa-long-arrow-alt-right"></i></a>
+        <p class="icon-text">Subscribe to our Newsletter</p>
+      </div>
+      <div class="col-sm-4 pb-7 social-item">
+        <a class="contact-icon linkedin"><i class="fab fa-linkedin"></i></a>
+        <p class="icon-text">Connect on LinkedIn</p>
+      </div>
+      <div class="col-sm-4 pb-7 social-item">
+        <a class="contact-icon instagram"><i class="fab fa-instagram"></i></a>
+        <p class="icon-text">Follow us on Instagram</p>
       </div>
     </div>
   </div>
