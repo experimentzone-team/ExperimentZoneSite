@@ -51,9 +51,10 @@ $font-size-base: 1rem;
 @import "bootstrap/utilities";
 
 // Font Awesome
-$fa-font-path: "../webfonts";
+$fa-font-path: "../fonts/fontawesome5";
 @import "libraries/fontawesome5/fontawesome.scss";
 @import "libraries/fontawesome5/solid.scss";
+@import "libraries/fontawesome5/regular.scss";
 @import "libraries/fontawesome5/brands.scss";
 
 // Libraries
@@ -237,24 +238,23 @@ p.contact-text:first-of-type {
 }
 
 .contact-icon {
-  max-width: 100%;
-  height: 100%;
   display: flex;
-  align-content: center;
-  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   border: none !important;
   border: 1px solid #dcdcdc;
-  border-radius: 50%;
+  border-radius: 100%;
   box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
   background: #eee8f6;
+  color: #663db1;
+  font-size: 7rem;
+  padding: 5rem;
   margin: 1rem;
 }
 
-.mail, .instagram, .linkedin {
-  color: #663db1;
+.social-item > a:hover {
+  text-decoration: none !important;
 }
-
-
 
 .social-item {
   padding-bottom: 50px !important;
@@ -263,6 +263,7 @@ p.contact-text:first-of-type {
 .icon-text {
   text-align: center;
   font-weight: bold;
+  margin-top: 1rem;
 }
 
 @media only screen and (max-width: 575px) {
@@ -287,8 +288,8 @@ p.contact-text:first-of-type {
     margin: 0 auto;
   }
 
-  div.social-item {
-    margin-bottom: 75px !important;
+  .connected-Subheader {
+    margin-bottom: 2rem;
   }
 }
 //END Contact page changes 2023 END
