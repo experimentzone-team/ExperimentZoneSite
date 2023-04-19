@@ -25,7 +25,32 @@ header_classes: header-transparent
 custom_css: blog-hero
 ---
 
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2e96835d-b956-4935-9bcf-40eb6fd1d512?dark=false"></iframe>
+<style>
+    .video {
+        border: 4px solid black;
+        border-radius: 3px;
+    }
+    .work-summary {
+        border: 0px solid black;
+    }
+    .iframe-container{
+        position: relative;
+        width: 100%;
+        padding-bottom: 56.25%;
+        height: 0;
+    }
+    .iframe-container iframe{
+        position: absolute;
+        top:0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<div class="mt-0 mt-md-n14 work work-summary justify-content-center iframe-container">
+    <iframe class="video" src="https://www.youtube.com/embed/mrsyhoKZOtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 &nbsp;
 
