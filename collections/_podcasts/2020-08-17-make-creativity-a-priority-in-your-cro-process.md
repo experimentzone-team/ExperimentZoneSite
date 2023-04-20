@@ -1,29 +1,36 @@
 ---
 layout: post
 title: "Make creativity a priority in your CRO process"
-description: "Curious about how to make creativity a priority in your CRO process?"
-# permalink: /podcast/make-creativity-a-priority-in-your-cro-process
+description: "Curious about how to make creativity a priority in your CRO process? Our Founder and CEO, AJ Davis, explores just that in this CRO.CAFE podcast episode hosted by Guido Jansen."
+permalink: /podcast/make-creativity-a-priority-in-your-cro-process
 tags: [""]
 categories: [""]
 heroBackground: assets/images/podcasts/creativity.jpg
+backgroundOverlay: true
 heroBackgroundOverlay: false
-heroHeight: 600
+cardImage: "assets/images/podcasts/podcast-card.png"
+cardImageHeight: small
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Make creativity a priority in your CRO process"
-meta_description: "Curious about how to make creativity a priority in your CRO process?"
+meta_description: "Curious about how to make creativity a priority in your CRO process? Our Founder and CEO, AJ Davis, explores just that in this CRO.CAFE podcast episode hosted by Guido Jansen."
 meta_author: "AJ Davis"
 meta_og_title: "Make creativity a priority in your CRO process"
 meta_og_type: website
 meta_og_url: "https://experimentzone.com/podcast/make-creativity-a-priority-in-your-cro-process"
 meta_og_image: "https://experimentzone.com/assets/images/podcasts/creativity.jpg"
-meta_og_description: "Curious about how to make creativity a priority in your CRO process?"
+meta_og_description: "Curious about how to make creativity a priority in your CRO process? Our Founder and CEO, AJ Davis, explores just that in this CRO.CAFE podcast episode hosted by Guido Jansen."
+custom_css: blog-hero
 header_classes: header-transparent
 ---
 
-<style> .Make.creativity {color: black;}</style>
-
 # Make creativity a priority in your CRO process
+
+*This article makes mention of Google Optimize. Google has officially announced the sunset of Google Optimize. Both Google Optimize and Optimize 360 will sunset on **September 30, 2023**.... [Read More](/blog/google-optimize-shutting-down/){:target="\_blank"}
+{: .disclaimer}
+
+&nbsp;
 
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/1721051f"></iframe>
 
@@ -40,7 +47,7 @@ Curious about how to make creativity a priority in your CRO process? Our Founder
 ## Outline
 
 - Introduction (0:10)
-- Working on the user experience of Google Optimize (2:07)
+- Working on the user experience of Google Optimize* (2:07)
 - Something (10:12)
 - Other stuff (12:43)
 - Closing stuff (22:33)
