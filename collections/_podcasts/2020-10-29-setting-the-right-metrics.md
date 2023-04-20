@@ -8,6 +8,7 @@ categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
 heroBackground: assets/images/posts/emma-york-blog.png
+backgroundOverlay: true
 heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true
@@ -34,7 +35,7 @@ header_classes: header-transparent
     .iframe-container{
         position: relative;
         width: 100%;
-        padding-bottom: 56.25%; 
+        padding-bottom: 56.25%;
         height: 0;
     }
     .iframe-container iframe{

@@ -10,7 +10,7 @@ backgroundOverlay: true
 heroBackgroundOverlay: false
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
-heroHeight: 400
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "When and where to tell your story"

@@ -34,7 +34,7 @@ header_classes: header-transparent
     .iframe-container{
         position: relative;
         width: 100%;
-        padding-bottom: 56.25%; 
+        padding-bottom: 56.25%;
         height: 0;
     }
     .iframe-container iframe{

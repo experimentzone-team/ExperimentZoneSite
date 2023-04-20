@@ -8,8 +8,9 @@ categories: [""]
 cardImage: "assets/images/podcasts/podcast-card.png"
 cardImageHeight: small
 heroBackground: assets/images/posts/emma-york-blog.png
+backgroundOverlay: true
 heroBackgroundOverlay: false
-heroHeight: 500
+heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Optimizing Conversions Through Experimentation"
