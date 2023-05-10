@@ -34,6 +34,7 @@ custom_css: blog-hero
 # Introduction - Brief History of Experiment Zone
 
 Experiment Zone is a leading CRO agency, founded in 2017 and headquartered in Austin, Texas. We help companies improve their customer experiences using scientific methods, so they can get more revenue and grow.
+
 Our team began our journey focused on DTC eCommerce websites and helping customers create experiences that enabled customers from browsing to order products online. We’ve expanded to additional markets, including B2B and B2C businesses in retail & eCommerce, SaaS & software, finance, and fintech, health & wellness, and construction, among many others. We’re passionate about helping your team connect with your customer and get them to take the desired action on your website.
 
 <br/>
@@ -55,7 +56,7 @@ As a part of her user research, AJ interviewed hundreds of people who did A/B te
 
 She also observed a disconnect between the teams doing A/B testing and the user research teams, which she knew she had the expertise and resolve to tackle.
 
-AJ brought her understanding of top testing and experimentation programs and created Experiment Zone. You’ll see this lived in our values and culture at **Experiment Zone: be curious, ask the right questions, and go layers deep.** By (working with our team)[blog/9-facts-about-EZ], you get real-world answers to what's going on with your prospects and customers and will be able to resolve those issues through real-world experimentation.
+AJ brought her understanding of top testing and experimentation programs and created Experiment Zone. You’ll see this lived in our values and culture at **Experiment Zone: be curious, ask the right questions, and go layers deep.** By [working with our team](blog/9-facts-about-EZ), you get real-world answers to what's going on with your prospects and customers and will be able to resolve those issues through real-world experimentation.
 
 
 # About Experiment Zone today
