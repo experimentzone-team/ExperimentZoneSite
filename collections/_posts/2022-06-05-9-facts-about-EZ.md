@@ -20,7 +20,7 @@ meta_description: "Experiment Zone helps your business identify opportunities an
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com//blog/9-facts-about-EZ"
+meta_og_url: "https://experimentzone.com/blog/9-facts-about-EZ"
 meta_og_image: "https://experimentzone.com/assets/images/posts/hero-cart.jpg"
 meta_og_description: "Experiment Zone helps your business identify opportunities and evaluate ideas using data, so that you can improve customer experiences and increase sales."
 header_classes: header-transparent
