@@ -1,11 +1,38 @@
 ---
 layout: default
+heroHeading: "Better Experiences, More Revenue"
+heroSubHeading: "Experiment Zone helps companies identify opportunities and evaluate ideas using research & data, so that they can improve customer experiences, grow conversion rates, and increase sales"
 title: "Our Mission: Better Experiences, More Revenue"
 subtitle: ""
 body_classes: page-team-list
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 450
+heroDiagonal: true
+heroDiagonalFill: "#fff"
+header_classes: header-transparent
 ---
 
-<div class="intro intro-big">
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+  height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+  overlay=page.heroBackgroundOverlay diagonal=page.heroDiagonal
+  diagonalfill=page.heroDiagonalFill %}
+
+  <div
+  class="container col-12 col-sm-9 col-lg-4 offset-lg-7 section-menu-positive mt-n6 mt-sm-n8 mt-lg-n15 mb-3 mt-sm-3"
+>
+  <div class="section-menu p-2 text-center">
+    <h2 class="text-primary">Free Conversion Consultation</h2>
+    <h4 class="pl-2 pr-2">
+      Get started with a 30-minute intro call with our Founder and CEO, AJ Davis
+    </h4>
+    <div class="col-12 pt-1 text-center">
+      <a class="button" href="/team/aj-davis/"> CONNECT WITH AJ </a>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="intro intro-big">
   <div class="container">
     <div class="row">
       <div class="col-12 col-md-5">
@@ -20,11 +47,12 @@ body_classes: page-team-list
     </div>
   </div>
 </div>
+-->
 
-<div class="container mt-n5">
+<div class="container mt-5">
   <div class="container text-center">
-    <h1>Our Values</h1>
-    <h3 class="pb-5">Transparency & Communication Is Key</h3>
+    <!-- <h1>Our Values</h1>
+    <h3 class="pb-5">Transparency & Communication Is Key</h3> -->
     <div class="row">
       {% for about in site.about %}
       <div class="col-12 mb-3 mb-md-3 p-0">
