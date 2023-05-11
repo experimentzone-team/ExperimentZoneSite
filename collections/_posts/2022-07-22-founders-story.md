@@ -56,7 +56,7 @@ As a part of her user research, AJ interviewed hundreds of people who did A/B te
 
 She also observed a disconnect between the teams doing A/B testing and the user research teams, which she knew she had the expertise and resolve to tackle.
 
-AJ brought her understanding of top testing and experimentation programs and created Experiment Zone. You’ll see this lived in our values and culture at **Experiment Zone: be curious, ask the right questions, and go layers deep.** By [working with our team](blog/9-facts-about-EZ), you get real-world answers to what's going on with your prospects and customers and will be able to resolve those issues through real-world experimentation.
+AJ brought her understanding of top testing and experimentation programs and created Experiment Zone. You’ll see this lived in our values and culture at **Experiment Zone: be curious, ask the right questions, and go layers deep.** By [working with our team](/blog/9-facts-about-EZ){: target="\_blank"}, you get real-world answers to what's going on with your prospects and customers and will be able to resolve those issues through real-world experimentation.
 
 
 # About Experiment Zone today
