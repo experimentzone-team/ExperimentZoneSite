@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Double Your Conversions With Better User Experience with AJ Davis"
-description: "We know it’s very tempting to include so much content on your website to convince your visitors to take action, but the more you add content and information, the harder it gets to navigate the site and overwhelms the users. In this podcast, you will learn how can you win both on user experience and conversions."
+title: "Double Your Conversions With Better User Experience"
+description: "In this podcast you will learn how can you win both on user experience and conversions with the right content"
 permalink: /video/buying-online-business
 tags: ["YouTube Podcast","Conversion Rate Optimization", "CRO", "CRO Consulting", "Double Your Conversion", "A/B Testing", "User Experience"]
 categories: ["YouTube Podcast","Conversion Rate Optimization", "CRO", "CRO Consulting", "Double Your Conversion", "A/B Testing", "User Experience"]
