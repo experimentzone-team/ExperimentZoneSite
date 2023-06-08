@@ -64,7 +64,7 @@ To measure the email conversion rate for your campaigns, you will need to integr
 
 ### Email Click-through Rate
 
-The email click-through rate (CTR) is the percentage of email recipients who clicked on the links you included in your email. It's definitely important to track your click-through rates - that way, you know how many people on your list are engaging with your content. A high CTR means they're interested in what you offer and want to continue learning more about your brand. According to [Mailchimp](https://mailchimp.com/resources/email-marketing-benchmarks/), the average click-through rate across all industries is 2.91%.
+The email click-through rate (CTR) is the percentage of email recipients who clicked on the links you included in your email. It's definitely important to track your click-through rates - that way, you know how many people on your list are engaging with your content. A high CTR means they're interested in what you offer and want to continue learning more about your brand. According to [Mailchimp](https://mailchimp.com/resources/email-marketing-benchmarks/){:target="\_blank"}, the average click-through rate across all industries is 2.91%.
 
 > **Email CTR = (Number of unique clicks / Total number of delivered emails) x100**
 
@@ -79,7 +79,7 @@ The email bounce rate is the percentage of your total emails sent that could not
 
 > **Email Bounce Rate = (Number of emails bounced / Number of emails sent) x 100**
 
-This data is useful for keeping your contacts organized and it also reflects your deliverability. A low email bounce rate contributes to a good sender reputation. A high email bounce rate on your content means that it is either slotted as spam or going undelivered and unseen, which will lower your sender's reputation. You want to aim for an [email bounce rate of 2%](https://myemma.com/blog/is-your-email-bounce-rate-better-than-average/#:~:text=The%20accepted%20benchmark%20for%20bounced,and%205%25%20is%20worth%20noting.) or less (or a delivered rate of 98% or more).
+This data is useful for keeping your contacts organized and it also reflects your deliverability. A low email bounce rate contributes to a good sender reputation. A high email bounce rate on your content means that it is either slotted as spam or going undelivered and unseen, which will lower your sender's reputation. You want to aim for an [email bounce rate of 2%](https://myemma.com/blog/is-your-email-bounce-rate-better-than-average/#:~:text=The%20accepted%20benchmark%20for%20bounced,and%205%25%20is%20worth%20noting.){:target="\_blank"} or less (or a delivered rate of 98% or more).
 
 Despite the email bounce rate not being a direct measure of business goals, it can be a good indicator of email success. It's worth checking to ensure your email gets delivered without any issues and you don't accidentally have too many hard bounces.
 
@@ -88,7 +88,7 @@ Despite the email bounce rate not being a direct measure of business goals, it c
 
 ### Email Open Rate
 
-Open rate is the percentage of email recipients who open an individual email. Email open rates are affected by the sender's reputation, subject line, and time spent. A good [average open rate is between 20-30%.](https://www.campaignmonitor.com/resources/knowledge-base/what-are-good-email-metrics/) Experimenting with different subject lines in your emails can provide useful insights into what drives your subscribers to read them or not.
+Open rate is the percentage of email recipients who open an individual email. Email open rates are affected by the sender's reputation, subject line, and time spent. A good [average open rate is between 20-30%.](https://www.campaignmonitor.com/resources/knowledge-base/what-are-good-email-metrics/){:target="\_blank"} Experimenting with different subject lines in your emails can provide useful insights into what drives your subscribers to read them or not.
 
 > **Email Open Rate = (Number of emails opened / Number of emails delivered) x 100**
 
@@ -99,7 +99,7 @@ You can get some insights from comparing open rates. For example, if you compare
 
 ### Email Unsubscribe Rate
 
-The unsubscribe rate is the percentage of people who unsubscribe from your list after reading your email. Be aware of the unsubscribe rate in your email marketing. If it is high, it could indicate that the audience you are trying to reach is not interested in receiving your emails. Generally, you want to aim for an email unsubscribe rate of less than [1% for most industries.](https://mailchimp.com/resources/email-marketing-benchmarks/)
+The unsubscribe rate is the percentage of people who unsubscribe from your list after reading your email. Be aware of the unsubscribe rate in your email marketing. If it is high, it could indicate that the audience you are trying to reach is not interested in receiving your emails. Generally, you want to aim for an email unsubscribe rate of less than [1% for most industries.](https://mailchimp.com/resources/email-marketing-benchmarks/){:target="\_blank"}
 
 > **Email Unsubscribe Rate = (Number of unsubscribes / Number of emails delivered) x 100**
 
@@ -179,7 +179,7 @@ The spam score rate measures the percentage at which your email subscribers repo
 
 > **Spam Score Rate = (Number of spam reports or complaints / Number of emails delivered) x 100**
 
-According to [MailChimp](https://mailchimp.com/), the average spam score for commercial email is about 3.5%. This means that your company’s emails have a 3.5% chance of being marked as spam by recipients. If subscribers in your email list are not familiar with your brand or cannot find a way to unsubscribe from you, there will be many spam reports. It's important to make sure that people can unsubscribe with as little difficulty as possible. 
+According to [MailChimp](https://mailchimp.com/){:target="\_blank"}, the average spam score for commercial email is about 3.5%. This means that your company’s emails have a 3.5% chance of being marked as spam by recipients. If subscribers in your email list are not familiar with your brand or cannot find a way to unsubscribe from you, there will be many spam reports. It's important to make sure that people can unsubscribe with as little difficulty as possible. 
 
 Implementing strong anti-spam filters is a good way to lower your spam score. Before sending emails, make sure that your recipients have explicitly given you permission to do so. Another way to lower your email spam score is to send relevant content that is valuable to your subscribers. Lastly, ensure to regularly monitor your spam score and adjust your strategy accordingly. 
 

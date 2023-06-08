@@ -66,23 +66,23 @@ custom_css: blog-hero
 
 We know it’s very tempting to include so much content on your website to convince your visitors to take action, but the more you add content and information, the harder it gets to navigate the site and overwhelms the users. 
 
-So how can you win both on user experience and conversions? That’s what we’re going to tackle in this podcast with AJ Davis, founder of [Experiment Zone](https://experimentzone.com/), and Jared Krause, host of the [Buying Online Business](https://www.youtube.com/@buyingonlinebusinesses) podcast.
+So how can you win both on user experience and conversions? That’s what we’re going to tackle in this podcast with AJ Davis, founder of [Experiment Zone](https://experimentzone.com/), and Jared Krause, host of the [Buying Online Business](https://www.youtube.com/@buyingonlinebusinesses){:target="\_blank"} podcast.
 
 <br/>
 
 
 ### **Podcast Highlights**
-* [00:00](https://youtu.be/T86yRCDUOsQ) Introduction
-* [02:06](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=126s) Why you shouldn’t turn a blind eye to User Experience
-* [04:07](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=247s) How does A/B Testing fill the gap in User Experience
-* [08:01](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=481s) How can you help your customers pick the right product/service for them?
-* [11:03](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=663s) Information is the key to success
-* [15:03](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=903s) AJ's key takeaway on creating a website
-* [17:35](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1055s) Building trust means increasing the Lifetime Value
-* [19:25](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1165s) Giving the right content at the right moment
-* [22:52](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1372s) What are the elements that a winning page has?
-* [27:15](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1635s) Is having reviews still important?
-* [27:46](https://youtu.be/T86yRCDUOsQ?t=1727) Closing
+* [00:00](https://youtu.be/T86yRCDUOsQ){:target="\_blank"} Introduction
+* [02:06](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=126s){:target="\_blank"} Why you shouldn’t turn a blind eye to User Experience
+* [04:07](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=247s){:target="\_blank"} How does A/B Testing fill the gap in User Experience
+* [08:01](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=481s){:target="\_blank"} How can you help your customers pick the right product/service for them?
+* [11:03](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=663s){:target="\_blank"} Information is the key to success
+* [15:03](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=903s){:target="\_blank"} AJ's key takeaway on creating a website
+* [17:35](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1055s){:target="\_blank"} Building trust means increasing the Lifetime Value
+* [19:25](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1165s){:target="\_blank"} Giving the right content at the right moment
+* [22:52](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1372s){:target="\_blank"} What are the elements that a winning page has?
+* [27:15](https://www.youtube.com/watch?v=T86yRCDUOsQ&t=1635s){:target="\_blank"} Is having reviews still important?
+* [27:46](https://youtu.be/T86yRCDUOsQ?t=1727){:target="\_blank"} Closing
 
 <br/>
 
@@ -156,7 +156,7 @@ So if you don't know how long it's going to take, or how much it's going to cost
 
 ##### **Jared Krause 7:37**
 
-I really like that when people go to our site "[buyingonlinebusinesses.com](https://buyingonlinebusinesses.com/)" we have a selector of three buckets of people that you know where they're at on their journey, and what they need or what they want and what they need help with, or what they think they want and need help with. Then they can select and go through their own sort of journey and ends up to a point where you can get this free tool, or we have this course or we can help you in this sort of way. 
+I really like that when people go to our site "[buyingonlinebusinesses.com](https://buyingonlinebusinesses.com/){:target="\_blank"}" we have a selector of three buckets of people that you know where they're at on their journey, and what they need or what they want and what they need help with, or what they think they want and need help with. Then they can select and go through their own sort of journey and ends up to a point where you can get this free tool, or we have this course or we can help you in this sort of way. 
 
 I guess that's one way that you can help people come to your site with very broad different positions that are in their journey in their buying experience if they're even buying or just checking you out. What are some other ways that you can help people select what direction they should take to get them the best product or service for them?  How do we have other ways that that's done?
 
@@ -384,7 +384,7 @@ Love it. AJ, thank you so much for coming on. I really appreciate it. You've got
 
 ##### **AJ Davis  28:41**
 
-They can find us at [experimentzone.com](https://experimentzone.com/) or look me up on [LinkedIn - AJ Davis.](https://www.linkedin.com/in/ajdavisatx)
+They can find us at [experimentzone.com](https://experimentzone.com/) or look me up on [LinkedIn - AJ Davis.](https://www.linkedin.com/in/ajdavisatx){:target="\_blank"}
 
 <br/>
 
