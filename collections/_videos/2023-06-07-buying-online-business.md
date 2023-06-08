@@ -156,7 +156,7 @@ So if you don't know how long it's going to take, or how much it's going to cost
 
 ##### **Jared Krause 7:37**
 
-I really like that when people go to our site "[buyingonlinebusinesses.com](https://buyingonlinebusinesses.com/)" we have a selector of three buckets of people that you know where they're at on their journey, and what they need or what they want and what they need help with, or what they think they want and need help with. Then they can select and go through their own sort of journey and ends up to a point where you can get this free tool, or we have this course or we can help you in this sort of way.
+I really like that when people go to our site "[buyingonlinebusinesses.com](https://buyingonlinebusinesses.com/){:target="\_blank"}" we have a selector of three buckets of people that you know where they're at on their journey, and what they need or what they want and what they need help with, or what they think they want and need help with. Then they can select and go through their own sort of journey and ends up to a point where you can get this free tool, or we have this course or we can help you in this sort of way.
 
 I guess that's one way that you can help people come to your site with very broad different positions that are in their journey in their buying experience if they're even buying or just checking you out. What are some other ways that you can help people select what direction they should take to get them the best product or service for them?  How do we have other ways that that's done?
 
