@@ -156,7 +156,7 @@ Permanently implement the winning test, increasing annual revenue and site exper
 <br/>
 
 
-### **Conclusioin**
+### **Conclusion**
 
 There are plenty of so-called “quick fixes” that can help with your conversion rates or marketing campaigns, but they are only the surface-level, starting place for conversion rate optimization. You need to go layers deeper in order to drive significant growth through CRO. 
 
