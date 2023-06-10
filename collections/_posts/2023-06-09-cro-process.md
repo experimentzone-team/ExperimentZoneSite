@@ -6,9 +6,9 @@ permalink: /blog/cro-process
 tags: ["Conversion Rate Optimization", "CRO", "CRO Program", "AB testing", "Site Experience Audit", "User Experience", "CRO Process", "CRO Testing Program", "CRO Strategy"]
 categories: ["Conversion Rate Optimization", "CRO", "CRO Program", "AB testing", "Site Experience Audit", "User Experience", "CRO Process", "CRO Testing Program", "CRO Strategy"]
 author: aj_davis
-heroBackground: "assets/images/average-order-value.jpg"
+heroBackground: "assets/images/cro-process-hero.jpg"
 backgroundOverlay: true
-cardImage: "assets/images/average-order-value.jpg"
+cardImage: "assets/images/cro-process-hero.jpg"
 cardImageClass:
 heroBackgroundOverlay: false
 heroHeight: 450
@@ -97,88 +97,72 @@ Site experience audits are one of the most common types of stand-alone research 
 <br/>
 
 
-#### **Generate & prioritize hypotheses using GPS (Goals, Problems, and Solutions)**
+#### **Generate & Prioritize Hypotheses Using GPS (Goals, Problems, and Solutions)**
 
 We develop high-impact tests based on learnings from research (competitor site reviews, site audits, usability studies, surveys, etc) and data analytics. 
 
 Key insights from these studies, as well as the overarching business goals of our clients, help us generate hypotheses for A/B tests. These hypotheses are then evaluated, scored, and prioritized through a thorough process that involves our strategy, design, analytics, and development teams. What results is a high-impact/low-effort prioritized testing roadmap that is presented to our clients for discussion and approval. 
 
+
 <div style="text-align:centre">
   <img alt="cro-process" src="../assets/images/cro-process.png">
   <br/>
-<div>
+</div>
 
-<br/>
+<br/><br/>
 
 
 #### **Iterative + Lean A/B Testing**
 
 At this phase, we validate that the solutions have the intended impact (and learn more about how many visitors respond). We run the highest impact tests, targeting the most significant financial gains and user experience improvements.
 
+
 <div style="text-align:centre">
   <img alt="a:b-testing" src="../assets/images/a:b-testing.png">
   <br/>
-<div>
-
-<br/>
+</div>
 
 
-* Hypothesis: A hypothesis is a prediction created prior to running an experiment. It states what is being changed, what we believe the outcome will be, and why we think that’s the case. Running the experiment will either prove or disprove the hypothesis. 
+* **Hypothesis:** A hypothesis is a prediction created prior to running an experiment. It states what is being changed, what we believe the outcome will be, and why we think that’s the case. Running the experiment will either prove or disprove the hypothesis. 
+  
+  Our team of CRO experts will propose high-impact test hypotheses. If approved, the test will move to the planning phase. 
 
-_Our team of CRO experts will propose high-impact test hypotheses. If approved, the test will move to the planning phase._
+* **Test Plan:** This is the next phase after proposing the test hypotheses. A detailed test plan is documented by our CRO team and sent for feedback and approval. 
 
-<br/>
-
-
-* Test Plan: This is the next phase after proposing the test hypotheses. A detailed test plan is documented by our CRO team and sent for feedback and approval. 
-
-<br/>
-
-
-* Design & Copy: Our team will create a mockup of the copy and visual change in the test. The mockup will be shared with the client for feedback & approval.
-
-<br/>
-
+* **Design & Copy:** Our team will create a mockup of the copy and visual change in the test. The mockup will be shared with the client for feedback & approval.
 
 * **Dev:** The team will develop preview links to show how the changes will appear on the site.
 
-<br/>
-
-
 * **Launch:** The test will launch after the preview links are developed.  The team sends a calendar invite for every launch. The team sends a calendar invite for every test launch, giving our clients visibility into when the test experience will begin running on the site.
 
-<br/>
-
-
-* **Monitor:** While the test experience is live, our team closely monitors the site analytics and provides any recommendations for adjustments as necessary. When the minimum sample required for full analysis has been reached, we'll recommend turning off the test and moving to the next phase. We will share recommendations and turn off or push the test to 100% with approval only
-
-<br/>
-
+* **Monitor:** While the test experience is live, our team closely monitors the site analytics and provides any recommendations for adjustments as necessary. When the minimum sample required for full analysis has been reached, we'll recommend turning off the test and moving to the next phase. We will share recommendations and turn off or push the test to 100% with approvals only.
 
 * **Analysis:** Our team will conduct the full analysis and deliver a final report with key learnings and recommendations. If the test hypothesis was a "winner," we typically recommend implementing the changes on the site.
 
 <br/>
 
 
-#### **Data results & actionable insights**
+#### **Data Results & Actionable Insights**
+
 Analyze test results to determine visitor friction points and improve customer experience. 
 
 <br/>
 
 
-#### **Implement winning tests**
+#### **Implement Winning Tests**
+
 Permanently implement the winning test, increasing annual revenue and site experience. 
 
 <br/>
 
 
-### **Conclusion**
+### **Conclusioin**
+
 There are plenty of so-called “quick fixes” that can help with your conversion rates or marketing campaigns, but they are only the surface-level, starting place for conversion rate optimization. You need to go layers deeper in order to drive significant growth through CRO. 
 
-Our team of CRO experts will do the heavy lifting by helping you understand your customers specifically and how they interact with the site, assess the current site experience, and recommend high-impact tests. [Schedule a free discovery call now](https://experimentzone.com/consult/) with our CEO, [AJ Davis.](https://experimentzone.com/team/aj-davis/) 
+Our team of CRO experts will do the heavy lifting by helping you understand your customers specifically and how they interact with the site, assess the current site experience, and recommend high-impact tests. [Schedule a free discovery call now](https://experimentzone.com/consult/) with our CEO, [AJ Davis.](https://experimentzone.com/team/aj-davis/)
 
 <br/>
-
 
 
 {% include contact-page-cta.html %}
