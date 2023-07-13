@@ -267,6 +267,11 @@ p.contact-text:first-of-type {
   font-weight: bold;
   margin-top: 1rem;
 }
+@media only screen and (max-width: 900px) {
+  .formkit-form[data-uid="2b1d95fc77"] {
+    max-width: 80% !important;
+  }
+}
 
 @media only screen and (max-width: 575px) {
   #contact-us {
@@ -292,10 +297,6 @@ p.contact-text:first-of-type {
 
   .connected-Subheader {
     margin-bottom: 2rem;
-  }
-
-  .formkit-form[data-uid="2b1d95fc77"] {
-    max-width: 90% !important;
   }
 }
 //END Contact page changes 2023 END
