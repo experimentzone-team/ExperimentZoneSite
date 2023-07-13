@@ -238,6 +238,8 @@ p.contact-text:first-of-type {
 }
 
 .contact-icon {
+  height: 50%;
+  width: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -247,9 +249,9 @@ p.contact-text:first-of-type {
   box-shadow: 0 5px 3px rgba(0, 0, 0, 0.2);
   background: #eee8f6;
   color: #663db1;
-  font-size: 7rem;
+  font-size: 5rem;
   padding: 5rem;
-  margin: 1rem;
+  margin: 0 auto;
 }
 
 .social-item > a:hover {
@@ -290,6 +292,10 @@ p.contact-text:first-of-type {
 
   .connected-Subheader {
     margin-bottom: 2rem;
+  }
+
+  .formkit-form[data-uid="2b1d95fc77"] {
+    max-width: 90% !important;
   }
 }
 //END Contact page changes 2023 END
