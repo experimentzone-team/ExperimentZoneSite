@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Most Important Subscription Metrics You Should Track Today to Increase Your Free Trial Sign-Ups
-description: "Nonprofit fundraising metrics are key performance indicators (KPIs) used by nonprofit or charitable organizations to measure activities related to donations and donors."
+description: "Free trial sign-ups allow you to measure how your first-touch marketing efforts are performing. That’s why you need to utilize a conversion funnel that tracks how many people convert into free trial users and paying customers."
 permalink: /blog/trial-signup-metrics
 tags: ["Conversion Rate Optimization", "CRO", "CRO Consulting", "AB testing"]
 categories:
