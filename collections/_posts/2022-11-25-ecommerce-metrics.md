@@ -292,7 +292,7 @@ If you’re looking for actionable ways to meet your business goals with these m
 
 [Experiment Zone](https://experimentzone.com/) helps online e-commerce/retail B2B and B2C (and many other industries across a myriad of verticals), to grow their customer base – and their revenue – by providing easy to use & high-converting experiences for their online visitors. 
 
-You can request a [chat with our e-commerce specialists]((https://experimentzone.com/consult/#free-consult-form)) to see how we can transform your e-commerce business to increase your online sales & email sign-ups and eventually a conversion. Every e-commerce business has its own unique set of conversion strengths and challenges, a chat will help us identify those for you. 
+You can request a [chat with our e-commerce specialists](https://experimentzone.com/consult/#free-consult-form) to see how we can transform your e-commerce business to increase your online sales & email sign-ups and eventually a conversion. Every e-commerce business has its own unique set of conversion strengths and challenges, a chat will help us identify those for you. 
 
 
 
