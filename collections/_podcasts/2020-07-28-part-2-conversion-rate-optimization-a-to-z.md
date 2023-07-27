@@ -26,13 +26,11 @@ header_classes: header-transparent
 
 # Learn about Google Analytics and how it can help improve your conversion rate.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/iaieMfmrHZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="intro_text_image" style="display:flex;align-items:center;justify-content:space-between;">
+    <img class="intro_image" style="max-width:40%;border:3px solid #663db1;" src="../../assets/images/podcasts/adama.jpeg" alt="Adama Hawa Diallo - Her Online Business Podcast" height="300px" width="300px"/>
 
-&nbsp;
-
-Are you getting started with Google Analytics? Our Founder and CEO, AJ Davis, talks through Google Analytics and where to start along with many of the features that can help increase your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate.
-
-<br>
+    <p class="intro_text" style="max-width:60%;">Are you getting started with Google Analytics? Our Founder and CEO, AJ Davis, talks through Google Analytics and where to start along with many of the features that can help increase your <a href="https://experimentzone.com/support/glossary/#Conversion">conversion rate</a>.</p>
+</div>
 
 ---
 

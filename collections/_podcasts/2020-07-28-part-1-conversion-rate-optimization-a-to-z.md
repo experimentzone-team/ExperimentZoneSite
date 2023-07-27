@@ -26,13 +26,11 @@ header_classes: header-transparent
 
 # Learn about conversion rate optimization and the tools you need to get started.
 
-<!-- <iframe title="Part 1/3: Conversion Rate Optimization with AJ Davis" src="https://www.podbean.com/media/player/audio/postId/14823276?url=https%3A%2F%2Fwww.podbean.com%2Few%2Fpb-6nhhw-e22f6c&version=1" width="100%" height="122" style="border:none;" scrolling="no" data-name="pd-iframe-player"></iframe>
+<div class="intro_text_image" style="display:flex;align-items:center;justify-content:space-between;">
+    <img class="intro_image" style="max-width:40%;border:3px solid #663db1;" src="../../assets/images/podcasts/adama.jpeg" alt="Adama Hawa Diallo - Her Online Business Podcast" height="300px" width="300px"/>
 
-&nbsp; -->
-
-Are you getting started with <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate optimization? Our Founder and CEO, AJ Davis, talks through all the tools you need to start implementing and optimizing your website today.⁠ ⁠
-
-<br>
+    <p class="intro_text" style="max-width:60%;">Are you getting started with <a target="_blank" href="https://experimentzone.com/support/glossary/#Conversion">conversion rate optimization</a>? Our Founder and CEO, AJ Davis, talks through all the tools you need to start implementing and optimizing your website today.⁠</p>
+</div>
 
 ---
 

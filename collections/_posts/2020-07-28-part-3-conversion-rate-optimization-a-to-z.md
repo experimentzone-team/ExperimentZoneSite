@@ -26,14 +26,13 @@ custom_css: blog-hero
 ---
 
 # Learn how to improve your website’s User Experience.
+{: #intro_title}
 
-<!-- <iframe title="Part 3/3: Conversion Rate Optimization with AJ Davis" src="https://www.podbean.com/media/player/audio/postId/14935228?url=https%3A%2F%2Fwww.podbean.com%2Few%2Fpb-ivmv8-e3e4bc&version=1" width="100%" height="122" style="border:none;" scrolling="no" data-name="pd-iframe-player"></iframe>
+<div class="intro_text_image" style="display:flex;align-items:center;justify-content:space-between;">
+    <img class="intro_image" style="max-width:40%;border:3px solid #663db1;" src="../../assets/images/podcasts/adama.jpeg" alt="Adama Hawa Diallo - Her Online Business Podcast" height="300px" width="300px"/>
 
-&nbsp; -->
-
-Improving your website User Experience is crucial if you want to increase conversion. Our Founder and CEO, AJ Davis, walks Adama, the host, through an audit of her website, giving tips and suggestions to improve her website’s User Experience.
-
-<br>
+    <p class="intro_text" style="max-width:60%;">Improving your website User Experience is crucial if you want to increase conversion. Our Founder and CEO, AJ Davis, walks Adama, the host, through an audit of her website, giving tips and suggestions to improve her website’s User Experience.</p>
+</div>
 
 ---
 

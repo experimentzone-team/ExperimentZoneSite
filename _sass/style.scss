@@ -298,5 +298,19 @@ p.contact-text:first-of-type {
   .connected-Subheader {
     margin-bottom: 2rem;
   }
+
+  .intro_text_image {
+    flex-direction: column;
+  }
+  .intro_image {
+    max-width: 100% !important;
+  }
+  .intro_text {
+    max-width: 80% !important;
+  }
 }
 //END Contact page changes 2023 END
+
+#intro_title {
+  margin-bottom: 0;
+}
