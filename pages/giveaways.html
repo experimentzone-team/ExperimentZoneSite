@@ -1,37 +1,65 @@
 ---
 layout: default
 title: Giveaways
-subtitle: Experience our services 
+subtitle: Experience our services
 body_classes: page-services-list
+heroSection:
+heroHeading: Giveaways
+heroSubHeading: Experience our Services
+heroSubSubHeading:
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 600
+heroDiagonal: true
+heroDiagonalFill: "#fff"
 ---
 
-<div class="intro intro-big">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.subtitle }}</p>
-      </div>
-    </div>
-  </div>
-</div>
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+  height=page.heroHeight section=page.heroSection heading=page.heroHeading subheading=page.heroSubHeading
+  subsubheading=page.heroSubSubHeading cta-button=page.cta-button
+  cta-button-href=page.cta-button-href overlay=page.heroBackgroundOverlay
+  diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
+
+<style>
+    .hero-image.Giveaways > div {
+        flex-direction: row !important;
+        justify-content: space-between;
+      }
+
+      .hero-text > p.Giveaways {
+        width: max-content;
+      }
+
+    @media only screen and (max-width: 500px) {
+      .hero-image.Giveaways > div {
+        flex-direction: column !important;
+        height: 500px;
+        justify-content: space-evenly;
+      }
+
+      .hero-image .hero-text {
+        margin: 100px 0 0;
+      }
+
+      .section-menu.p-2 {
+        margin: 0 auto !important;
+        width: fit-content !important;
+        padding: 10px 20px !important;
+      }
+    }
+</style>
+<script>
+  const heroText = document.querySelector(".hero-image.Giveaways > div.container > .hero-text");
+  const newHTML = "<div class='section-menu p-2' style='height:min-content;margin:auto 0;'><h2 class='text-primary'>Benefits</h2><ul><li>- Increase your revenue</a></li><li>- Know your customers etter</a></li><li>- Learn what keeps visitors from buying</a></li><li>- Make decisions backed by insights</a></li></ul></div>"
+
+  heroText.insertAdjacentHTML("afterend", newHTML)
+</script>
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-md-7 mt-n5 pl-md-5 pl-lg-2">
+    <div class="col-12 mt-5 pl-md-5 pl-lg-2">
       <h2>Try our free service</h2>
       <p>Let our team help you get the results you want from your website and experience what it is like to work with us.</p>
-    </div>
-    <div class="col-12 col-md-5 col-lg-4 offset-lg-1 section-menu-positive mt-md-n15 mb-3 mt-sm-3">
-      <div class="section-menu p-2">
-        <h2 class="text-primary">Benefits</h2>
-        <ul>
-          <li>- Increase your revenue</a></li>
-          <li>- Know your customers better</a></li>
-          <li>- Uncover what keeps visitors from buying</a></li>
-          <li>- Make decisions backed by insights</a></li>
-        </ul>
-      </div>
     </div>
   </div>
 </div>
