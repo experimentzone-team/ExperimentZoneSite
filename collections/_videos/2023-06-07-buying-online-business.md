@@ -99,14 +99,14 @@ How would you like to double your conversions and double your income? Hi, I'm Ja
 
 Now in this podcast episode, AJ and I specifically talk about why user experience is underrated, how important it really is for buyers, and how it can increase conversions. We also talked about how to recreate the experience of buying something in-store or in-person and transforming it into your site now people buy online through your business. We also talked about what type of research and development you can do to get accurate data using the science of how users like to go through their buying journey. Using accurate data and then transforming that into A/B testing pages and using the scientific data to make sure that the user experience is improved again and again, with using A/B testing pages.
 
-We talked about what most e-commerce product pages should prioritize in terms of what should be at the top of the page, and what should be below the fold. What are the key things that buyers love to have? Is it images? Is it free shipping? Is it social proof? and in what order? And what else should be on the page to make sure that buyers have a great user experience and they are in the position to be able to make that purchase? Now, this is such a juicy podcast episode, you guys are absolutely going to love it. Let's dive in.
+We talked about what most ecommerce product pages should prioritize in terms of what should be at the top of the page, and what should be below the fold. What are the key things that buyers love to have? Is it images? Is it free shipping? Is it social proof? and in what order? And what else should be on the page to make sure that buyers have a great user experience and they are in the position to be able to make that purchase? Now, this is such a juicy podcast episode, you guys are absolutely going to love it. Let's dive in.
 
 <br/>
 
 
 ##### **Jared Krause 2:00**
 
-Hello, AJ, welcome to the buying online businesses podcast. [Hey, nice to be here.] I'm looking forward to this chat because I am super into buyer's experience and going through a buyer's journey and what's hugely incorporated into the user experience of the website. I guess you're normally working with E-commerce businesses but I want to ask you, why is user experience so important? What are some of the main things that we should be thinking about with user experience?
+Hello, AJ, welcome to the buying online businesses podcast. [Hey, nice to be here.] I'm looking forward to this chat because I am super into buyer's experience and going through a buyer's journey and what's hugely incorporated into the user experience of the website. I guess you're normally working with ecommerce businesses but I want to ask you, why is user experience so important? What are some of the main things that we should be thinking about with user experience?
 
 <br/>
 
@@ -192,7 +192,7 @@ I don't know where to go with this. I want to talk about one of the case studies
 
 ##### **AJ Davis  11:04**
 
-I'm gonna actually take it a little different direction than e-commerce because we had a SAAS (software as a service) company that we worked with [love it]. One of the key takeaways any listener could take for their own website, no matter what kind of website they do, if they're selling something or not, is complexity makes it harder for people to make decisions. What we saw was, simplicity is good, but you have to get to the right kind of things that are simple. Putting the wrong simple things on isn't any better than having the right information buried.
+I'm gonna actually take it a little different direction than ecommerce because we had a SAAS (software as a service) company that we worked with [love it]. One of the key takeaways any listener could take for their own website, no matter what kind of website they do, if they're selling something or not, is complexity makes it harder for people to make decisions. What we saw was, simplicity is good, but you have to get to the right kind of things that are simple. Putting the wrong simple things on isn't any better than having the right information buried.
 
 We worked with a client, who had a landing page that was really curated for the moment, that audience was in their buyer's journey. They had some contexts they were looking at some competitor information, and they just kept adding more information to it. They had product features, they had differentiators, and they had what to expect in the demo meeting. They had testimonials, they just had they had it all, they had a page that looked like one of those templates you find for what an ideal landing page should look like.
 
@@ -221,7 +221,7 @@ Because people who are gonna do phone sales or close people in real life, still 
 
 It is but we still then lead them to that sales conversation. [Yeah] So it wasn't a disconnected experience where it was just online or just the conversation with the sales representative. It was both, it was leading to that conversation and we see this play out a lot. What we find is, as business owners, or as designers think we need to give the piece of information once because they're at this point in the journey and this is what they need.
 
-In practice, they need the most important information at every single step of the journey. That's why you see free shipping messages on every single page of e-commerce because it matters, people forget, they get distracted, they start doubting it and they just need that reassurance of those like key pieces of information.
+In practice, they need the most important information at every single step of the journey. That's why you see free shipping messages on every single page of ecommerce because it matters, people forget, they get distracted, they start doubting it and they just need that reassurance of those like key pieces of information.
 
 <br/>
 
@@ -273,16 +273,16 @@ Our business here at BOB, we have a membership where people will come in and the
 
 ##### **Jared Krause  19:25**
 
-I want to talk about navigation. I've found that navigation is so big, not just for e-commerce businesses and SaaS businesses but particularly for content sites like blogs, where the goal is to have people stay on the website longer to make more money through ad revenue and affiliate revenue. Is that the same with SaaS and eCommerce businesses? That you want to put the best pieces of content in front of those people that are the right pieces of content for them as soon as possible? As soon as they come to your homepage, give them the content that they're looking for right away, is that what you're saying?
+I want to talk about navigation. I've found that navigation is so big, not just for ecommerce businesses and SaaS businesses but particularly for content sites like blogs, where the goal is to have people stay on the website longer to make more money through ad revenue and affiliate revenue. Is that the same with SaaS and ecommerce businesses? That you want to put the best pieces of content in front of those people that are the right pieces of content for them as soon as possible? As soon as they come to your homepage, give them the content that they're looking for right away, is that what you're saying?
 
 <br/>
 
 
 ##### **AJ Davis  19:58**
 
-I would say we generally don't want to take people from the homepage on e-commerce to a blog. [Yes.] We want to keep them going the other way, so the premise is the same. The goal is, if people are getting to your site, they're getting to content that's relevant to them, we find that there's a lot of opportunity to make it easier to go between parts of the site. You're often working on taking a blog post or design and helping to get to the product or promote the product in the right way where it's transparent what you're doing. But you're not making them work to figure out an article that talks about "solving the problem I have." "But where do I go next?" "How do I actually buy this thing that we are talking about?
+I would say we generally don't want to take people from the homepage on ecommerce to a blog. [Yes.] We want to keep them going the other way, so the premise is the same. The goal is, if people are getting to your site, they're getting to content that's relevant to them, we find that there's a lot of opportunity to make it easier to go between parts of the site. You're often working on taking a blog post or design and helping to get to the product or promote the product in the right way where it's transparent what you're doing. But you're not making them work to figure out an article that talks about "solving the problem I have." "But where do I go next?" "How do I actually buy this thing that we are talking about?
 
-If I think about that same question of "relevant content", one of the things that we see work over and over again in e-commerce, is actually taking products like specific products that the business has picked out, or an algorithm has picked out, that "these are recommended for you", "Here are the top 10 best selling products on the site right now." And instead of pointing people to this idea of we sell pants, you show "Here are the top five pairs of pants that are selling right now." And people click on those more, they're more likely to get in there and start browsing for it and are ultimately more likely to order it.
+If I think about that same question of "relevant content", one of the things that we see work over and over again in ecommerce, is actually taking products like specific products that the business has picked out, or an algorithm has picked out, that "these are recommended for you", "Here are the top 10 best selling products on the site right now." And instead of pointing people to this idea of we sell pants, you show "Here are the top five pairs of pants that are selling right now." And people click on those more, they're more likely to get in there and start browsing for it and are ultimately more likely to order it.
 
 We're always talking about "bring the product up," "bring it up the page," and  "bring it to the forefront," like giving people something that they can really hang a hat on as this is a specific product rather than a category. And so is the same as I would imagine with blog posts or other kinds of content where you don't necessarily want them to be like clicking through and narrowing down too many times. But instead, here's a really juicy piece of content that's relevant to me right now, let me click on it and get reading.
 
@@ -305,7 +305,7 @@ Don't make me scroll for it. [Put it right up above the fold. Don't make me work
 
 ##### **Jared Krause  21:50**
 
-When we're doing due diligence on a business, particularly an e-commerce business, I like to ask people, what are the business's top five best-selling products? And what are they doing with those products, one of those things is putting them up on the top, in the very visible position on the site to make sure people know these are the ones people are buying because they're the best. Maybe check them out first, if they're not for you, then fine, we've got a big bunch of other hands.
+When we're doing due diligence on a business, particularly an ecommerce business, I like to ask people, what are the business's top five best-selling products? And what are they doing with those products, one of those things is putting them up on the top, in the very visible position on the site to make sure people know these are the ones people are buying because they're the best. Maybe check them out first, if they're not for you, then fine, we've got a big bunch of other hands.
 
 <br/>
 
@@ -319,7 +319,7 @@ Coming to the navigation though, one of the lowest hanging fruit, if anyone list
 
 ##### **Jared Krause  22:51**
 
-I'm curious about the R&D that you did with the SaaS business and speaking to their team. I'm wondering how that would look when doing R&D and A/B testing for product pages or listing pages. Do you often do that? For example, would you speak to the team and say, “What's important to note about this product?” “What have you found?” Is this going to be a general thing between SaaS and e-commerce businesses that you have worked with? What are some of the general things that you've found that the winning page of an A/B test has? That's usually one of those things, obviously, free shipping. But, what are some of those other things?
+I'm curious about the R&D that you did with the SaaS business and speaking to their team. I'm wondering how that would look when doing R&D and A/B testing for product pages or listing pages. Do you often do that? For example, would you speak to the team and say, “What's important to note about this product?” “What have you found?” Is this going to be a general thing between SaaS and ecommerce businesses that you have worked with? What are some of the general things that you've found that the winning page of an A/B test has? That's usually one of those things, obviously, free shipping. But, what are some of those other things?
 
 <br/>
 
@@ -335,7 +335,7 @@ This always uncovers a wealth of things that nobody in their team has thought ab
 
 ##### **AJ Davis  24:27**
 
-Coming to the part of your question about specifics for product pages, images matter a lot in e-commerce, but the images you choose for thumbnails and where the thumbnails go also matter a lot. We've done some really interesting testing around what the thumbnail should look like and what the order should be, should there be text in it? Should it be lifestyle images first and all that is very brand dependent because it matters the context of how you use the product or if the context matters. Descriptions are often too high up on the page and often too lengthy, so that's often a place of simplicity, how do we boil down the core part of the information they need? Oftentimes teams aren't creating clear architecture and data within the page of the product page.
+Coming to the part of your question about specifics for product pages, images matter a lot in ecommerce, but the images you choose for thumbnails and where the thumbnails go also matter a lot. We've done some really interesting testing around what the thumbnail should look like and what the order should be, should there be text in it? Should it be lifestyle images first and all that is very brand dependent because it matters the context of how you use the product or if the context matters. Descriptions are often too high up on the page and often too lengthy, so that's often a place of simplicity, how do we boil down the core part of the information they need? Oftentimes teams aren't creating clear architecture and data within the page of the product page.
 
 What I mean by that is there are clear instructions, there are reviews, there's "here's our blurb about the inspiration behind this product" or “here are the designer notes.” And the more we can break those out into specific things, the easier for our customers or potential customers to weed through it and find what matters to them.
 
@@ -346,7 +346,7 @@ So finding out how to break that down and what the order should be, can all come
 
 ##### **Jared Krause  25:53**
 
-That's cool. I'm very interested in the order of the content, and I know it's going to be dependent on the brand and the business. But is there a typical average that works for most e-commerce businesses? For example, are images really the most important, and then the bullet point lists with free shipping? And then reviews? And then the last thing is the long description that some people do care about, but not everybody, is there a list?
+That's cool. I'm very interested in the order of the content, and I know it's going to be dependent on the brand and the business. But is there a typical average that works for most ecommerce businesses? For example, are images really the most important, and then the bullet point lists with free shipping? And then reviews? And then the last thing is the long description that some people do care about, but not everybody, is there a list?
 
 <br/>
 

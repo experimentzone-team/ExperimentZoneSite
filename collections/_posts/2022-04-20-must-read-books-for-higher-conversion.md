@@ -45,7 +45,7 @@ These books can provide a good place to begin, especially when paired with exper
   </a>
 </div>
 
-One of the first books you should pick up in this space is the Don't Make Me Think by Steve Krug book.  It's a common sense approach to web usability, and it is a quick and easy read. This is a great book to start with if you've never really thought about usability and how to design a website. The examples are a little bit outdated in the first edition ([check revised version here](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited){:target="\_blank"}). We believe this book clearly conveys the concepts around  don't make your customers think: tell them what you do and make it obvious. 
+One of the first books you should pick up in this space is the Don't Make Me Think by Steve Krug book.  It's a common sense approach to web usability, and it is a quick and easy read. This is a great book to start with if you've never really thought about usability and how to design a website. The examples are a little bit outdated in the first edition ([check revised version here](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited){:target="\_blank"}). We believe this book clearly conveys the concepts around  don't make your customers think: tell them what you do and make it obvious.
 
 
 <br/>
@@ -114,7 +114,7 @@ The book includes a lot of examples of successful landing pages, so you can see 
   </a>
 </div>
 
-This is a great book we recommend for e-commerce entrepreneurs who want toget started with conversion optimization. After reading Kill your conversion Killers, you will be able to spot conversion killers at a glance, run A/B tests in a smart way, and exploit factors that influence how your customers buy from you. You will also identify certain areas for potential revenue growth by creating important tests. 
+This is a great book we recommend for ecommerce entrepreneurs who want toget started with conversion optimization. After reading Kill your conversion Killers, you will be able to spot conversion killers at a glance, run A/B tests in a smart way, and exploit factors that influence how your customers buy from you. You will also identify certain areas for potential revenue growth by creating important tests.
 
 
 
@@ -159,7 +159,7 @@ Barden's book is full of interesting insights about the human brain and why it i
 
 A/B testing is a powerful tool to turn clicks into customers. This technique has been used for decades, and it has been proven to be one of the most effective methods to improve conversion rates.
 
-This book by Dan Siroker and Pete Koomen will show you how A/B testing can be applied in different industries, from e-commerce (where the goal is to increase sales), to education (where the goal may be to  increase student engagement or improve retention rates). More interestingly, it will also show you how A/B testing can be applied in your personal life and how it can help you achieve your goals faster and more reliably than any other strategy.
+This book by Dan Siroker and Pete Koomen will show you how A/B testing can be applied in different industries, from ecommerce (where the goal is to increase sales), to education (where the goal may be to  increase student engagement or improve retention rates). More interestingly, it will also show you how A/B testing can be applied in your personal life and how it can help you achieve your goals faster and more reliably than any other strategy.
 
 
 <br/>
@@ -237,7 +237,7 @@ The conversion optimization process is an art and science. It consists of a seri
 
 The first step in the conversion optimization process is identifying the goals for your website. These goals should be measurable, so that you know when you have achieved them. The next step is to create a hypothesis, which is a guess about what will happen if you make changes to your website. You then run tests by implementing changes and measuring the results against your hypothesis to see if they work or not.
 
-In this book, you will learn how to use conversion optimization techniques such as A/B testing, multivariate testing, and segmentation in your marketing campaigns. It will also show you how to create persuasive content that converts visitors into leads and leads into customers. 
+In this book, you will learn how to use conversion optimization techniques such as A/B testing, multivariate testing, and segmentation in your marketing campaigns. It will also show you how to create persuasive content that converts visitors into leads and leads into customers.
 
 
 <br/>

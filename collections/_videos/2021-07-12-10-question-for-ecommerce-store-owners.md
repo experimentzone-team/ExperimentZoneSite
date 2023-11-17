@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Questions You Should Be Asking About Your Ecommerce Store."
-description: "AJ Davis will share the ten questions you need to answer about your e-commerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
+description: "AJ Davis will share the ten questions you need to answer about your ecommerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
 # permalink: video/10-question-for-ecommerce-store-owners
 tags: [""]
 categories: [""]
@@ -13,13 +13,13 @@ heroHeight: 600
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "10 Questions You Should Be Asking About Your Ecommerce Store."
-meta_description: "AJ Davis will share the ten questions you need to answer about your e-commerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
+meta_description: "AJ Davis will share the ten questions you need to answer about your ecommerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
 meta_author: "AJ Davis"
 meta_og_title: "10 Questions You Should Be Asking About Your Ecommerce Store."
 meta_og_type: website
 meta_og_url: "https://experimentzone.com/video/what-is-a-conversion-deep-dive"
 meta_og_image: "https://experimentzone.com/assets/images/Experiment-Zone-logo-color.png"
-meta_og_description: "AJ Davis will share the ten questions you need to answer about your e-commerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
+meta_og_description: "AJ Davis will share the ten questions you need to answer about your ecommerce business. She'll show you how to find the answers using Google Analytics and customer research tools. You'll leave knowing which metrics you should be tracking, and what you need to know about your customers in order to improve your online sales. "
 header_classes: header-transparent
 ---
 
@@ -34,7 +34,7 @@ header_classes: header-transparent
     .iframe-container{
         position: relative;
         width: 100%;
-        padding-bottom: 56.25%; 
+        padding-bottom: 56.25%;
         height: 0;
     }
     .iframe-container iframe{

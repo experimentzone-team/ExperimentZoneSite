@@ -39,7 +39,7 @@ If you’re interested in a breakdown of A/B testing tools, check out our guide 
 
 <br>
 
-## How A/B Testing Can Benefit An E-Commerce Site
+## How A/B Testing Can Benefit an Ecommerce Site
 
 Just like a physical retailer needs an inviting storefront, excellent signage, and a store that is easy to navigate, online retailers need a website that increases the likelihood of visitors making a purchase. Running A/B tests will bring confidence that the content, imagery, and design choices you are making are helping - not hurting - in helping customers in their journey.
 Benefits of A/B testing include:

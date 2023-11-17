@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 11 Fixes to Make to Your E-Commerce Store before the Holidays
-description: "Are you prepared for the holidays? 11 tips to boost your sales for the 2021 season. Marketing strategies for your eCommerce during Black Friday, Cyber Monday, and Christmas."
+title: 11 Fixes to Make to Your Ecommerce Store before the Holidays
+description: "Are you prepared for the holidays? 11 tips to boost your sales for the 2021 season. Marketing strategies for your ecommerce during Black Friday, Cyber Monday, and Christmas."
 permalink: /blog/ecommerce-holiday-fixes
 tags: ["Conversion Rate Optimization", "CRO", "CRO Consulting", "Holidays"]
 categories:
@@ -15,8 +15,8 @@ heroBackgroundOverlay: false
 heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "11 Fixes to Make to Your E-Commerce Store before the Holidays"
-meta_description: "Are you prepared for the holidays? 11 tips to boost your sales for the 2021 season. Marketing strategies for your eCommerce during Black Friday, Cyber Monday, and Christmas."
+meta_title: "11 Fixes to Make to Your Ecommerce Store before the Holidays"
+meta_description: "Are you prepared for the holidays? 11 tips to boost your sales for the 2021 season. Marketing strategies for your ecommerce during Black Friday, Cyber Monday, and Christmas."
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
@@ -29,13 +29,13 @@ custom_css: blog-hero
 
 <style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;} .content img {margin: 20px 0px}</style>
 
-The holiday season is fast approaching. It seems to come earlier and earlier each year. Many stores are promoting their holiday offers weeks before **Black Friday** and **Cyber Monday**. Even though E-commerce companies are ready with their offers and marketing campaigns, they often leave their website experience behind.
+The holiday season is fast approaching. It seems to come earlier and earlier each year. Many stores are promoting their holiday offers weeks before **Black Friday** and **Cyber Monday**. Even though ecommerce companies are ready with their offers and marketing campaigns, they often leave their website experience behind.
 
-Choose to stand out from your competition. Have your eCommerce store ready this holiday season. Keep in mind that **holiday visitors expect a different experience**. They aren’t your normal customers. They often come with a gifting mindset and maybe less loyal to your company.
+Choose to stand out from your competition. Have your ecommerce store ready this holiday season. Keep in mind that **holiday visitors expect a different experience**. They aren’t your normal customers. They often come with a gifting mindset and maybe less loyal to your company.
 
 Do you want help finding the highest impact improvements? Sign up for our [Free Conversion Report Card](/giveaways/report_card/) and get personalized insights that will help boost your store's sales.
 
-Now for the 11 fixes you should make to your eCommerce store to be ready for the holidays.
+Now for the 11 fixes you should make to your ecommerce store to be ready for the holidays.
 
 <br />
 

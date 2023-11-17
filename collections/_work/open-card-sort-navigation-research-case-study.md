@@ -17,13 +17,13 @@ header_classes: header-transparent
 
 ## Client Background
 
-The client for this study is an e-commerce brand that focuses on creative approaches to daily organization and offers a wide range of custom products.
+The client for this study is an ecommerce brand that focuses on creative approaches to daily organization and offers a wide range of custom products.
 
 <br>
 
 ## The Challenge
 
-Their website offers many different products and the client was looking for best ways to simplify their navigation because a previous research study had uncovered that the navigation was overwhelming for visitors to the website. 
+Their website offers many different products and the client was looking for best ways to simplify their navigation because a previous research study had uncovered that the navigation was overwhelming for visitors to the website.
 
 The goals of our collaboration  were to:
 <ul>
@@ -40,16 +40,16 @@ We applied an unmoderated open card sort technique using a specialized platform 
 
 This study included 60 participants that were divided amongst 3 different screening criteria: current customers, previous customers (unengaged), and new prospects.
 
-Participants were instructed to sort the different cards provided into categories. Participants were then directed to the client’s  website and asked a few questions regarding their thoughts on the existing navigation as compared to how they had organized it in their card sort. 
+Participants were instructed to sort the different cards provided into categories. Participants were then directed to the client’s  website and asked a few questions regarding their thoughts on the existing navigation as compared to how they had organized it in their card sort.
 
 
 <br>
 
 ## The Results
 
-This exercise revealed that the current navigation was too specific in some cases compared to what the study participants were expecting, especially for new visitors. Additionally, some of the items were difficult to place in categories, indicating that they may not be a natural fit for the navigation. 
+This exercise revealed that the current navigation was too specific in some cases compared to what the study participants were expecting, especially for new visitors. Additionally, some of the items were difficult to place in categories, indicating that they may not be a natural fit for the navigation.
 
-Ultimately, participants across the board felt that the navigation had too many different categories and sub-categories, making it more difficult for them to find specific items. They also helped identify items placed in certain categories that did not necessarily belong there. 
+Ultimately, participants across the board felt that the navigation had too many different categories and sub-categories, making it more difficult for them to find specific items. They also helped identify items placed in certain categories that did not necessarily belong there.
 
 Overall, the navigation study led to a detailed report with recommendations that laid the foundation for a new, more efficient navigation for the client’s website. This study helped the client understand how to reorganize the navigation and provided insight on where participants think certain products should be placed on the website.
 

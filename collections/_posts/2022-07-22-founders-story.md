@@ -35,7 +35,7 @@ custom_css: blog-hero
 
 Experiment Zone is a leading CRO agency, founded in 2017 and headquartered in Austin, Texas. We help companies improve their customer experiences using scientific methods, so they can get more revenue and grow.
 
-Our team began our journey focused on DTC eCommerce websites and helping customers create experiences that enabled customers from browsing to order products online. We’ve expanded to additional markets, including B2B and B2C businesses in retail & eCommerce, SaaS & software, finance, and fintech, health & wellness, and construction, among many others. We’re passionate about helping your team connect with your customer and get them to take the desired action on your website.
+Our team began our journey focused on DTC ecommerce websites and helping customers create experiences that enabled customers from browsing to order products online. We’ve expanded to additional markets, including B2B and B2C businesses in retail & ecommerce, SaaS & software, finance, and fintech, health & wellness, and construction, among many others. We’re passionate about helping your team connect with your customer and get them to take the desired action on your website.
 
 <br/>
 
@@ -69,7 +69,7 @@ Experiment Zone helps companies identify opportunities and evaluate ideas using 
 
 We help online B2B and B2C businesses that want to grow their customer base – and their revenue – by providing easy to use & high-converting experiences for their online visitors.
 
-Our expertise spans many industries, including e-commerce/retail, health and wellness, beauty,  fashion, software (SaaS), financial and insurance services, real estate and construction, and lead generation across a myriad of additional verticals.
+Our expertise spans many industries, including ecommerce/retail, health and wellness, beauty,  fashion, software (SaaS), financial and insurance services, real estate and construction, and lead generation across a myriad of additional verticals.
 
 
 # Our values & philosophy about experimentation and user research

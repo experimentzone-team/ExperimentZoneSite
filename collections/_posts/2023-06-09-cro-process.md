@@ -29,9 +29,9 @@ custom_css: blog-hero
 <style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;} .content img {margin: 20px 0px}</style>
 
 
-We often hear from businesses that are frustrated by the lackluster results of their current conversion rate optimization (CRO) program. Experiments are inconclusive and don’t point their teams in a specific direction. They don’t see results to generate a high enough ROI to justify their investment in testing tools and teams. They just don’t know the best process and approach to identify the best ways to optimize their user experiences. 
+We often hear from businesses that are frustrated by the lackluster results of their current conversion rate optimization (CRO) program. Experiments are inconclusive and don’t point their teams in a specific direction. They don’t see results to generate a high enough ROI to justify their investment in testing tools and teams. They just don’t know the best process and approach to identify the best ways to optimize their user experiences.
 
-Our team at Experiment Zone has done the heavy lifting to find the best process for Conversion Testing and Strategy programs. We’ve developed a robust, data-driven approach to optimizing the sitewide user experience (UX) - relying on the right qualitative and quantitative user research methods combined with the hard data from analytics and A/B testing. Our approach surfaces the most significant problems standing in the way of your business goals and the best design solutions to solve these issues for your digital customer. 
+Our team at Experiment Zone has done the heavy lifting to find the best process for Conversion Testing and Strategy programs. We’ve developed a robust, data-driven approach to optimizing the sitewide user experience (UX) - relying on the right qualitative and quantitative user research methods combined with the hard data from analytics and A/B testing. Our approach surfaces the most significant problems standing in the way of your business goals and the best design solutions to solve these issues for your digital customer.
 
 The right CRO process allows you to identify, test, and implement optimization decisions based on an analysis of data that will have the most positive impact on your business. Let’s get familiar with CRO, what a [Conversion Strategy & Testing program](https://experimentzone.com/services/conversion-strategy-and-testing/) is, and learn about Experiment Zone’s expert approach to a CRO Program process.
 
@@ -42,7 +42,7 @@ The right CRO process allows you to identify, test, and implement optimization d
 
 ### **What is CRO?**
 
-Conversion Rate Optimization (CRO) is a data-driven process of improving the customer experience and journeys so that visitors are more likely to complete the desired action (“convert”). 
+Conversion Rate Optimization (CRO) is a data-driven process of improving the customer experience and journeys so that visitors are more likely to complete the desired action (“convert”).
 
 <br/>
 
@@ -60,8 +60,8 @@ Depending on your conversion goal, the visitor could sign up for newsletters, do
 
 The conversion rate is the percentage of visitors who completed a desired goal (a conversion) out of the total number of visitors. Here are the average conversion rates standards for some industries:
 
-* [2.23%](https://www.chilipiper.com/resources/blog/conversion-rate-benchmarks#:~:text=The%20average%20conversion%20rate%20for,collectively%20within%20the%20B2B%20sphere){:target="\_blank"} for business-to-business (B2B) companies. 
-* [1.78%](https://ng.oberlo.com/statistics/average-ecommerce-conversion-rate){:target="\_blank"} for business-to-consumer (B2C) such as e-commerce businesses.
+* [2.23%](https://www.chilipiper.com/resources/blog/conversion-rate-benchmarks#:~:text=The%20average%20conversion%20rate%20for,collectively%20within%20the%20B2B%20sphere){:target="\_blank"} for business-to-business (B2B) companies.
+* [1.78%](https://ng.oberlo.com/statistics/average-ecommerce-conversion-rate){:target="\_blank"} for business-to-consumer (B2C) such as ecommerce businesses.
 
 > **Conversion Rate = (Total Number of Conversions / Total Number of Unique Visitors) x 100**
 
@@ -74,9 +74,9 @@ The average conversion rate for your website is typically influenced by the size
 
 A Conversion Strategy & Testing program is a digital marketing strategy developed for optimizing the conversion rate of your website or app.
 
-CRO programs are all about analyzing your website to find any obstacles in the way of conversion, then tackling and optimizing what needs doing in order to get your visitors turning into customers. 
+CRO programs are all about analyzing your website to find any obstacles in the way of conversion, then tackling and optimizing what needs doing in order to get your visitors turning into customers.
 
-This is achieved through user research, expert site reviews, data analytics, customer journey mapping, A/B testing, and more. 
+This is achieved through user research, expert site reviews, data analytics, customer journey mapping, A/B testing, and more.
 
 <br/>
 
@@ -85,13 +85,13 @@ This is achieved through user research, expert site reviews, data analytics, cus
 
 #### [**Site Experience Audit**](https://experimentzone.com/services/site-experience-audit/)
 
-Conducting a site experience audit is a way to uncover the friction points in your digital products i.e. which parts of your website or app are challenging for users and hindering conversions. 
+Conducting a site experience audit is a way to uncover the friction points in your digital products i.e. which parts of your website or app are challenging for users and hindering conversions.
 
 You can fast-track your conversion improvements with an expert review of your end-to-end customer journey. We'll provide a thorough and detailed analysis of the experience and prioritized recommendations for improving the user experience and driving conversion.
 
 Site experience audits are one of the most common types of stand-alone research projects performed by our team of researchers (lead and supporting). Traditionally we use two main methods/ strategies:
 
-* Cognitive Walkthrough 
+* Cognitive Walkthrough
 * Heuristic Analysis
 
 <br/>
@@ -99,9 +99,9 @@ Site experience audits are one of the most common types of stand-alone research 
 
 #### **Generate & Prioritize Hypotheses Using GPS (Goals, Problems, and Solutions)**
 
-We develop high-impact tests based on learnings from research (competitor site reviews, site audits, usability studies, surveys, etc) and data analytics. 
+We develop high-impact tests based on learnings from research (competitor site reviews, site audits, usability studies, surveys, etc) and data analytics.
 
-Key insights from these studies, as well as the overarching business goals of our clients, help us generate hypotheses for A/B tests. These hypotheses are then evaluated, scored, and prioritized through a thorough process that involves our strategy, design, analytics, and development teams. What results is a high-impact/low-effort prioritized testing roadmap that is presented to our clients for discussion and approval. 
+Key insights from these studies, as well as the overarching business goals of our clients, help us generate hypotheses for A/B tests. These hypotheses are then evaluated, scored, and prioritized through a thorough process that involves our strategy, design, analytics, and development teams. What results is a high-impact/low-effort prioritized testing roadmap that is presented to our clients for discussion and approval.
 
 
 <div style="text-align:centre">
@@ -123,11 +123,11 @@ At this phase, we validate that the solutions have the intended impact (and lear
 </div>
 
 
-* **Hypothesis:** A hypothesis is a prediction created prior to running an experiment. It states what is being changed, what we believe the outcome will be, and why we think that’s the case. Running the experiment will either prove or disprove the hypothesis. 
-  
-  Our team of CRO experts will propose high-impact test hypotheses. If approved, the test will move to the planning phase. 
+* **Hypothesis:** A hypothesis is a prediction created prior to running an experiment. It states what is being changed, what we believe the outcome will be, and why we think that’s the case. Running the experiment will either prove or disprove the hypothesis.
 
-* **Test Plan:** This is the next phase after proposing the test hypotheses. A detailed test plan is documented by our CRO team and sent for feedback and approval. 
+  Our team of CRO experts will propose high-impact test hypotheses. If approved, the test will move to the planning phase.
+
+* **Test Plan:** This is the next phase after proposing the test hypotheses. A detailed test plan is documented by our CRO team and sent for feedback and approval.
 
 * **Design & Copy:** Our team will create a mockup of the copy and visual change in the test. The mockup will be shared with the client for feedback & approval.
 
@@ -144,21 +144,21 @@ At this phase, we validate that the solutions have the intended impact (and lear
 
 #### **Data Results & Actionable Insights**
 
-Analyze test results to determine visitor friction points and improve customer experience. 
+Analyze test results to determine visitor friction points and improve customer experience.
 
 <br/>
 
 
 #### **Implement Winning Tests**
 
-Permanently implement the winning test, increasing annual revenue and site experience. 
+Permanently implement the winning test, increasing annual revenue and site experience.
 
 <br/>
 
 
 ### **Conclusion**
 
-There are plenty of so-called “quick fixes” that can help with your conversion rates or marketing campaigns, but they are only the surface-level, starting place for conversion rate optimization. You need to go layers deeper in order to drive significant growth through CRO. 
+There are plenty of so-called “quick fixes” that can help with your conversion rates or marketing campaigns, but they are only the surface-level, starting place for conversion rate optimization. You need to go layers deeper in order to drive significant growth through CRO.
 
 Our team of CRO experts will do the heavy lifting by helping you understand your customers specifically and how they interact with the site, assess the current site experience, and recommend high-impact tests. [Schedule a free discovery call now](https://experimentzone.com/consult/) with our CEO, [AJ Davis.](https://experimentzone.com/team/aj-davis/)
 

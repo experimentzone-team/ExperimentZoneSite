@@ -90,7 +90,7 @@ Shorten the hero. On some sites, the scroll map shows that most customers aren�
 
 &nbsp;
 
-Customers abandoning cart can be a real point of confusion (and frustration) for eCommerce teams. You can spend hours discussing what _might_ be the issue for would-be customers. Or you can just ask them! We’ll use the exit intent survey to capture them in this “moment of truth” to understand what they are thinking, looking for, and why they are leaving.
+Customers abandoning cart can be a real point of confusion (and frustration) for ecommerce teams. You can spend hours discussing what _might_ be the issue for would-be customers. Or you can just ask them! We’ll use the exit intent survey to capture them in this “moment of truth” to understand what they are thinking, looking for, and why they are leaving.
 
 Test Idea:
 If visitors are leaving to find coupons, consider making it easier to apply the existing coupons from elsewhere on the site. Are your coupon codes easy to copy? Can they be applied automatically? Alternatively, if few customers normally use coupons, consider hiding or delaying the coupon field. If customers see a field and don’t have a coupon, they may leave to go find one (and not come back!)

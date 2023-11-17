@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 3
 heroHeading: "Case Study: Attainable Beauty Products"
-heroSubHeading: "E-Commerce Conversion Rate Grows 41% After Six Months"
+heroSubHeading: "Ecommerce Conversion Rate Grows 41% After Six Months"
 heroBackground: "assets/images/work/beauty-company-banner-image.jpg"
 backgroundOverlay: true
 heroHeight: 400
@@ -17,7 +17,7 @@ header_classes: header-transparent
 <style>
 .hero-image .hero-text h1 {
     font-size: 2rem;
-    } 
+    }
 @media (min-width: 768px) {
     .hero-image .hero-text h1 {
         font-size: 3rem;
@@ -62,7 +62,7 @@ Additionally, the client saw improvements in several top line metrics in their b
 
 - 25.5% Online Revenue Growth
 - 40.6% Order Conversion Rate
-- 68.0% E-Commerce Orders
+- 68.0% Ecommerce Orders
 
 <div><b><i style="font-size: 1.3rem">“The improvements we saw from testing with Experiment Zone exceeded our expectations. Their communication and collaboration make them a trustworthy team with whom we’re happy to partner.”</i></b>
 </div>

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Why Conversion Rate Optimization is a great investment for your eCommerce business (at every marketing budget)
+title: Why Conversion Rate Optimization is a great investment for your ecommerce business (at every marketing budget)
 description: "If you want to develop a CRO strategy for your online store, then check out how you can start at every budget."
 permalink: /blog/CRO-ecommerce-business
-tags: ["Conversion Rate Optimization", "CRO", "eCommerce", "Small Business"]
+tags: ["Conversion Rate Optimization", "CRO", "ecommerce", "Small Business"]
 categories:
-  ["Conversion Rate Optimization", "CRO", "eCommerce", "Small Business"]
+  ["Conversion Rate Optimization", "CRO", "ecommerce", "Small Business"]
 author: aj_davis
 heroBackground: "assets/images/posts/CRO-ecommerce-business.jpg"
 backgroundOverlay: true
@@ -15,7 +15,7 @@ heroBackgroundOverlay: false
 heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "Why Conversion Rate Optimization is a great investment for your eCommerce business (at every marketing budget)"
+meta_title: "Why Conversion Rate Optimization is a great investment for your ecommerce business (at every marketing budget)"
 meta_description: "If you want to develop a CRO strategy for your online store, then check out how you can start at every budget."
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
@@ -31,17 +31,17 @@ header_classes: header-transparent
 
 ### If you want to develop a CRO strategy for your online store, then check out how you can start at every budget.
 
-# Why Conversion Rate Optimization is a great investment for your eCommerce business (at every marketing budget)
+# Why Conversion Rate Optimization is a great investment for your ecommerce business (at every marketing budget)
 
-The purpose of conversion rate optimization (CRO) is to increase the percentage of website visitors that turn into customers. For your eCommerce business, you'll focus on the percentage of people who buy something from your online store. Whether you sell jewelry, beauty products, or furniture (or anything in between), you need to have a strategy to optimize your conversions and create a smooth customer experience.
+The purpose of conversion rate optimization (CRO) is to increase the percentage of website visitors that turn into customers. For your ecommerce business, you'll focus on the percentage of people who buy something from your online store. Whether you sell jewelry, beauty products, or furniture (or anything in between), you need to have a strategy to optimize your conversions and create a smooth customer experience.
 
 If you want to develop a CRO strategy for your online store, keep reading to learn how you can start at every budget.
 
 <br />
 
-## What benefits do eCommerce businesses get from CRO?
+## What benefits do ecommerce businesses get from CRO?
 
-Let’s start with the benefits of CRO for your eCommerce business. CRO is data-driven. There’s no guesswork in CRO because you can hone in on the metrics that matter most to you. You can also measure your impact with a conversion rate optimization strategy.
+Let’s start with the benefits of CRO for your ecommerce business. CRO is data-driven. There’s no guesswork in CRO because you can hone in on the metrics that matter most to you. You can also measure your impact with a conversion rate optimization strategy.
 
 When you decide to invest in CRO, you ultimately invest in a better shopping experience for your customers. If you’re strategic with your calls-to-action (CTA), checkout experience, and product pages, your customers will want to engage with your business. When customers want to engage with you, you’re more likely to increase sales. If you’re ready to increase conversions, then read on to learn why you should add CRO to your business strategy and the steps to start converting your website visitors.
 
@@ -53,7 +53,7 @@ Rather than guessing how to improve your website, consider investing in professi
 
 CRO specialists have the expertise needed to help you make data-driven decisions for your business. Their job is to increase your rate of investment and help you develop a sustainable business.
 
-A CRO agency can hone in on the metrics that matter most to your eCommerce business. For example, a specialist can focus on the following areas:
+A CRO agency can hone in on the metrics that matter most to your ecommerce business. For example, a specialist can focus on the following areas:
 
 1. Average order value (AOV)
 2. Shopping cart abandonment rate
@@ -72,7 +72,7 @@ To figure out your level of impact, pay attention to your CRO results from multi
 
 <br>
 
-## Reason #3: CRO Results in a better, more valuable eCommerce experience
+## Reason #3: CRO Results in a better, more valuable ecommerce experience
 
 To provide the best website experience possible, CRO provides you with services that remove obstacles that prevent customers from completing a purchase. When customers can avoid roadblocks, they have a better experience on your website. In turn, these customers are more likely to make a purchase on your website.
 
@@ -95,7 +95,7 @@ If you’re ready to boost sales with conversion rate optimization (CRO), we off
 
 ## Step 1: Gather your optimization tools
 
-We rounded up our favorite eCommerce conversion tools and methods that help you understand your current website performance. You should have the following in your tool belt:
+We rounded up our favorite ecommerce conversion tools and methods that help you understand your current website performance. You should have the following in your tool belt:
 
 1. **Click tracking and heat mapping analysis**: If you want to see where visitors click the most on your online store and how far they scroll down the page, you should use click-tracking analysis. We like [Microsoft Clarity](https://clarity.microsoft.com/){:target="\_blank"} or [Hotjar](https://www.hotjar.com/){:target="\_blank"} as good entry point tools for capturing and analyzing this behavioral data.
 
@@ -115,7 +115,7 @@ Interested in a breakdown of A/B testing tools? We got you covered in our blog p
 
 ## Step 3: Invest in CRO Today
 
-It's important to note that investing in CRO is accessible to businesses, small and large. It's an affordable service that will help increase your rate of investment. If you own a small eCommerce business, this is a great option and is most likely within your budget. It's not a secret that CRO can result in the highest rate of investment for businesses, especially when compared to alternatives like SEO, social media, and traffic generation.
+It's important to note that investing in CRO is accessible to businesses, small and large. It's an affordable service that will help increase your rate of investment. If you own a small ecommerce business, this is a great option and is most likely within your budget. It's not a secret that CRO can result in the highest rate of investment for businesses, especially when compared to alternatives like SEO, social media, and traffic generation.
 
 Consider [filling out the Conversion Report Card](https://experimentzone.com/giveaways/actionable_conversion_insights/){:targer="\_black"} to start your CRO journey. This report card will give you three actionable and personalized insights to improve your website's conversion rate.
 

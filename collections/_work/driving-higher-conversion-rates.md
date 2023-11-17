@@ -26,7 +26,7 @@ header_classes: header-transparent
 
 ## Client Background
 
-[Texas Hill Country Olive Co.](https://texashillcountryoliveco.com/){: target="\_blank"} (THCOC) is a family-run olive oil company and orchard located in the Hill Country outside of Austin, Texas. The online store sells their olive oils and balsamic vinegars, gift sets, membership programs, skincare products and more. Texas Hill Country Olive Co. works with Experiment Zone via our [Conversion Strategy and Testing program](/services/conversion-strategy-and-testing/){: target="\_blank"} in order to drive higher conversion rates on their e-commerce website.
+[Texas Hill Country Olive Co.](https://texashillcountryoliveco.com/){: target="\_blank"} (THCOC) is a family-run olive oil company and orchard located in the Hill Country outside of Austin, Texas. The online store sells their olive oils and balsamic vinegars, gift sets, membership programs, skincare products and more. Texas Hill Country Olive Co. works with Experiment Zone via our [Conversion Strategy and Testing program](/services/conversion-strategy-and-testing/){: target="\_blank"} in order to drive higher conversion rates on their ecommerce website.
 
 <br>
 

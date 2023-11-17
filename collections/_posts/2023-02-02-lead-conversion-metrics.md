@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metrics to increase your lead conversion rate
-description: "Metrics provide a lens into how your e-commerce business is performing. Choosing the right metrics to drive more leads to your business..."
+description: "Metrics provide a lens into how your ecommerce business is performing. Choosing the right metrics to drive more leads to your business..."
 permalink: /blog/lead-conversion-metrics
 tags: ["Conversion Rate Optimization", "CRO", "CRO Consulting", "AB testing"]
 categories:
@@ -16,7 +16,7 @@ heroHeight: 450
 heroDiagonal: true
 heroDiagonalFill: false
 meta_title: "Metrics to increase your lead conversion rate"
-meta_description: "Metrics provide a lens into how your e-commerce business is performing. Choosing the right metrics to drive more leads to your business..."
+meta_description: "Metrics provide a lens into how your ecommerce business is performing. Choosing the right metrics to drive more leads to your business..."
 meta_author: "AJ Davis"
 meta_og_title: "Experiment Zone"
 meta_og_type: website
@@ -29,7 +29,7 @@ custom_css: blog-hero
 
 <style>@media (min-width: 768px) {.hero-image .hero-text h1 {font-size: 3.5rem}} .hero-image .hero-text h1 {font-size: 2.7rem;} .content img {margin: 20px 0px}</style>
 
-The ultimate goal of your marketing efforts is to **capture leads and convert them into paying customers**. Your success lies in how you use lead generation campaigns and marketing efforts to convert leads into opportunities and into sales for your business. 
+The ultimate goal of your marketing efforts is to **capture leads and convert them into paying customers**. Your success lies in how you use lead generation campaigns and marketing efforts to convert leads into opportunities and into sales for your business.
 
 Marketing professionals often find it difficult to convert their traffic into leads and ultimately into paying customers. You may have been experiencing this problem too, but there are ways to solve it: at the end of this guide, you’ll understand the essential lead conversion metrics you should be tracking and how to measure them, so that you can understand your lead generation funnel and ways to improve conversion at each step of the way. You will also be able to develop strategies to improve your lead conversion and get more value from your marketing efforts.
 
@@ -38,17 +38,17 @@ Marketing professionals often find it difficult to convert their traffic into le
 
 ## What is lead conversion?
 
-Lead conversion is when a customer takes the desired actions to convert into a lead. For example, viewing an advertisement and then signing up on your site for a meeting. Converting visitors into leads is typically a combination of strategies, which may differ in some aspects depending on whether the person you are trying to convert is qualified or not. 
+Lead conversion is when a customer takes the desired actions to convert into a lead. For example, viewing an advertisement and then signing up on your site for a meeting. Converting visitors into leads is typically a combination of strategies, which may differ in some aspects depending on whether the person you are trying to convert is qualified or not.
 
 Leads go through many nurturing steps before they become customers. A typical process involves nurturing visitors to become leads, leads into [marketing-qualified leads (MQLs)](https://blog.hubspot.com/marketing/definition-marketing-qualified-lead-mql-under-100-sr), then MQLs into [sales-qualified leads (SQLs)](https://www.gartner.com/en/sales/glossary/sales-qualified-lead-sql), and finally into customers.
- 
+
 
 When working with leads, the goal is to encourage them to take some sort of action to either move to the next level or convert them into a customer. Every business follows different steps when converting leads, however, the ultimate goal is to turn them into a customer.
 
 <br/>
 
 
-## 5 Metrics You Should Track to Improve Lead Conversions 
+## 5 Metrics You Should Track to Improve Lead Conversions
 
 ### Lead Conversion Rate
 
@@ -104,7 +104,7 @@ A good bounce rate is somewhere between [26-40%](https://www.semrush.com/blog/bo
 
 ### Click-through Rate
 
-The click-through rate (CTR) is a percentage that determines how many people clicked on your ad to visit a website or landing page. Paid ads on Facebook, Google AdWords, and other advertising platforms will often have a higher click-through rate if they have a [greater relevance score](https://support.google.com/google-ads/answer/6167118?hl=en). 
+The click-through rate (CTR) is a percentage that determines how many people clicked on your ad to visit a website or landing page. Paid ads on Facebook, Google AdWords, and other advertising platforms will often have a higher click-through rate if they have a [greater relevance score](https://support.google.com/google-ads/answer/6167118?hl=en).
 
 > Click-through Rate = (Total number of clicks on an ad / Total number of Impressions i.e people who saw the ad) x 100
 
@@ -124,7 +124,7 @@ The cost per conversion (CPC) tracks the average cost to get a conversion. CPC c
 
 > Cost per Conversion = Total Advertising or Marketing Cost / Number of conversions
 
-It is vital for you to measure and monitor your CPC as this metric will reveal the true ROI of your marketing efforts. This information should inform smarter decisions about how much you should spend on conversion campaigns, ads, and even what online marketing options you should continue to invest in. Cost per conversion should not be confused with cost per click, which is also abbreviated CPC. 
+It is vital for you to measure and monitor your CPC as this metric will reveal the true ROI of your marketing efforts. This information should inform smarter decisions about how much you should spend on conversion campaigns, ads, and even what online marketing options you should continue to invest in. Cost per conversion should not be confused with cost per click, which is also abbreviated CPC.
 
 <br/>
 
@@ -136,7 +136,7 @@ The lead value is the total potential value each potential customer has for your
 
 > Lead Value = Total Sales Value / Total number of Leads
 
-An effective way to measure the impact of your marketing efforts is by monitoring lead value. By looking at changes in qualified leads, an increase in leads means an increase in ROI. A decrease in your lead value suggests less qualified leads are coming in through your efforts. Comparing lead value month-over-month or year-on-year can give you a benchmark of progress made (or potential for progress) to work off of. 
+An effective way to measure the impact of your marketing efforts is by monitoring lead value. By looking at changes in qualified leads, an increase in leads means an increase in ROI. A decrease in your lead value suggests less qualified leads are coming in through your efforts. Comparing lead value month-over-month or year-on-year can give you a benchmark of progress made (or potential for progress) to work off of.
 
 <br/>
 
@@ -145,7 +145,7 @@ An effective way to measure the impact of your marketing efforts is by monitorin
 To be successful in the lead conversion process, your sales reps need to be customer-centric. This means you have to personalize each interaction, provide value with different products and marketing campaigns, and give leads the right information at the right time. You also need to focus on following up with the leads that are interested and engaged, and also identify high-value leads and prioritize those for follow-up efforts.
 
 
-It is important to be able to track the success of your lead generation efforts. It might also be worth engaging the services of a specialist partner if you would like to increase your chances of attracting quality leads. [Experiment Zone's conversion rate optimization (CRO) services](https://experimentzone.com/cro/) will help you reach verified and validated leads, as well as monitor and assess key metrics to ensure the efficacy of your CRO efforts. [Schedule a free discovery call today]((https://experimentzone.com/consult/#free-consult-form)) to get started on your lead conversion journey.  
+It is important to be able to track the success of your lead generation efforts. It might also be worth engaging the services of a specialist partner if you would like to increase your chances of attracting quality leads. [Experiment Zone's conversion rate optimization (CRO) services](https://experimentzone.com/cro/) will help you reach verified and validated leads, as well as monitor and assess key metrics to ensure the efficacy of your CRO efforts. [Schedule a free discovery call today]((https://experimentzone.com/consult/#free-consult-form)) to get started on your lead conversion journey.
 
 
 

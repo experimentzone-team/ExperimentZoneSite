@@ -86,9 +86,9 @@ Their new starter plan includes unlimited experiments, integration with Google A
 
 If you’re looking for an expert approach to safely transition to a new A/B testing platform, it’s a good choice to consider setting up an appointment with us. We have spent countless hours working with various A/B testing tools and have experience setting up as well as migrating our clients between different platforms.
 
-[Experiment Zone](https://experimentzone.com/) helps online e-commerce/retail B2B and B2C, to grow their customer base – and their revenue – by providing easy to use & high-converting experiences for their online visitors.
+[Experiment Zone](https://experimentzone.com/) helps online ecommerce/retail B2B and B2C, to grow their customer base – and their revenue – by providing easy to use & high-converting experiences for their online visitors.
 
-You can request a [chat with our e-commerce specialists](https://experimentzone.com/consult/#free-consult-form) to see how we can transform your e-commerce business to increase your online sales & email sign-ups and eventually a conversion. Every e-commerce business has its own unique set of conversion strengths and challenges, a chat will help us identify those for you.
+You can request a [chat with our ecommerce specialists](https://experimentzone.com/consult/#free-consult-form) to see how we can transform your ecommerce business to increase your online sales & email sign-ups and eventually a conversion. Every ecommerce business has its own unique set of conversion strengths and challenges, a chat will help us identify those for you.
 
 
 

@@ -1,31 +1,31 @@
 ---
 layout: post
-title: "Coronavirus and E-Commerce: Essential Retail Reading List during this Historic Time"
-description: "COVID-19 is rapidly impacting the way we live, work, and play. We want to provide you with the best resources to understand the impact on retail and e-commerce."
-permalink: /blog/coronavirus-and-e-commerce/
+title: "Coronavirus and Ecommerce: Essential Retail Reading List During this Historic Time"
+description: "COVID-19 is rapidly impacting the way we live, work, and play. We want to provide you with the best resources to understand the impact on retail and ecommerce."
+permalink: /blog/coronavirus-and-ecommerce/
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 author: aj_davis
-heroSubHeading: "We want to provide you with the best resources to understand the impact on retail and e-commerce. We’ll continue to update our guide as more resources and information come online."
+heroSubHeading: "We want to provide you with the best resources to understand the impact on retail and ecommerce. We’ll continue to update our guide as more resources and information come online."
 heroBackground: "assets/images/posts/covid-19-EZ.jpeg"
 backgroundOverlay: true
 heroBackgroundOverlay: false
 heroHeight: 550
 heroDiagonal: false
 heroDiagonalFill: false
-meta_title: "Coronavirus and E-Commerce: Essential Retail Reading List during this Historic Time"
-meta_description: "COVID-19 is rapidly impacting the way we live, work, and play. The news cycle spins endlessly about the latest numbers. We want to provide you with the best resources to understand the impact on retail and e-commerce. We’ll continue to update our guide as more resources and information come online."
+meta_title: "Coronavirus and Ecommerce: Essential Retail Reading List During this Historic Time"
+meta_description: "COVID-19 is rapidly impacting the way we live, work, and play. The news cycle spins endlessly about the latest numbers. We want to provide you with the best resources to understand the impact on retail and ecommerce. We’ll continue to update our guide as more resources and information come online."
 meta_author: "AJ Davis"
-meta_og_title: "Coronavirus and E-Commerce: Essential Retail Reading List during this Historic Time"
+meta_og_title: "Coronavirus and Ecommerce: Essential Retail Reading List During this Historic Time"
 meta_og_type: website
-meta_og_url: "https://experimentzone.com/blog/coronavirus-and-e-commerce/"
+meta_og_url: "https://experimentzone.com/blog/coronavirus-and-ecommerce/"
 meta_og_image: "http://experimentzone.com/assets/images/posts/covid-19-EZ.jpeg"
-meta_og_description: "COVID-19 is rapidly impacting the way we live, work, and play. The news cycle spins endlessly about the latest numbers. We want to provide you with the best resources to understand the impact on retail and e-commerce. We’ll continue to update our guide as more resources and information come online."
+meta_og_description: "COVID-19 is rapidly impacting the way we live, work, and play. The news cycle spins endlessly about the latest numbers. We want to provide you with the best resources to understand the impact on retail and ecommerce. We’ll continue to update our guide as more resources and information come online."
 custom_css: blog-hero
 header_classes: header-transparent
 ---
 
-COVID-19 is rapidly impacting the way we live, work, and play. The news cycle spins endlessly about the latest numbers. We want to provide you with the best resources to understand the impact on retail and e-commerce. We’ll continue to update our guide as more resources and information come online.
+COVID-19 is rapidly impacting the way we live, work, and play. The news cycle spins endlessly about the latest numbers. We want to provide you with the best resources to understand the impact on retail and ecommerce. We’ll continue to update our guide as more resources and information come online.
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Read this guide from Retail Dive on [Tracking retail’s response to the coronav
 
 &nbsp;
 
-## E-Commerce Performance during COVID-19
+## Ecommerce Performance during COVID-19
 
 &nbsp;
 

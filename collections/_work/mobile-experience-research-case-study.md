@@ -1,11 +1,11 @@
 ---
-title: "Case Study: Evaluating the mobile visitor experience of an e-commerce website"
+title: "Case Study: Evaluating the mobile visitor experience of an ecommerce website"
 description:  Contextual findings provided the clarity our client was looking for on the pain points of the current mobile shopping experience .
 date: 2022-07-18T15:22:30+10:00
 draft: false
 featured: true
 weight: 7
-heroHeading: "Case Study: Evaluating the mobile visitor experience of an e-commerce website"
+heroHeading: "Case Study: Evaluating the mobile visitor experience of an ecommerce website"
 heroSubHeading: " Contextual findings provided the clarity our client was looking for on the pain points of the current mobile shopping experience .."
 heroBackground: "assets/images/work/mobile-cover.jpg"
 backgroundOverlay: true
@@ -23,7 +23,7 @@ A large ecommerce sports gear retailer was interested in improving their mobile 
 
 ## The Challenge
 
-In order to provide the client with a confident recommendation on how to approach their mobile site improvements, we needed to identify pain points of the current experience and assess their severity.  Our goal was to provide a clear picture of what is working well and what areas of the current mobile experience need improvement.   
+In order to provide the client with a confident recommendation on how to approach their mobile site improvements, we needed to identify pain points of the current experience and assess their severity.  Our goal was to provide a clear picture of what is working well and what areas of the current mobile experience need improvement.
 
 <br>
 
@@ -33,7 +33,7 @@ The method chosen by the Experiment Zone research team was to conduct a remote m
 
 We recruited 15 participants who represented an even mix of three different levels of familiarity with the client’s website to ensure our study would capture the breadth of pain points from customers with various perspectives.  The participants included 5 previous site customers, 5 non-customers who had purchased similar items from competitors within the last 6 months, and 5 previous in-store customers.
 
-Via Zoom, we moderated the study by prompting each of the participants to complete a series of tasks across the mobile site. The user flow that we walked them through gave us the opportunity to see how they reacted to finding specific products, browsing the product pages for information, filtering collections, navigating the site, and completing the add to cart and checkout process. 
+Via Zoom, we moderated the study by prompting each of the participants to complete a series of tasks across the mobile site. The user flow that we walked them through gave us the opportunity to see how they reacted to finding specific products, browsing the product pages for information, filtering collections, navigating the site, and completing the add to cart and checkout process.
 
 Encouraging participants to share their thoughts and feelings throughout the entire experience in addition to observing their interactions, allowed us to collect detailed insights into areas of friction or frustration. We evaluated the recordings of the interviews and grouped the participants’ findings into themes and key areas for improvement.  In addition, we were able to establish trends based on the different participant types.
 
@@ -44,8 +44,8 @@ Encouraging participants to share their thoughts and feelings throughout the ent
 
 ## The Results
 
-We presented the client with a comprehensive summary of the greatest areas of friction participants encountered on the mobile site.  Based on the severity of the friction points that were gathered from the recordings, we recommended immediate “fixes” in addition to future  A/B testing themes to add to our testing roadmap.  Also, we identified an opportunity for future user research specifically on navigation and category pages. 
+We presented the client with a comprehensive summary of the greatest areas of friction participants encountered on the mobile site.  Based on the severity of the friction points that were gathered from the recordings, we recommended immediate “fixes” in addition to future  A/B testing themes to add to our testing roadmap.  Also, we identified an opportunity for future user research specifically on navigation and category pages.
 
-Ultimately, our contextual findings provided the clarity our client was looking for on the pain points of the current mobile shopping experience so they could decide the best way forward for improvement. 
+Ultimately, our contextual findings provided the clarity our client was looking for on the pain points of the current mobile shopping experience so they could decide the best way forward for improvement.
 
 

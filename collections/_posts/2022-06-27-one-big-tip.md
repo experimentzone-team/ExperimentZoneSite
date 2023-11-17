@@ -59,7 +59,7 @@ custom_css: blog-hero
 {: .disclaimer}
 
 <br/>
-Understanding your customers' pain points is the best way to convert them to loyal consumers. [Experiment Zone](https://experimentzone.com/) increases your eCommerce revenue by giving you a deeper understanding of your customers, enabling you to uncover whatever impedes their conversion process to help you elevate your bottom line. Join our conversation to learn the process of perfecting conversion rate optimization with AJ Davis.
+Understanding your customers' pain points is the best way to convert them to loyal consumers. [Experiment Zone](https://experimentzone.com/) increases your ecommerce revenue by giving you a deeper understanding of your customers, enabling you to uncover whatever impedes their conversion process to help you elevate your bottom line. Join our conversation to learn the process of perfecting conversion rate optimization with AJ Davis.
 
 
 <br/><br/>
@@ -127,7 +127,7 @@ So any particular change that we do will have a measurable impact, possibly a ne
 <br/>
 
 ##### **Jeff Mendelson  5:48**
-That's exactly what I want to segue into. Part of your one big tip is how to treat everything that you do as an experiment, and have a clear path to measure whether it works or not. Let's talk about that. When a new client comes into your sphere, how do you approach that because client A that’s selling an e-commerce play versus client B, that is selling something similar? We're not just talking about a shopping cart, a grid of products, and clicking on a checkout button. There's so much more to that.
+That's exactly what I want to segue into. Part of your one big tip is how to treat everything that you do as an experiment, and have a clear path to measure whether it works or not. Let's talk about that. When a new client comes into your sphere, how do you approach that because client A that’s selling an ecommerce play versus client B, that is selling something similar? We're not just talking about a shopping cart, a grid of products, and clicking on a checkout button. There's so much more to that.
 
 How do you help guide your clients, especially in these initial stages to setting up these experiments so that you can provoke these better outcomes?
 

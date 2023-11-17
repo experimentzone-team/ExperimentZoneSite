@@ -34,7 +34,7 @@ custom_css: blog-hero
 
 Experiment Zone is a leading CRO agency based in Austin, Texas. We help online businesses uncover and solve problems that keep website visitors from becoming and staying customers.
 
-Our team began our journey focused on DTC eCommerce websites and helping our customers create experiences that enabled customers from browsing to order products online We’ve expanded to additional markets, including B2B and B2C businesses in retail and eCommerce, SaaS and software, finance, and fintech, health and wellness, construction, among many others. We’re passionate about helping your team connect with your customer and get them to take the desired action on your website.
+Our team began our journey focused on DTC ecommerce websites and helping our customers create experiences that enabled customers from browsing to order products online We’ve expanded to additional markets, including B2B and B2C businesses in retail and ecommerce, SaaS and software, finance, and fintech, health and wellness, construction, among many others. We’re passionate about helping your team connect with your customer and get them to take the desired action on your website.
 
 Experiment Zone helps your business identify opportunities and evaluate ideas using data so that you can improve customer experiences and increase sales. We uncover seamless user experiences for your business, so you get the most value out of your website and increase revenue.
 
