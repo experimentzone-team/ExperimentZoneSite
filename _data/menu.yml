@@ -25,6 +25,8 @@ main:
     dropdown:
       - label: Blog
         url: /blog/
+      - label: Podcasts
+        url: /podcast/
       - label: CRO Calculator
         url: /cro-calculator/
   # - name: Webinar
