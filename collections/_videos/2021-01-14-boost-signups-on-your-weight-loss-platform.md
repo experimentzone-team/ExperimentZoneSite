@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Include these 3 Elements on Your Weight Loss Platform to Boost Signups | Testing the Experience
-"
+title: "Include these 3 Elements on Your Weight Loss Platform to Boost Signups | Testing the Experience"
 description: "In today's episode, we'll show you the 3 biggest conversion pitfalls of the marketing sites for weight loss programs."
 # permalink: video/boost-signups-on-your-weight-loss-platform
 tags: [""]
@@ -13,8 +12,7 @@ heroBackgroundOverlay: false
 heroHeight: 600
 heroDiagonal: true
 heroDiagonalFill: false
-meta_title: "Include these 3 Elements on Your Weight Loss Platform to Boost Signups | Testing the Experience
-"
+meta_title: "Include these 3 Elements on Your Weight Loss Platform to Boost Signups | Testing the Experience"
 meta_description: "In today's episode, we'll show you the 3 biggest conversion pitfalls of the marketing sites for weight loss programs."
 meta_author: "AJ Davis"
 meta_og_title: "Include these 3 Elements on Your Weight Loss Platform to Boost Signups | Testing the Experience
