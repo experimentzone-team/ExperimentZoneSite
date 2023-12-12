@@ -97,3 +97,10 @@ You have to answer the question, "Why you? Why this business? What makes you spe
 #### Podcaster  0:51  
 Okay, so those are the three components every homepage should have, every website should have on their homepage. If you want examples of how you should tackle this, you can check out [our webinar on our homepage and landing pages](https://youtu.be/u2R3TLRgf-4?si=sp684rO-qICAZksh){:target="\_blank"}. The link will be in the comments and for more information about us visit [experimentzone.com](https://experimentzone.com/). And please don't forget to subscribe so you can get all of the upcoming tips on the channel. 
 <br/><br/>
+
+
+
+{% include free-consult.html heading="FREE CRO Report"
+subheading="Boosting your site conversion is a click away"
+button_url="https://experimentzone.com/giveaways/report_card/"
+button_text="Click Here" %}
