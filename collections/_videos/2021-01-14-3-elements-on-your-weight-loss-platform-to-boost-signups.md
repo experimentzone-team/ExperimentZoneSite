@@ -2,7 +2,7 @@
 layout: post
 title: "3 Elements For Your Weight Loss Website to Boost Signups | Testing the Experience"
 description: "In this video podcast, discover the key elements that can significantly enhance signups for your weight loss platform. Learn how to optimize your video content by incorporating these three essential components. Gain valuable insights and increase user engagement with our expert tips and strategies."
-permalink: video/3-elements-for-weight-loss
+# permalink: video/3-elements-for-weight-loss
 tags: [""]
 categories: [""]
 cardImage: "assets/images/videos/youtube-channel-background.png"
