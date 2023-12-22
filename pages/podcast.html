@@ -2,12 +2,12 @@
 layout: default
 body_classes: page-posts-list
 heroHeading: "Welcome to the Experiment Zone Podcast"
-heroSubHeading: "Uncover the secrets of conversion rate optimization and user experience improvement through live audits of DTC ecommerce stores."
-heroSubSubHeading: "Unlock the secrets to e-commerce success as a listener of the Experiment Zone Podcast! Join our founder, AJ Davis, as she guides ecommerce store owners through a live 15-minute session, providing personalized insights to optimize their store. Dive into concise episodes that showcase DTC stores with live screen shares, offering real-time strategies for success. "
+heroSubHeading: "Uncover the secrets of conversion rate optimization and user experience improvement through live audits of direct to consumer (DTC) ecommerce stores."
+heroSubSubHeading: "Unlock the secrets to ecommerce success as a listener of the Experiment Zone Podcast! Join our founder, AJ Davis, as she guides ecommerce store owners through a live 15-minute session, providing personalized insights to optimize their store. Dive into concise episodes that showcase DTC stores with live screen shares, offering real-time strategies for success. "
 heroBackground: "assets/images/podcasts/experiment-zone-podcast.png"
 heroBackgroundOverlay: false
-heroHeight: 850
-heroDiagonal: true
+heroHeight: 750
+heroDiagonal: false
 heroDiagonalFill: "#fff"
 meta_title: 'Experiment Zone Podcast | Ecommerce Conversion Rate Optimization'
 meta_description: "Unlock ecommerce success as a podcast guest! Join us for insightful conversations with DTC store owners. Experience a live, free conversion audit, tackling crucial challenges in the world of conversion rate optimization. Elevate your online store on this must-listen podcast!"
@@ -17,69 +17,73 @@ meta_og_url: 'https://experimentzone.com/podcast'
 meta_og_image: 'https://experimentzone.com/assets/images/podcasts/experiment-zone-podcast.png'
 meta_og_description: "Podcast-Experiment Zone"
 custom_css: blog-hero
-header_classes: header-transparent
 ---
 
 {% include hero-image.html background=page.heroBackground
   fullscreen=page.heroFullscreen height=page.heroHeight heading=page.title backgroundOverlay=page.backgroundOverlay
   diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
 
-<div class="col-12 col-md-5 col-lg-4 offset-lg-7 section-menu-positive mt-md-n15 mb-3 mt-sm-3">
-</div>
-
-<!-- {% include free-consult.html heading=site.params.GTE_site_cta.heading
-subheading=site.params.GTE_site_cta.subheading
-button_url=site.params.GTE_site_cta.button_url
-button_text=site.params.GTE_site_cta.button_text %} -->
-
-
-
-<div class="container pb-6 mt-6">
-  <div class="col-12 mt-15">
+<div class="container pb-6 pt-6">
+  <div class="col-12 mb-4">
     <div class="hero-text" style="font-family: 'Lato Black, Arial, sans-serif, -apple-system;'">
       <h1 style="font-size: 3rem; line-height: 1.2; font-weight: 400; ">{{page.heroHeading}}</h1>
       <p style="color: #663db1; font-size: 1.6rem; line-height: 1.3;">{{page.heroSubHeading}}</p>
       <p style="color: #663db1; font-size: 1.2rem; line-height: 1.3;">{{page.heroSubSubHeading}}</p>
     </div>
-      <div class="strip strip-white pt-3 pb-6 splash splash-one">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-12 col-md-6 align-self-center mb-2">
-              <img class="img-fluid rounded" src="../assets/images/AJDavis-Headshot.jpg"/>
-            </div>
-            <div class="mt-6 mb-6 col-12
-              {% if site.params.homepage.splash_one_image %}
-                col-md-5
-              {% else %}
-                col-md-12
-              {% endif %}"
-            >
-              <h2><a href="/team/aj-davis/">Your Host, AJ Davis</a></h2>
-              <p>
-                AJ Davis, the founder of Experiment Zone, is your trusted host throughout this podcast journey. AJ is an industry expert in conversion rate optimization and user experience strategy with a proven track record of delivering true value to a ton of businesses.
-              </p>
-              <p>
-                She’s led optimization strategies for Fortune 500 companies during her tenure at Clearhead, including CVS, Steve Madden, and Lululemon. She also created the user research practice and team at Clearhead. Before Clearhead, AJ was the lead UX researcher on the Google Optimize product.
-              </p>
-              <p>
-                With years of experience in these fields, AJ brings a wealth of knowledge and expertise to each episode. Her passion for experimentation shines through as she guides the podcast conversation toward actionable insights that you can apply to your own business.
-              </p>
-              <div>
-                <div class="col-12 pt-1 text-center">
-                  <a class="button" href="/team/aj-davis/"> CONNECT WITH AJ </a>
-                </div>
-              </div>
-            </div>
-          </div>
+    <div class="row">
+      <div class="col-12 text-center align-self-center">
+        <a class="button mt-4" href="https://www.youtube.com/playlist?list=PLoMf7noumBKsyesdiJL0sUoMIZU6BR5WF">SUBSCRIBE TO OUR PODCAST</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--BEGIN AJ Section-->
+<div class="strip strip-grey splash-one">
+  <div class="container">
+    <div class="row justify-content-center">
+    <div class="col-12 col-md-6 align-self-center mb-2">
+      <img class="img-fluid rounded" src="../assets/images/AJDavis-Headshot.jpg"/>
+    </div>
+    <div class="mt-6 mb-6 col-12
+      {% if site.params.homepage.splash_one_image %}
+        col-md-5
+      {% else %}
+        col-md-12
+      {% endif %}"
+    >
+      <h2><a href="/team/aj-davis/">Your Host, AJ Davis</a></h2>
+      <p>
+        AJ Davis, the founder of Experiment Zone, is your trusted host throughout this podcast journey. AJ is an industry expert in conversion rate optimization and user experience strategy with a proven track record of delivering true value to a ton of businesses.
+      </p>
+      <p>
+        She’s led optimization strategies for Fortune 500 companies during her tenure at Clearhead, including CVS, Steve Madden, and Lululemon. She also created the user research practice and team at Clearhead. Before Clearhead, AJ was the lead UX researcher on the Google Optimize product.
+      </p>
+      <p>
+        With years of experience in these fields, AJ brings a wealth of knowledge and expertise to each episode. Her passion for experimentation shines through as she guides the podcast conversation toward actionable insights that you can apply to your own business.
+      </p>
+      <div>
+        <div class="col-12 pt-1 text-center">
+          <a class="button" href="/team/aj-davis/"> CONNECT WITH AJ </a>
         </div>
       </div>
+    </div>
+  </div>
   </div>
 
+</div>
+<!--END AJ Section-->
 
-
-
+<!--BEGIN latest episodes-->
+<div class="container pb-6 pt-6">
+  <div class="col-12 text-left text-sm-center text-lg-left pl-2 pl-sm-0">
+    <h1 class="font-weight-normal">Latest Episodes</h1>
+    <h3 class="mb-4">
+        Never miss a beat with our regularly updated episodes. We bring you fresh content that shows a wide knowledge of experimentation culture with conversion rate optimization and user experience. Our episodes are packed with valuable and clear-sighted information that will keep you informed and inspired.
+    </h3>
+  </div>
   <div class="row">
-    {% for podcast in site.podcasts reversed %}
+    {% for podcast in site.podcasts reversed limit: 4 offset: 4 %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
         {% if podcast.heroBackground %}
@@ -111,17 +115,36 @@ button_text=site.params.GTE_site_cta.button_text %} -->
     </div>
     {% endfor %}
   </div>
-</div>
-
-<div class="strip strip-light-purple pt-3 pb-3 align-items-center justify-content-between">
-  <div class="guest_text">
-
+  <div class="row">
+    <div class="col-12 text-center align-self-center mb-2 mt-1 mb-lg-0 mt-lg-0">
+      <a class="button mt-4" href="/podcast/episodes">ALL PODCAST EPISODES</a>
+    </div>
   </div>
-  <div>
-      {% include guest-speaker-form.html %}
-  </div>
-
 </div>
+<!--END latest episodes-->
+
+<!--BEGIN Guest Speaker-->
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-12 col-lg-5 mt-lg-n10">
+        <h1 class="mb-4 font-weight-normal">Become a Guest Speaker</h1>
+        <h3 class="mb-2">
+          Unlock your store's potential with a free conversion audit on the Experiment Zone Podcast! Our founder, AJ Davis, guides you through a live 15-minute session for personalized insights.
+        </h3>
+        <h3 class="mb-2">
+          Dive into ecommerce success in a concise 15-minute episode. Showcase your DTC store with a live screen share, offering real-time optimization strategies.
+        </h3>
+        <h3 class="text-secondary mb-4">
+          Ready for the next step? Fill out the form with your details, and if you're a fit, we'll be in touch to schedule your podcast feature! 🌟🎙️
+        </h3>
+      </div>
+      <div class="col-12 col-lg-6">{% include guest-speaker-form.html %}</div>
+    </div>
+  </div>
+</div>
+<!--END Guest Speaker-->
+
 {% include why-experiment-zone-splash-white.html %}
 <div id="blog-sign-up" class="strip-grey pt-5 pb-5">
   <div class="container justify-content-center">
