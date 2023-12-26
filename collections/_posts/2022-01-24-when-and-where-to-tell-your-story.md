@@ -2,7 +2,7 @@
 layout: post
 title: "When and Where To Tell Your Brand Story, featuring AJ Davis"
 description: "In this insightful podcast episode, AJ Davis explores the importance of storytelling and provides expert advice on when and where to effectively share your story. AJ Davis goes on to outline how to think about the role of each page on your site, where to add messaging about what makes your brand unique, and how to get that messaging right."
-# permalink: /podcast/brand-story
+permalink: /podcast/brand-story
 tags: [""]
 categories: [""]
 heroBackground: assets/images/posts/emma-york-blog.png
