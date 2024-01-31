@@ -1,93 +1,315 @@
 ---
 layout: default
-title: "Our Mission: Better Experiences, More Revenue"
-subtitle: ""
-body_classes: page-team-list
+title: "About us - Experiment Zone | Unlock more value | Conversion Rate Optimization"
+meta_title: "About us - Experiment Zone | Unlock more value | Conversion Rate Optimization"
+heroHeading: "Elevate your online business revenue with a website that converts effectively."
+heroSubSubHeading: "Investing in digital marketing avenues like paid ads, social media, or SEO?<br><br>Maximize your company's digital marketing ROI by optimizing conversion rates. We focus on the post-click journey, ensuring all digital efforts yield higher returns.<br><br>Harness the power of our data-driven approach to uncover valuable opportunities, connect with a broader audience, and propel your business growth.
+"
+heroBackground: ""
+heroBackgroundOverlay: false
+heroHeight: 650
+heroDiagonal: true
+heroDiagonalFill: "#fff"
+date:
+description: "Let us be your Conversion Strategy & Testing team so that you can increase your online revenue."
+icon: "assets/images/icons8-rocket-96.png"
+core: true
+featured: false
+weight: 3
+service-list: false
+service-sign-up: true
+summary-content: "Using a consistent testing framework provides key insights to make improvements to UX - and increase revenue. We prioritize iterative testing so that we can learn quickly and deeply."
+free-consult: true
+header_classes: header-transparent
+cta-button: Contact Us
+cta-button-href: "/contact/"
 ---
 
-<div class="intro intro-big">
+{% include hero-image.html background=null fullscreen=page.heroFullscreen
+  height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+  subsubheading=page.heroSubSubHeading cta-button=page.cta-button
+  cta-button-href=page.cta-button-href overlay=page.heroBackgroundOverlay
+  diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
+
+<!--Who We Help-->
+<div class="strip pb-5 pt-5 pt-lg-0">
   <div class="container">
-    <div class="row">
-      <div class="col-12 col-md-5">
-        <p>{{ page.subtitle }}</p>
-        <h1 class="w-100">{{ page.title }}</h1>
+    <div class="row justify-content-between mt-3">
+      <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <h2 class="text-secondary">Who we help</h2>
+          <p>
+            At our core, we partner with businesses driving their growth through strategic digital marketing. Our specialized knowledge in conversion rate optimization allows us to seamlessly navigate various industries. Our client base spans:
+          </p>
+          <ul>
+            <li>Retail and eCommerce</li>
+            <li>Information Technology</li>
+            <li>Hospitality and Tourism</li>
+            <li>Banking and Finance</li>
+            <li>Education</li>
+            <li>Automotive</li>
+            <li>Food and Beverage</li>
+            <li>Healthcare</li>
+            <li>Real Estate</li>
+            <li>Construction</li>
+            <li>Telecommunications</li>
+          </ul>
+        </div>
       </div>
-      <div class="col-12 col-md-5">
-        <p class="w-100">
-          Experiment Zone helps companies identify opportunities and evaluate ideas using research & data, so that they can improve customer experiences, grow conversion rates, and increase sales.
-        </p>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0">
+        <div class="content">
+          <h2 class="text-secondary">We collaborate with companies at two critical stages:</h2>
+          <p>
+            At our core, we partner with businesses driving their growth through strategic digital marketing. Our specialized knowledge in conversion rate optimization allows us to seamlessly navigate various industries. Our client base spans:
+          </p>
+          <p><span class="text-primary font-weight-bold">Established Companies:</span> Streamlining conversion rates through meticulous A/B testing and user research.</p>
+          <p><span class="text-primary font-weight-bold">Growth Companies:</span> Facilitating early customer conversion to drive sustained growth.</p>
+        </div>
       </div>
     </div>
+    <div class="row justify-content-between mt-3">
+<!--Testimonial #1-->
+      <div class="col-12 pt-2">
+        <h3 class="text-secondary">I can honestly say that their rigorous approach always turns up opportunities that can drive conversion.</h3>
+        <a href="https://clutch.co/profile/experiment-zone#review-1910401" target="_blank" class="text-primary">Read More</a>
+      </div>
+      <!-- <div class="col-12 col-lg-5 align-self-center">
+        <div class="content">
+          <h2 class="text-primary">"Clear insights that implicated tangible updates..."</h2>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0">
+        <div class="content">
+          <p style="font-size: 1.2rem;">I can honestly say that their rigorous approach always turns up opportunities that can drive conversion.&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <a href="https://clutch.co/profile/experiment-zone#review-1910401" target="_blank" class="text-secondary">Read More</a>
+          </p>
+        </div>
+      </div> -->
+    </div>
+    <hr>
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <p style="font-size: 1.2rem;">Sean Knotts, Director</p>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0 align-right" style="display: flex; justify-content: end;">
+        <p style="font-size: 1.2rem;">Sound Experience Company</p>
+      </div>
+    </div>
+
   </div>
 </div>
 
-<div class="container mt-n5">
-  <div class="container text-center">
-    <h1>Our Values</h1>
-    <h3 class="pb-5">Transparency & Communication Is Key</h3>
+<!--Services-->
+<div class="strip strip-grey pt-5 pb-5">
+  <div class="container pb-4">
     <div class="row">
-      {% for about in site.about %}
-      <div class="col-12 mb-3 mb-md-3 p-0">
-        <div class="team team-summary">
-          {% if about.image %}
-          <div class="team-image">
-            <img
-              alt="{{ about.title }} logo"
-              class="img-fluid mb-2"
-              src="{{ about.image | relative_url}}"
-            />
+      <div class="col-12">
+        <h2 class="text-secondary">Our Services</h2>
+        <p class="large">Unlock the potential of your digital presence with our expertise in Conversion Rate Optimization (CRO), User Research (UXR), and Analytics.</p>
+        <p class="large">Our seasoned team specializes in analyzing your unique requirements, and the first consultation is on us.</p>
+      </div>
+    </div>
+    <div class="row mt-3">
+      <div class="col-12">
+        <h2 class="text-secondary">How we drive results</h2>
+        <p class="large"><span class="text-primary font-weight-bold">Free Consultation:</span> Your journey starts with a complimentary consultation where we understand your needs.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Strategic Analysis:</span> Our team meticulously examines your digital landscape to design tailored solutions.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Iterative A/B Testing:</span> We boost conversion rates through a consistent testing framework, prioritizing iterative A/B testing. This method provides profound insights and allows us to enhance user experience, leading to substantial revenue growth.</p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      {% for service in site.services %}
+      {%if service.core == true%}
+      <div class="col-12 col-md-6 mb-3">
+        <div class="service service-summary">
+          {% if service.icon %}
+          <div class="service-image">
+            <img src="{{service.icon | relative_url}}" />
           </div>
           {% endif %}
-          <div class="team-block">
-            <div class="team-meta">
-              <h2 class="team-name">{{ about.title }}</h2>
-              <div class="team-jobtitle">{{ about.jobtitle }}</div>
-              <div class="team-links">
-                {% if about.linkedin_url %}
-                <a
-                  class="team-linkedin"
-                  target="_blank"
-                  href="{{ about.linkedin_url }}"
-                >
-                  <i class="fab fa-linkedin"></i>
-                </a>
-                {% endif %} {% if about.twitter_url %}
-                <a
-                  class="team-linkedin"
-                  target="_blank"
-                  href="{{ about.twitter_url }}"
-                >
-                  <i class="fab fa-twitter-square"></i>
-                </a>
-                {% endif %} {% if about.dribble_url %}
-                <a
-                  class="team-linkedin"
-                  target="_blank"
-                  href="{{ about.dribble_url }}"
-                >
-                  <i class="fab fa-dribbble-square"></i>
-                </a>
-                {% endif %} {% if about.behance_url %}
-                <a
-                  class="team-linkedin"
-                  target="_blank"
-                  href="{{ about.behance_url }}"
-                >
-                  <i class="fab fa-behance-square"></i>
-                </a>
-                {% endif %}
-              </div>
-            </div>
-            <div class="team-content">{{ about.content }}</div>
+          <div class="service-title">
+            <h2>
+              <a href="{{ service.url | relative_url}}">{{ service.title }}</a>
+            </h2>
+          </div>
+          <div class="service-description">
+            <p>{{ service.description }}</p>
+          </div>
+          <div class="service-content">{% if service.summary-content %}<p>{{service.summary-content}}</p>{%else%}{{ service.content | truncate: 180 }}{%endif%}</div>
+          <div class="service-link">
+            <a class="service-read-more" href="{{ service.url | relative_url}}"
+              >Read More<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
           </div>
         </div>
       </div>
+      {% endif %}
       {% endfor %}
+    </div>
+  </div>
+  <div class="col-12 text-center pt-2">
+    <a class="button" href="/services" style="text-decoration: none"
+      >View All Services</a
+    >
+  </div>
+</div>
+
+<!-- Testimonial #2-->
+<div class="strip pb-5 pt-5 pt-lg-0">
+  <div class="container">
+    <div class="row justify-content-between mt-5">
+      <div class="col-12 pt-2">
+        <h3 class="text-secondary">The communication and execution was very smooth where it felt like they were an extension of our own team... The amount of detail, attention and care correlated with their top notch communication and workflow.</h3>
+        <a href="https://clutch.co/profile/experiment-zone#review-1958938" target="_blank" class="text-primary">Read More</a>
+      </div>
+<!--       <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <h2 class="text-primary">"They really did execute on all the small parts of managing a project that was so often ignored."</h2>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0">
+        <div class="content">
+          <p style="font-size: 1.2rem;">The communication and execution was very smooth where it felt like they were an extension of our own team... The amount of detail, attention and care correlated with their top notch communication and workflow.&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <a href="https://clutch.co/profile/experiment-zone#review-1958938" target="_blank" class="text-secondary">Read More</a>
+          </p>
+        </div>
+      </div> -->
+    </div>
+    <hr>
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <p style="font-size: 1.2rem;">Director of Project Management</p>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0" style="display: flex; justify-content: end;">
+        <p style="font-size: 1.2rem;">B2B E-Commerce Platform</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!--Client Success Stories-->
+<div class="strip strip-grey pt-5 pb-5">
+  <div class="container pb-4">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="text-secondary">Our Happy Customers</h2>
+      </div>
+    </div>
+    <div class="row mt-3">
+      <div class="col-12 d-flex justify-content-between align-items-center flex-wrap client_logos">
+        <img src="/assets/images/client_logos/nable.png" width="150px" style="margin: 0.5rem;" alt="N-Able logo" class="logo">
+        <img src="/assets/images/client_logos/drbs_logo.png" width="150px" style="margin: 0.5rem;" alt="Doctor Butler's logo" class="logo">
+        <img src="/assets/images/client_logos/elix-logo.png" width="150px" style="margin: 0.5rem;" alt="Elix Healing logo" class="logo">
+        <!-- <img src="/assets/images/client_logos/thrifty_traveler_logo.png" width="150px" style="margin: 0.5rem;"> -->
+        <img src="/assets/images/client_logos/thcoc_logo.png" width="150px" style="margin: 0.5rem;" alt="Texas Hill Country Olive Co logo" class="logo">
+        <img src="/assets/images/client_logos/chime-logo.png" width="150px" style="margin: 0.5rem;" alt="Chime logo" class="logo">
+        <img src="/assets/images/client_logos/pinnacle_promotions_logo.png" width="150px" style="margin: 0.5rem;" alt="Pinnacle Promotions logo" class="logo">
+        <img src="/assets/images/client_logos/ASAPSS-logo.png"  width="150px" style="margin: 0.5rem;" alt="ASAP Site Services logo" class="logo">
+        <img src="/assets/images/client_logos/arium_living.png"  width="150px" style="margin: 0.5rem;" alt="Arium Living logo" class="logo">
+        <img src="/assets/images/client_logos/thriftyTraveler.png"  width="150px" style="margin: 0.5rem;" alt="Thrifty Traveler logo" class="logo">
+        <img src="/assets/images/client_logos/Meemzy_Magic_Logo.png"  width="150px" style="margin: 0.5rem;" alt="Meemzy Magic logo" class="logo">
+        <img src="/assets/images/client_logos/Techless.png"  width="150px" style="margin: 0.5rem;" alt="Techless logo" class="logo">
+        <img src="/assets/images/client_logos/sonos_logo.png" loading="lazy" alt="Sonos, Inc. logo" class="logo" style="margin: 0.5rem;"  width="150px">
+
+        <!-- <img src="//kinonasport.com/cdn/shop/files/Kinona-Logo4.png?v=1703020120&amp;width=280" alt="" srcset="//kinonasport.com/cdn/shop/files/Kinona-Logo4.png?v=1703020120&amp;width=140 140w, //kinonasport.com/cdn/shop/files/Kinona-Logo4.png?v=1703020120&amp;width=280 280w" width="150px" height="auto" loading="eager" class="small--hide image-element" sizes="140px" itemprop="logo" style="margin: 0.5rem;"> -->
+      </div>
+    </div>
+  </div>
+  <div class="col-12 text-center pt-2">
+    <h2 class="text-secondary">Want to see more?</h2>
+    <br>
+    <a class="button" href="/work" style="text-decoration: none"
+      >See Case Studies</a
+    >
+  </div>
+</div>
+
+<!--Tools We Use
+<div class="strip strip-white pt-3 pb-6 splash splash-one">
+  <div class="container">
+    <div class="row mt-2">
+      <div class="col-12">
+        <h2 class="text-secondary">We're Tool Agnostic</h2>
+        <p class="large">Our team has experience working with conversion technologies and commerce platforms including:</p>
+      </div>
+      <div class="row">
+        <div class="col-12 d-flex justify-content-between flex-wrap align-items-center">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>-->
+
+<!--Team Members-->
+<div class="strip strip-grey pt-5 pb-5">
+  <div class="container pb-4">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="text-secondary">Fueling Your Success with Our Diverse Team</h2>
+        <p class="large">At Experiment Zone, we're all about working together to create winning roadmaps and websites that convert.</p>
+        <p class="large">Meet the awesome folks who make it happen:</p>
+      </div>
+    </div>
+    <div class="row mt-3">
+      <div class="col-12">
+        <p class="large "><span class="text-primary font-weight-bold">Conversion Strategist:</span> The mastermind behind success. Our Conversion Strategists create roadmaps that lead to more conversions and growth.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Project Manager:</span> The one who keeps things on track. Our Project Managers make sure everything runs smoothly, turning your plans into reality.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Developer:</span> The tech wizard. Our Developers bring strategies to life, turning them into websites that really connect with your audience.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Analyst:</span> The numbers guru. Our Analysts dive deep into data, tweaking things to make sure your website is driving more conversions.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Designers:</span> The creative minds. Our Designers make your website look amazing, turning visitors into fans.</p>
+        <p class="large"><span class="text-primary font-weight-bold">Copywriters:</span> The wordsmiths. Our Copywriters craft compelling stories that speak to your audience, turning clicks into conversions.</p>
+      </div>
+    </div>
+    <div class="row mt-3">
+      <div class="col-12">
+        <h2 class="text-secondary">Together, this fantastic team comes together to turn your website into a conversion powerhouse that gets real results.</h2>
+        <p class="large"></p>
+      </div>
     </div>
   </div>
 </div>
 
-<!-- Splash AJ -->
+<!-- Testimonial #3-->
+<div class="strip pb-5 pt-5 pt-lg-0">
+  <div class="container">
+    <div class="row justify-content-between mt-5">
+      <div class="col-12 pt-2">
+        <h3 class="text-secondary">Collaborating with Experiment Zone on this project has been such a great experience. With the increase we’ve seen in conversion rates, we’ve been able to more effectively scale our digital marketing efforts which has led to a significant increase in revenue for the business.</h3>
+        <a href="https://experimentzone.com/work/kinona/" class="text-primary">Read More</a>
+      </div>
+      <!-- <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <h2 class="text-primary">"They really did execute on all the small parts of managing a project that was so often ignored."</h2>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0">
+        <div class="content">
+          <p style="font-size: 1.2rem;">Collaborating with Experiment Zone on this project has been such a great experience. With the increase we’ve seen in conversion rates, we’ve been able to more effectively scale our digital marketing efforts which has led to a significant increase in revenue for the business.&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <a href="https://experimentzone.com/work/kinona/" target="_blank" class="text-secondary">Read More</a>
+          </p>
+        </div>
+      </div> -->
+    </div>
+    <hr>
+    <div class="row justify-content-between">
+      <div class="col-12 col-lg-6 align-self-center">
+        <div class="content">
+          <p style="font-size: 1.2rem;"></p>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6 pt-3 pt-lg-0" style="display: flex; justify-content: end;">
+        <img src="//kinonasport.com/cdn/shop/files/Kinona-Logo4.png?v=1703020120&amp;width=280" alt="" srcset="//kinonasport.com/cdn/shop/files/Kinona-Logo4.png?v=1703020120&amp;width=140 140w, //kinonasport.com/cdn/shop/files/Kinona-Logo4.png?v=1703020120&amp;width=280 280w" width="140" height="37.8" loading="eager" class="small--hide image-element" sizes="140px" itemprop="logo" style="max-height: 37.8px;max-width: 140px;">
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!--Our History-->
 <div class="strip strip-white pt-3 pb-6 splash splash-one">
   <div class="container">
     <div class="row justify-content-center">
@@ -139,6 +361,8 @@ body_classes: page-team-list
     </div>
   </div>
 </div>
+
+{% include why-experiment-zone-splash-white.html %}
 
 <!-- {% include free-consult.html heading=site.params.free_consult_cta.heading
 subheading=site.params.free_consult_cta.subheading

@@ -4,26 +4,29 @@ body_classes: page-posts-list
 heroHeading: "Welcome to the Experiment Zone Podcast"
 heroSubHeading: "Uncover the secrets of conversion rate optimization and user experience improvement through live audits of direct to consumer (DTC) ecommerce stores."
 heroSubSubHeading: "Unlock the secrets to ecommerce success as a listener of the Experiment Zone Podcast! Join our founder, AJ Davis, as she guides ecommerce store owners through a live 15-minute session, providing personalized insights to optimize their store. Dive into concise episodes that showcase DTC stores with live screen shares, offering real-time strategies for success. "
-heroBackground: "assets/images/podcasts/experiment-zone-podcast.png"
-heroBackgroundOverlay: false
-heroHeight: 750
-heroDiagonal: false
+backgroundOverlay: true
+heroBackgroundOverlay: true
+heroHeight: 700
+heroDiagonal: true
 heroDiagonalFill: "#fff"
 meta_title: 'Experiment Zone Podcast | Ecommerce Conversion Rate Optimization'
 meta_description: "Unlock ecommerce success as a podcast guest! Join us for insightful conversations with DTC store owners. Experience a live, free conversion audit, tackling crucial challenges in the world of conversion rate optimization. Elevate your online store on this must-listen podcast!"
 meta_og_title: 'Experiment Zone Podcast'
 meta_og_type: website
 meta_og_url: 'https://experimentzone.com/podcast'
-meta_og_image: 'https://experimentzone.com/assets/images/podcasts/experiment-zone-podcast.png'
 meta_og_description: "Podcast-Experiment Zone"
 custom_css: blog-hero
+cta-button: Subscribe to our Podcast
+cta-button-href: "https://www.youtube.com/playlist?list=PLoMf7noumBKsyesdiJL0sUoMIZU6BR5WF"
 ---
 
 {% include hero-image.html background=page.heroBackground
-  fullscreen=page.heroFullscreen height=page.heroHeight heading=page.title backgroundOverlay=page.backgroundOverlay
+  fullscreen=page.heroFullscreen height=page.heroHeight heading=page.heroHeading subheading=page.heroSubHeading
+  subsubheading=page.heroSubSubHeading cta-button=page.cta-button
+  cta-button-href=page.cta-button-href backgroundOverlay=page.backgroundOverlay
   diagonal=page.heroDiagonal diagonalfill=page.heroDiagonalFill %}
 
-<div class="container pb-6 pt-6">
+<!-- <div class="container pb-6 pt-6">
   <div class="col-12 mb-4">
     <div class="hero-text" style="font-family: 'Lato Black, Arial, sans-serif, -apple-system;'">
       <h1 style="font-size: 3rem; line-height: 1.2; font-weight: 400; ">{{page.heroHeading}}</h1>
@@ -36,10 +39,10 @@ custom_css: blog-hero
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!--BEGIN AJ Section-->
-<div class="strip strip-grey splash-one">
+<div class="strip splash-one">
   <div class="container">
     <div class="row justify-content-center">
     <div class="col-12 col-md-6 align-self-center mb-2">
@@ -83,7 +86,7 @@ custom_css: blog-hero
     </h3>
   </div>
   <div class="row">
-    {% for podcast in site.podcasts reversed limit: 4 offset: 4 %}
+    {% for podcast in site.podcasts reversed offset: 6 %}
     <div class="col-12 col-md-6 mb-2">
       <div class="work work-summary">
         {% if podcast.heroBackground %}
@@ -145,14 +148,66 @@ custom_css: blog-hero
 </div>
 <!--END Guest Speaker-->
 
+<!--BEGIN Other Podcasts
+<div class="container pb-6 pt-6">
+  <div class="col-12 text-sm-center text-lg-left pl-2 pl-sm-0">
+    <h1 class="font-weight-normal text-center">Check out Experiment Zone’s AJ Davis featured on other podcasts</h1>
+  </div>
+  <div class="row">
+    <div class="col-12 text-center align-self-center mb-2 mt-1 mb-lg-0 mt-lg-0">
+      <a class="button mt-4 mb-4" href="/podcast/speaker">ALL PODCAST EPISODES</a>
+    </div>
+  </div>
+  <div class="row">
+    {% for podcast in site.podcasts reversed offset: 6 %}
+    <div class="col-12 col-md-6 mb-2">
+      <div class="work work-summary">
+        {% if podcast.heroBackground %}
+        <div class="work-image {% if podcast.cardImageHeight %}card-image-style{% else %}card-image-height{% endif %}">
+          <a href="{{ podcast.url | relative_url}}"
+            ><img src="{% if podcast.cardImage %}{{ podcast.cardImage | relative_url }}{% else %}{{ podcast.heroBackground | relative_url }}{% endif%}"
+          /></a>
+        </div>
+        {% endif %}
+        <div class="post post-summary p-2">
+          <div class="post-title">
+            <h2><a href="{{ podcast.url }}">{{ podcast.title }}</a></h2>
+          </div>
+          <div class="post-meta">
+            {% if podcast.author %} {% include podcast-author.html
+            author=podcast.author %} {% endif %} {% if podcast.author %}
+            {% endif %} {{ podcast.date | date_to_long_string }}
+          </div>
+          <div class="post-description">
+            <p>{{ podcast.description }}</p>
+          </div>
+          <div class="post-link">
+            <a class="post-read-more" href="{{ podcast.url | relative_url }}"
+              >Listen<i class="fas fa-long-arrow-alt-right ml-1"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+END Other Podcasts-->
+
 {% include why-experiment-zone-splash-white.html %}
-<div id="blog-sign-up" class="strip-grey pt-5 pb-5">
+
+<div id="podcast-sign-up" class="strip-grey pt-5 pb-5">
   <div class="container justify-content-center">
     <div class="col-12">
       <h2 class="mb-2 text-center">
-        Get our tips and tricks for Experience Optimization sent to your inbox!
+        Don't miss out on any future episodes!
       </h2>
-      {% include form-blog-sign-up.html %}
+      <h3 class="mb-2 text-center">Subscribe to our podcast today and receive updates on our latest episodes, expert interviews, and valuable insights. Stay ahead of the curve and gain a competitive edge by staying informed with the Experiment Zone Podcast.</h3>
+    </div>
+    <div class="col-12 text-center subscribe_button">
+      <a class="cta-button button d-md-inline-block mt-1 text-center" style="position: relative; z-index: 2" href="https://www.youtube.com/playlist?list=PLoMf7noumBKsyesdiJL0sUoMIZU6BR5WF">
+        Subscribe to our Podcast
+      </a>
     </div>
   </div>
 </div>

@@ -18,38 +18,33 @@ main:
   # # - name: Team
   # #   url: /team/
   #   weight: 3
-  - name: Resources
-    url: /blog/
+  - name: CRO Calculator
+    url: /cro-calculator/
+    weight: 2
+  - name: Podcast
+    url: /podcast/
     weight: 3
-    id: resources
-    dropdown:
-      - label: Blog
-        url: /blog/
-      - label: Podcast
-        url: /podcast/episodes/
-      - label: CRO Calculator
-        url: /cro-calculator/
   # - name: Webinar
   #   url: /webinar/
   #   weight: 4
   - name: About
     url: /about/
     weight: 4
-  - name: Contact
-    url: /contact/
-    weight: 5
 footer_primary:
-  - name: Hypothesis Library Product
-    url: https://hypothesislibrary.com/
+  - name: Services
+    url: /services/
     weight: 1
-  - name: Newsletter Sign Up
-    url: /blog#blog-sign-up
+  - name: About Us
+    url: /about/
     weight: 2
   # - name: Free Conversion Consult
   #   url: /consult/
   #   weight: 4
-  - name: Contact Us
-    url: /contact/
+  - name: Podcast
+    url: /podcast/episodes/
+    weight: 4
+  - name: Blog
+    url: /blog/
     weight: 5
   - name: Partnering with Marketing Agencies
     url: /whitelabeled-cro-services/
@@ -73,9 +68,6 @@ footer_secondary:
 footer_thirdly:
   - name: Privacy Policy
     url: /support/privacy
-    weight: 1
-  - name: FAQ
-    url: /support/faq
     weight: 1
   - name: Icons from icons8.com
     url: https://icons8.com/

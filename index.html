@@ -11,7 +11,7 @@ heroBackgroundOverlay: false
 cta-button: "Get Started"
 cta-button-href: "/contact/"
 heroHeight: 500
-heroDiagonal: true
+heroDiagonal: false
 heroDiagonalFill: "#fff"
 meta_title: "Conversion Rate Optimization Agency/Company in USA"
 meta_description: "Optimize your website’s user experience to increase your revenue. Hire a top digital optimization manager from the best CRO agency/firm in USA today."
@@ -29,41 +29,39 @@ overlay=page.heroBackgroundOverlay cta-button=page.cta-button
 cta-button-href=page.cta-button-href diagonal=page.heroDiagonal
 diagonalfill=page.heroDiagonalFill %}
 
-<!-- Why EZ splash -->
-{% include why-experiment-zone-splash-white.html %}
-
 <!-- Splash One Services -->
 {% include services-splash.html %}
 
-<!-- Three Steps To Improving Conversion -->
-<div class="container mt-2 text-center step-splash">
-  <h1>Our 3-step A/B testing process to improve conversion</h1>
-  <!-- <h1>Good User Experience Starts With GEM</h1> -->
-  <p class="mb-2 text-black">
-    Creating customer-centric experiences that drive more revenue.
-  </p>
-  <div class="green-line"></div>
-  <div class="row justify-content-between">
-    {% for step in site.data.steps %}
-    <div class="col-12 col-md-4 mb-2">
-      <div class="work p-0 p-md-2 d-flex justify-content-between d-md-block">
-        {% if step.image %}
-        <div class="number-image col-md-12 text-center mb-2 ml-1 ml-md-auto">
-          <h1 class="number mb-0">{{ step.number }}</h1>
-        </div>
-        {% endif %} {% if step.description %}
-        <div
-          class="work-description col-8 col-md-12 text-left text-md-center pl-2"
-        >
-          <h2 style="color: #663db1">{{ step.title }}</h2>
-          <p>{{ step.description }}</p>
-        </div>
-        {% endif %}
+<!-- New testimonial start -->
+<div class="strip strip-grey pb-5 pt-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <h2 class="text-center mb-3">Testimonials</h2>
       </div>
     </div>
-    {% endfor %}
+    <div class="row">
+      <div class="col-12">
+        <script
+          type="text/javascript"
+          src="https://widget.clutch.co/static/js/widget.js"
+        ></script>
+        <div
+          class="clutch-widget"
+          data-url="https://widget.clutch.co"
+          data-widget-type="12"
+          data-height="375"
+          data-clutchcompany-id="1495686"
+        ></div>
+      </div>
+    </div>
   </div>
 </div>
+
+<!-- New testimonial end-->
+
+<!-- Why EZ splash -->
+{% include why-experiment-zone-splash-white.html %}
 
 <!-- Services -->
 {% assign services = site.services | where: "core", true | sort:'weight' %} {%
@@ -151,6 +149,37 @@ if services.size > 0 and site.params.homepage.show_services_section %}
 </div>
 {% endif %}
 
+<!-- Three Steps To Improving Conversion -->
+<div class="container mt-2 text-center step-splash">
+  <h1>Our 3-step A/B testing process to improve conversion</h1>
+  <!-- <h1>Good User Experience Starts With GEM</h1> -->
+  <p class="mb-2 text-black">
+    Creating customer-centric experiences that drive more revenue.
+  </p>
+  <div class="green-line"></div>
+  <div class="row justify-content-between">
+    {% for step in site.data.steps %}
+    <div class="col-12 col-md-4 mb-2">
+      <div class="work p-0 p-md-2 d-flex justify-content-between d-md-block">
+        {% if step.image %}
+        <div class="number-image col-md-12 text-center mb-2 ml-1 ml-md-auto">
+          <h1 class="number mb-0">{{ step.number }}</h1>
+        </div>
+        {% endif %} {% if step.description %}
+        <div
+          class="work-description col-8 col-md-12 text-left text-md-center pl-2"
+        >
+          <h2 style="color: #663db1">{{ step.title }}</h2>
+          <p>{{ step.description }}</p>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<!--END Three Steps To Improving Conversion END-->
+
 <!-- {% include free-consult.html
   heading=site.params.free_consult_cta.heading
   subheading=site.params.free_consult_cta.subheading
@@ -159,34 +188,6 @@ if services.size > 0 and site.params.homepage.show_services_section %}
   %} -->
 
 {% include consult-cta.html %}
-
-<!-- New testimonial start -->
-<div class="strip strip-grey pb-5 pt-5">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12">
-        <h2 class="text-center mb-3">Testimonials</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12">
-        <script
-          type="text/javascript"
-          src="https://widget.clutch.co/static/js/widget.js"
-        ></script>
-        <div
-          class="clutch-widget"
-          data-url="https://widget.clutch.co"
-          data-widget-type="12"
-          data-height="375"
-          data-clutchcompany-id="1495686"
-        ></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- New testimonial end-->
 
 <!-- Old testimonial Splash Two --
 {% if site.params.homepage.show_splash_section_two %}
@@ -307,8 +308,7 @@ works.size > 0 and site.params.homepage.show_work_section %}
     </div>
   </div>
 </div>
-{% endif %} {% include hypothesis-library.html %} {% include
-footer-diagonal-white.html %}
+{% endif %}
 
 <script
   type="text/javascript"

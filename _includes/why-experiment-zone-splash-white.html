@@ -25,16 +25,15 @@
 
   </div>
 {% include recent-awards.html %}
-  <div class="pt-5 pb-5 text-center">
-    <h3 class="text-black">
-      Learn More About <a class="link" href="/about/">Our Mission</a>
-    </h3>
-  </div>
 </div>
 
+<style>
+  .badges_div {
+    padding-top: 0 !important;
+  }
+</style>
 <script>
-  if (window.location.pathname !== "/") {
+  if (window.location.pathname !== "/" && window.location.pathname !== "/about/") {
     document.querySelector(".badges_div").remove();
   }
-
 </script>

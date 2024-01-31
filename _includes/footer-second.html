@@ -9,15 +9,35 @@
               <h3>Experiment Zone</h3>
               {% include menu-footer-primary.html %}
             </div>
-            {% endif %} {% assign services = site.services | sort: 'date' %} {%
+            {% endif %} {% assign services = site.services | sort: 'order' %} {%
             if services.size > 0 and site.params.footer.show_services_links %}
             <div class="col-12 col-md-3">
               <h3>Services</h3>
               <ul>
-                {% for service in services limit:5 %}
+                <li>
+                  <a href="/services/conversion-audit/">Conversion Audit</a>
+                </li>
+                <li>
+                  <a href="/services/conversion-strategy-and-testing/">Conversion Strategy & Testing</a>
+                </li>
+                <li>
+                  <a href="/services/site-experience-audit/">Site Experience Audit</a>
+                </li>
+                <li>
+                  <a href="/services/usability-evaluation/">Usability Evaluation</a>
+                </li>
+                <li>
+                  <a href="/services/navigation-optimization/">Navigation Optimization</a>
+                </li>
+<!--                 {% for service in services limit:5 %}
                 <li><a href="{{ service.url }}">{{ service.title }}</a></li>
-                {% endfor %}
+                {% endfor %} -->
               </ul>
+            </div>
+            {% endif %} {% if site.params.footer.show_menu_footer_secondary %}
+            <div class="col-12 col-md-2">
+              <h3>Industries</h3>
+              {% include menu-footer-secondary.html %}
             </div>
             {% endif %} {% assign giveaways = site.giveaways | sort: 'date' %}
             {% if giveaways.size > 0 and site.params.footer.show_work_links %}
@@ -29,11 +49,6 @@
                 {% endfor %}
               </ul>
             </div>
-            {% endif %} {% if site.params.footer.show_menu_footer_secondary %}
-            <div class="col-12 col-md-2">
-              <h3>Industries</h3>
-              {% include menu-footer-secondary.html %}
-            </div>
             {% endif %} {% if site.params.footer.show_menu_footer_thirdly %}
             <div class="col-12 col-md-3">
               <h3 class="mt-md-2">Support</h3>
@@ -42,7 +57,7 @@
             {% endif %}
           </div>
 
-          
+
 
           <div class="row bottom-info">
             <div class="col-12 col-md-12">

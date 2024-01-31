@@ -2,7 +2,7 @@
   <ul class="w-100 p-2">
     {% for item in site.data.menu.main %}
     <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}{% if item.dropdown %} dropdown {% endif %}">
-      {% if item.dropdown %} 
+      {% if item.dropdown %}
       <a class="dropdown-toggle text-black" id="{{ item.id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
       <ul class="dropdown-menu" aria-labelledby="{{ item.id }}">
         {% for tab in item.dropdown %}
@@ -19,9 +19,7 @@
     </li>
     {% endfor %}
     <li>
-      <a class="button-secondary mt-3" style="font-size: 1.7rem;" href="/giveaways/report_card/">
-        <u>Free</u> CRO Report
-      </a>
+      <a class="button-secondary mt-3" style="font-size: 1.7rem;" href="/contact/">Get Started</a>
     </li>
   </ul>
 </div>
@@ -29,7 +27,7 @@
   <ul>
     {% for item in site.data.menu.main %}
     <li class="menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %}">
-      {% if item.dropdown %} 
+      {% if item.dropdown %}
       <a class="dropdown-toggle text-white" id="{{ item.id }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.name }}</a>
       <ul class="dropdown-menu" aria-labelledby="{{ item.id }}">
         {% for tab in item.dropdown %}
