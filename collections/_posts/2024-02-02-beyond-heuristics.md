@@ -144,4 +144,24 @@ If you're prepared to elevate your commitment to customer experience, [investing
 
 You can now [schedule a free discovery call with our CRO specialist](https://experimentzone.com/cro/) to explore how our expertise can be tailored to your unique needs and objectives. Elevate your customer experiences with the power of expert knowledge and insights, and witness your business flourish. Your journey to a better CX begins now.
 
+<br/><br/>
+
+
+
+<a id="blog-sign-up"></a>
+<div class="strip-grey pt-5 pb-5">
+  <div class="container justify-content-center">
+    <div class="col-12">
+      <h2 class="mb-2 text-center">
+        Get our tips and tricks for Experience Optimization sent to your inbox!
+      </h2>
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-8"></div>
+      </div>
+      {% include form-blog-sign-up.html %}
+    </div>
+  </div>
+</div>
+
+
 
