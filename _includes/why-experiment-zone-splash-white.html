@@ -33,7 +33,13 @@
   }
 </style>
 <script>
-  if (window.location.pathname !== "/" && window.location.pathname !== "/about/") {
+  if (
+    window.location.pathname !== "/" &&
+    window.location.pathname !== "/about/" &&
+    window.location.pathname !== "/services/site-experience-audit/" &&
+    window.location.pathname !== "/services/conversion-strategy-and-testing/" &&
+    window.location.pathname !== "/services/usability-evaluation/"
+  ) {
     document.querySelector(".badges_div").remove();
   }
 </script>
