@@ -31,4 +31,4 @@ custom_css: blog-hero
 
 Get started with conversion rate optimization! Learn what elements you should have on a website and how to A/B test your site user experience. Understand what metrics are essential and which metrics you should try to improve.
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

@@ -108,4 +108,4 @@ If you'd like to learn more about the best CRO tools for your business, check ou
 
 If you have an online business, it's essential to use optimization tools. If you want our experts to uncover insights and improve your conversion rate using Google Optimize, check out our [Optimization Strategy and Testing services](https://experimentzone.com/services/optimization-strategy-and-testing/){:target="\_blank"}.
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

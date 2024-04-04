@@ -146,4 +146,4 @@ Here are a few simple, tangible things you can start doing today to improve webs
 
 Thanks for joining us in this informative Q&A, Micah! These are some great tips for how to integrate copywriting into your testing program, so you can increase revenue.
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

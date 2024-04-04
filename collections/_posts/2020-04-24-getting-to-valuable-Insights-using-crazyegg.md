@@ -117,23 +117,7 @@ Consider adding auto fill options for the billing and shipping addresses. Make s
 
 CrazyEgg can provide key insights that can help you understand your customers and drive more revenue. Have you started using CrazyEgg yet? What insights have you used to improve your <a class="glossary-word" href="https://experimentzone.com/support/glossary/#Conversion">conversion</a> rate?
 
-<div class="strip-grey pt-5 pb-5 mt-5 team-summary">
-  <div class="container justify-content-center">
-    <!-- <div class="row"> -->
-    <div class="col-12">
-      <h2 class="mb-n2 text-center">
-        Get future conversion rate tips send to your email.
-      </h2>
-      <div class="_form_11"></div>
-      <script
-        src="https://experimentzone.activehosted.com/f/embed.php?id=11"
-        type="text/javascript"
-        charset="utf-8"
-      ></script>
-    </div>
-  </div>
-  <!-- </div> -->
-</div>
+{% include blog-sign-up-div.html %}
 <!-- {% include page-teardown-cta.html
 heading=site.params.page_teardown_cta.heading
 subheading=site.params.page_teardown_cta.subheading

@@ -399,4 +399,4 @@ Our team of CRO experts will help you understand your customers and how they are
 
 
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

@@ -31,11 +31,11 @@ custom_css: blog-hero
 &nbsp;
 
 
-In the competitive and quickly changing landscape of online retail, finding strategies to get and keep customers is important. One strategy that many online shops use is called "product bundling." This strategy is how businesses put together related items and sell them as a single package on a single product page. Bundling products for a discount helps shop owners recommend related items, improve average order value (AOV) and units per transaction (UPT), and ultimately increase their customer base and loyalty. 
+In the competitive and quickly changing landscape of online retail, finding strategies to get and keep customers is important. One strategy that many online shops use is called "product bundling." This strategy is how businesses put together related items and sell them as a single package on a single product page. Bundling products for a discount helps shop owners recommend related items, improve average order value (AOV) and units per transaction (UPT), and ultimately increase their customer base and loyalty.
 
 Bundles are also a strategic choice within a conversion rate optimization program. Bundled products make it easier to shop and incentivize shoppers with a good discount on a group of items, increasing the chance that they’ll purchase from a business at all.
 
-In this blog post, you will find out more about how bundles are a great tool for eCommerce businesses, how to make bundle packages, and some tips on making bundle deals that your customers will respond to and ultimately purchase. 
+In this blog post, you will find out more about how bundles are a great tool for eCommerce businesses, how to make bundle packages, and some tips on making bundle deals that your customers will respond to and ultimately purchase.
 
 <br/>
 
@@ -62,21 +62,21 @@ When you buy several of the same items at once, like a shirt or a phone, you can
 ### 4. Themed Bundles
 Putting together themed items, known as themed bundles, is a way to create a special shopping experience for people who love a particular hobby. Imagine a pickleball-themed bundle that makes it easy for pickleball fans to find what they want (and more)For example, a bundle could have a cool pickleball bag to carry gear,  a pickleball mug for enjoying drinks after playing, and a cute pickleball keychain to show off the love for the game.
 
-These bundles not only make it simple for shoppers but also make it easier for companies to display related products side-by-side, reducing the amount of time a customer spends browsing (and potentially missing items they’d purchase). 
+These bundles not only make it simple for shoppers but also make it easier for companies to display related products side-by-side, reducing the amount of time a customer spends browsing (and potentially missing items they’d purchase).
 
 <br/>
 
 ### 5. Gift Giving Bundles
-For the thoughtful gift-giver, bundling provides a one-click opportunity to find a themed gift that the recipient will love. Customers respond well to bundles designed thoughtfully. For example, they may be looking for items to send to a friend during surgery recovery. They could come across a ‘Get Well Soon’ themed bundle, with comforting essentials like cozy blankets, soothing teas, and inspirational books. 
+For the thoughtful gift-giver, bundling provides a one-click opportunity to find a themed gift that the recipient will love. Customers respond well to bundles designed thoughtfully. For example, they may be looking for items to send to a friend during surgery recovery. They could come across a ‘Get Well Soon’ themed bundle, with comforting essentials like cozy blankets, soothing teas, and inspirational books.
 
-By bundling together items that complement and enhance one another, the gift becomes a heartfelt gesture that transcends the sum of its parts. Whether it's a friend on the mend or a loved one in need of a pick-me-up, these thoughtfully assembled bundles embody the sentiment behind the well-wishing message, making them a cherished and memorable way to show you care. By assembling these thoughtful gifts as a bundle, you can simplify the decision for your customer and make it easier to purchase a thoughtful gift. 
+By bundling together items that complement and enhance one another, the gift becomes a heartfelt gesture that transcends the sum of its parts. Whether it's a friend on the mend or a loved one in need of a pick-me-up, these thoughtfully assembled bundles embody the sentiment behind the well-wishing message, making them a cherished and memorable way to show you care. By assembling these thoughtful gifts as a bundle, you can simplify the decision for your customer and make it easier to purchase a thoughtful gift.
 
 <br/>
 
 ### 6. Exclusive Items Bundles
-Retailers put these bundles together with items that are either limited or hard to find, creating a sense of excitement and wanting among customers. Insiders get special access to exclusive bundles that contain unique products, making them feel more special. 
+Retailers put these bundles together with items that are either limited or hard to find, creating a sense of excitement and wanting among customers. Insiders get special access to exclusive bundles that contain unique products, making them feel more special.
 
-Insiders, like loyal customers or those in exclusive programs, get to buy these special bundles before everyone else. This not only excites customers but also helps the store get more attention. It's like having a secret club where everyone feels important and gets access to the best and trendiest items. These bundles reward your loyal customers, reinforcing their connection to your brand. 
+Insiders, like loyal customers or those in exclusive programs, get to buy these special bundles before everyone else. This not only excites customers but also helps the store get more attention. It's like having a secret club where everyone feels important and gets access to the best and trendiest items. These bundles reward your loyal customers, reinforcing their connection to your brand.
 
 <br/>
 
@@ -102,7 +102,7 @@ Sometimes, stores have sales where they sell bundles for less money than if you 
 
 Customers might find it hard to choose from a wide range of products available. This can make people tired, and they might leave without buying anything. Bundles make it easier because the store picks out items that go well together. So, you don't have to think too hard. This helps you make up your mind and purchase more products.
 
-So, making bundles is a smart way for stores to sell more products and make more money. It's like giving customers good deals, helping them choose, and making them want to buy more. 
+So, making bundles is a smart way for stores to sell more products and make more money. It's like giving customers good deals, helping them choose, and making them want to buy more.
 
 Online stores like to find ways of getting more customers and making more money. One effective strategy they employ is selling bundles. Bundles are products put together to make a package. They help both the customers and the stores a lot. Let's see how:
 
@@ -119,7 +119,7 @@ Upselling and Cross-selling Opportunities: Through bundles, stores can recommend
 
 * Simplified Decision-Making Process: At times, having too many choices can be overwhelming for people.
 
-Bundles are like ready-made collections. You don't need to pick each thing; it's all there. It's like making shopping easy and fun. 
+Bundles are like ready-made collections. You don't need to pick each thing; it's all there. It's like making shopping easy and fun.
 
 <br/>
 
@@ -199,29 +199,6 @@ You also have to check how well your bundles are doing by looking at what people
 
 **_Want help using bundles for your online store?_** [Talk to our ecommerce experts for free](https://experimentzone.com/cro-for-ecommerce-retailers/#sign-up-form) at Experiment Zone. We can give you free advice on how to use bundles to make your store better and make more money.
 
-<br/><br/>
+<br>
 
-
-
-<a id="blog-sign-up"></a>
-<div class="strip-grey pt-5 pb-5">
-  <div class="container justify-content-center">
-    <div class="col-12">
-      <h2 class="mb-2 text-center">
-        Get our tips and tricks for Experience Optimization sent to your inbox!
-      </h2>
-      <div class="row justify-content-center">
-        <div class="col-12 col-md-8"></div>
-      </div>
-      {% include form-blog-sign-up.html %}
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
+{% include blog-sign-up-div.html %}

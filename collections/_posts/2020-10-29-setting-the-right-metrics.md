@@ -36,7 +36,7 @@ custom_css: blog-hero
     .iframe-container{
         position: relative;
         width: 100%;
-        padding-bottom: 56.25%; 
+        padding-bottom: 56.25%;
         height: 0;
     }
     .iframe-container iframe{
@@ -55,3 +55,6 @@ custom_css: blog-hero
 <br>
 
 In this episode of Rebooting Business, AJ Davis and David Somerfleck talk about user experience strategies with proven track records for delivering value to businesses.
+
+
+{% include blog-guest-speaker-div.html %}

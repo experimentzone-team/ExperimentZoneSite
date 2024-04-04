@@ -90,4 +90,4 @@ To continue finding out how to save time and money on your remote user-testing w
 
 [Step 4: Verifying Success & Compensating Participants](/blog/low-cost-research-tools-part-4){:target="\_blank"}
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

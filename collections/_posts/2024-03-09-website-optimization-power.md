@@ -125,8 +125,6 @@ _**Don't wait; take the first step by [scheduling a free discovery call with Exp
 
 Your website’s improvement is the main building block for your business's future, and with the right help, you can achieve remarkable results.
 
-
-<br/><br/>
-
+<br>
 
 {% include blog-guest-speaker-div.html %}

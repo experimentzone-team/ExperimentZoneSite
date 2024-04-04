@@ -115,24 +115,10 @@ By using these industry best practices in the policymaking process, policymakers
 
 Recognizing the importance of usability in policymaking is crucial for achieving citizen engagement, accessibility to public services, operational efficiency, and trust in governmental institutions. By placing usability at the core, policies become not just well-structured but also user-centric, considering the needs and perspectives of those directly affected. To boost this user-centric approach, policymakers can [explore the valuable services of an external user research team](https://experimentzone.com/blog/hiring-external-ux-research-team-for-ecommerce), such as Experiment Zone.
 
-Experiment Zone is well-versed in usability, offering a wealth of expertise to provide invaluable insights and feedback throughout the policymaking process. Collaborating with us for usability and user-centric design services allows you to usher in a new era of policies that truly serve the needs and expectations of the public, resulting in more effective and impactful governance. 
+Experiment Zone is well-versed in usability, offering a wealth of expertise to provide invaluable insights and feedback throughout the policymaking process. Collaborating with us for usability and user-centric design services allows you to usher in a new era of policies that truly serve the needs and expectations of the public, resulting in more effective and impactful governance.
 
 _[Schedule a free discovery call today](https://experimentzone.com/services/usability-evaluation/) to explore how we can partner with you to prioritize usability in your policy making decisions._
 
-<br/><br/>
+<br>
 
-
-<a id="blog-sign-up"></a>
-<div class="strip-grey pt-5 pb-5">
-  <div class="container justify-content-center">
-    <div class="col-12">
-      <h2 class="mb-2 text-center">
-        Get our tips and tricks for Experience Optimization sent to your inbox!
-      </h2>
-      <div class="row justify-content-center">
-        <div class="col-12 col-md-8"></div>
-      </div>
-      {% include form-blog-sign-up.html %}
-    </div>
-  </div>
-</div>
+{% include blog-sign-up-div.html %}

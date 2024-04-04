@@ -290,4 +290,4 @@ all of your audience with one tip, think about your customers. Write down what t
 
 You're welcome. And thank you again. So we've that I hope that you really enjoyed the series. And I wish you a nice week I talked to you. That's already the end of season. Thanks a lot for listening. I hope you enjoyed it. It should even give me a five star review on Apple podcasts or Google Play, Chef recipes official fans and comment to let me know that you like these kind of subjects. Also, if you want to hang out with me, follow me on Instagram at HD who watch more of my entrepreneurial journey and my services. Don't forget to subscribe to the podcast to get notified when a new episode comes up. Until then, I wish you a nice day and I'll talk to you soon. Take care Bye
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

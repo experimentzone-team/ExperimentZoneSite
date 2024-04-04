@@ -61,7 +61,7 @@ By paying attention to every part of the customer journey, you can create an ove
 
 ## **The 6 Pillars of a Good Customer Experience**
 
-Let's dive into something called the "6 Pillars of a Good Customer Experience." Picture these as the important rules that businesses should focus on, so customers are understood and satisfied.  When a company follows these rules, its customers may shift from seeing working with your company as a necessary annoyance to an experience they tell their friends and family about. 
+Let's dive into something called the "6 Pillars of a Good Customer Experience." Picture these as the important rules that businesses should focus on, so customers are understood and satisfied.  When a company follows these rules, its customers may shift from seeing working with your company as a necessary annoyance to an experience they tell their friends and family about.
 
 *Here are six commonly recognized pillars of a good customer experience:*
 
@@ -99,9 +99,9 @@ Here are some ways you can make life easier for customers:
 
 * **Seamless Operations**: Always check how things work inside the company. Find problems and fix them to make it easier for customers. Identify elements causing delays for customers and address them promptly.
 
-* **Provide options for DIY**: Empower customers to perform tasks independently. Make online tools that help them without needing lots of help from your sales team or other people. 
+* **Provide options for DIY**: Empower customers to perform tasks independently. Make online tools that help them without needing lots of help from your sales team or other people.
 
-* **Mobile-Friendly**: A significant number of individuals frequently utilize their mobile devices. Businesses should make sure their websites work well on phones. 
+* **Mobile-Friendly**: A significant number of individuals frequently utilize their mobile devices. Businesses should make sure their websites work well on phones.
 
 * **Ask Customers**: Businesses should ask customers what they think. Use surveys or ask for reviews. This helps businesses know what customers like and don't like. Then, they can make things better.
 
@@ -139,7 +139,7 @@ By implementing timeliness in your business, you can enhance the customer experi
 
 Consistency is a crucial foundation for a great customer experience. When people deal with a brand, their experience will be disrupted and confusing if it is not a consistent experience. Whether they're checking out a website, scrolling through social media, or reaching out to customer service, having a consistent brand and design in how things are said and done is key for creating trust and loyalty.
 
-Being consistent in how we talk is a significant deal for building trust and making customers feel like you’re an established and reputable company. If a brand keeps a similar style and message across different places like social media, emails, or websites, it strengthens its identity. This makes it easier for customers to know what to expect. Consistency isn't just good for customers; it also helps businesses from the inside. It makes things run smoother by giving clear rules for employees to follow when they're talking to customers. 
+Being consistent in how we talk is a significant deal for building trust and making customers feel like you’re an established and reputable company. If a brand keeps a similar style and message across different places like social media, emails, or websites, it strengthens its identity. This makes it easier for customers to know what to expect. Consistency isn't just good for customers; it also helps businesses from the inside. It makes things run smoother by giving clear rules for employees to follow when they're talking to customers.
 
 Here are some strategic steps to keep things consistent and make customers happy:
 
@@ -243,7 +243,7 @@ Measuring customer satisfaction isn't just about surveys; it's about looking at 
 
 ## **How to Use Technology to Boost Customer Experience**
 
-Today, technology is a big deal when it comes to making customers happy. Businesses that use technology well can make interactions with customers super smooth, personal, and unforgettable. There are many ways to make technology work for you and improve your customer experience. 
+Today, technology is a big deal when it comes to making customers happy. Businesses that use technology well can make interactions with customers super smooth, personal, and unforgettable. There are many ways to make technology work for you and improve your customer experience.
 
 Let's check out some ideas:
 
@@ -253,7 +253,7 @@ Let's check out some ideas:
 
 * **Discovering Insights with Data Analytics**: Use data analytics to get insights from a bunch of customer data. By looking at how customers act, what they like, and how they shop, you can get to know them and deliver a better CX.
 
-* **DIY with Self-Service Options**: Let customers do things by themselves with tech. They can find info, buy products, and fix problems on their own. 
+* **DIY with Self-Service Options**: Let customers do things by themselves with tech. They can find info, buy products, and fix problems on their own.
 
 * **Going Everywhere with Omnichannel Experiences**: Customers like talking to businesses in different ways - on the internet, in a store, you name it. Make it super easy for them. For example, if they start talking on social media, they can keep talking on the phone without repeating everything.
 
@@ -264,26 +264,12 @@ By using tech power, you can build strong relationships with customers, grow, an
 
 ## **Making Your Customer Experience Amazing**
 
-Making your customer experiences great depends on choosing the right team for CX optimization. We'll help you take your customer experience to the next level by figuring out what your customers want and creating the right stuff for them. When we make things easy for customers, more of them buy more products and keep coming back – it's a win. 
+Making your customer experiences great depends on choosing the right team for CX optimization. We'll help you take your customer experience to the next level by figuring out what your customers want and creating the right stuff for them. When we make things easy for customers, more of them buy more products and keep coming back – it's a win.
 
 If you want to make your customer experience better and keep customers happy, we're here to help. Let's talk and figure out how to make your customers super happy.
 
 At Experiment Zone, our optimization experts can help you discover useful information, put effective solutions into action, and give your customers amazing experiences. We use an experimental approach to A/B testing, creating a plan to improve experiences and make more sales while learning more about how your customers react and what they need. [Schedule a free discovery call today](https://experimentzone.com/services/usability-evaluation/) to get in touch with our team of CX optimization experts.
 
-<br/><br/>
+<br>
 
-
-<a id="blog-sign-up"></a>
-<div class="strip-grey pt-5 pb-5">
-  <div class="container justify-content-center">
-    <div class="col-12">
-      <h2 class="mb-2 text-center">
-        Get our tips and tricks for Experience Optimization sent to your inbox!
-      </h2>
-      <div class="row justify-content-center">
-        <div class="col-12 col-md-8"></div>
-      </div>
-      {% include form-blog-sign-up.html %}
-    </div>
-  </div>
-</div>
+{% include blog-sign-up-div.html %}

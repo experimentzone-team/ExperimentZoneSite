@@ -112,4 +112,4 @@ So there you have it, with this final step, you’ve completed a round of testin
 
 We’d love to hear what’s working for you to hack your user testing workflows! Email us at <info@experimentzone.com>{:target="\_blank"}.
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

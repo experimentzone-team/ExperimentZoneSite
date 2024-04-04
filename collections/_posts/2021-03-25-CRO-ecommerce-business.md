@@ -121,4 +121,4 @@ Consider [filling out the Conversion Report Card](https://experimentzone.com/giv
 
 Start getting a higher ROI on your advertising program and increase overall revenue with strategic [CRO services by Experiment Zone](https://experimentzone.com/services/){:target=\_black"} today.
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

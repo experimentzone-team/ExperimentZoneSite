@@ -144,4 +144,4 @@ For anyone interested in a free session, they can schedule a time [here](https:/
 
 Thanks for joining us in this helpful Q&A today, Hannah!
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

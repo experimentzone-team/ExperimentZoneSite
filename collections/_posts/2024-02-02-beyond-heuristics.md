@@ -37,11 +37,11 @@ Heuristics, often known as "rules of thumb" or "best practices," are helpful gui
 
 The limits of heuristics in customer experience (CX) design come from their generality. While they're good at spotting common issues, they might miss the special details of a particular group of users or a unique product. Heuristics don't give the full picture of each user's journey, their preferences, or the cultural differences that make everyone different. Relying only on heuristics will mean missing chances to make customer experiences better.
 
-To tackle these limitations, your business should mix in additional strategies like user research, testing, and data-driven insights. By triangulating these different methods, you can have a more comprehensive understanding of your customers and the design needed to support the digital relationship. 
+To tackle these limitations, your business should mix in additional strategies like user research, testing, and data-driven insights. By triangulating these different methods, you can have a more comprehensive understanding of your customers and the design needed to support the digital relationship.
 
 To truly shine in UX design, organizations should see heuristics as a useful starting point, not the final answer. While heuristics lay the groundwork for evaluating usability, they need backup from user-focused methods and a dedication to getting better all the time. This complete approach means actively listening to user feedback, doing thorough usability testing, and using data to understand how customers behave.
 
-In this blog post, we explore the concept of heuristics in customer experience design. We'll shine a light on their limitations and discuss how learning from experts can make customer interactions even better. 
+In this blog post, we explore the concept of heuristics in customer experience design. We'll shine a light on their limitations and discuss how learning from experts can make customer interactions even better.
 
 <br/>
 
@@ -144,24 +144,6 @@ If you're prepared to elevate your commitment to customer experience, [investing
 
 You can now [schedule a free discovery call with our CRO specialist](https://experimentzone.com/cro/) to explore how our expertise can be tailored to your unique needs and objectives. Elevate your customer experiences with the power of expert knowledge and insights, and witness your business flourish. Your journey to a better CX begins now.
 
-<br/><br/>
+<br>
 
-
-
-<a id="blog-sign-up"></a>
-<div class="strip-grey pt-5 pb-5">
-  <div class="container justify-content-center">
-    <div class="col-12">
-      <h2 class="mb-2 text-center">
-        Get our tips and tricks for Experience Optimization sent to your inbox!
-      </h2>
-      <div class="row justify-content-center">
-        <div class="col-12 col-md-8"></div>
-      </div>
-      {% include form-blog-sign-up.html %}
-    </div>
-  </div>
-</div>
-
-
-
+{% include blog-sign-up-div.html %}

@@ -135,4 +135,4 @@ To find out how to save time and money on your remote user-testing workflows, ke
 
 We’d love to hear what’s working for you to hack your user testing workflows! Email us at <info@experimentzone.com>{:target="\_blank"}.
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

@@ -115,4 +115,4 @@ Once you create your organization's value proposition, check that your value pro
 
 If you want to learn more about creating a website that attracts and converts donors, then you can reach out to Experiment Zone for a [UX website audit](https://experimentzone.com/services/conversion-deep-dive/){:target="\_blank"}. Our UX audit will identify opportunities to expand your reach and inspire more people to give toward your nonprofit's mission.
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

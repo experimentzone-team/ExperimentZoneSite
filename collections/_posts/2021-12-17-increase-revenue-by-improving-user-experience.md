@@ -35,4 +35,4 @@ The three things that every webpage should do to increase conversion, yet 75% of
 
 Why clarity and quickness are the two most important factors when it comes to increasing your conversion rates and how conversion numbers are a small hinge that can increase business exponentially.
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

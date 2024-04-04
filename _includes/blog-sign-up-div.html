@@ -1,0 +1,25 @@
+<div class="strip-grey pt-5 pb-5 blog">
+    <div class="container justify-content-center">
+      <div class="col-12">
+        <h2 class="mb-2 text-center">
+          Get our tips and tricks for Experience Optimization sent to your inbox!
+        </h2>
+        {% include form-blog-sign-up.html %}
+      </div>
+    </div>
+  </div>
+
+<script>
+    const mainDiv = document.querySelector(".strip-white")
+    const blogSpeaker = document.querySelector(".strip-grey.blog")
+
+    if (
+    window.location.href.includes('blog') == true ||
+    window.location.href.includes('podcast') == true ||
+    window.location.href.includes('video') == true
+    ) {
+    mainDiv.insertAdjacentElement("beforeend", blogSpeaker)
+    mainDiv.firstElementChild.setAttribute('class','container pt-2 pb-4')
+    }
+
+</script>

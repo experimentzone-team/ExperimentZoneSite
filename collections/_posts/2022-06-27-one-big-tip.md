@@ -218,4 +218,4 @@ Thanks for having me on.
 Our team of CRO experts will help you understand your customers and how they are interacting with your site, and we will assess your current experience and recommend the highest impact tests. Get a [personalized quote for your website now!](/contact/)
 
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

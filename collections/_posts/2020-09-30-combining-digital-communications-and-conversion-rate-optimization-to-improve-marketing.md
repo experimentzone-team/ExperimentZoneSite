@@ -128,4 +128,4 @@ Test all kinds of content on your social channels and on your website: videos, i
 
 Thanks for joining us today Emma and sharing insights on how to better understand your customers, engage them on social, and ultimately get them to convert on your website.
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

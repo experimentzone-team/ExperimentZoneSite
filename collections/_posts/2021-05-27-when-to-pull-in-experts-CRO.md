@@ -119,4 +119,4 @@ To maximize your website’s impact and increase user engagement, you should con
 
 Don’t let your site’s user experience suffer from the suboptimal implementation of CRO best practices. [Contact the Experiment Zone team](https://experimentzone.com/services/optimization-strategy-and-testing/.) to create a lasting relationship that will benefit your business and increase engagement. Take action today. Your site’s conversion rate depends on it.
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

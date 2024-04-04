@@ -95,4 +95,4 @@ If you want to create a seamless donation experience, you can find ways to impro
 
 You're on your way to increasing donations on your nonprofit site. If you want to dig even deeper into the UX of your site, then you should conduct a full UX audit. A UX audit can identify areas on your site to optimize that directly impact your nonprofit's growth and donations. You can run a UX audit or hire an expert to conduct a UX audit for you. At Experiment Zone, we'll conduct a UX audit on your key pages along the donor journey and find solutions to increase donor giving. [Contact us to learn about our UX audit process](https://experimentzone.com/services/conversion-deep-dive/){:target="\_blank"} and take a step toward improving your donor giving
 
-{% include email-sign-up-cta.html %}
+{% include blog-sign-up-div.html %}

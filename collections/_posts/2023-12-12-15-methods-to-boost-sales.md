@@ -45,7 +45,7 @@ Here is the key aspect: Your value proposition needs to be short, clear, and exc
 
 Why does this matter? If your value proposition is clear and easy to understand, more people will decide to buy from you. You’ll see your bounce rates decrease, as people connect to your brand message and decide to browse your store.  They'll understand what's great about your products or services, and that helps them decide to make a purchase.
 
-When you [create your value proposition](https://experimentzone.com/blog/3-obvious-things-your-website-is-missing-today-that-will-cause-you-to-lose-revenue-tomorrow){:target="\_blank"}, think about the differentiators for your product and company. What makes them different from others? How do they make people's lives better? What do customers describe as the reasons they buy from you? 
+When you [create your value proposition](https://experimentzone.com/blog/3-obvious-things-your-website-is-missing-today-that-will-cause-you-to-lose-revenue-tomorrow){:target="\_blank"}, think about the differentiators for your product and company. What makes them different from others? How do they make people's lives better? What do customers describe as the reasons they buy from you?
 
 Answering these questions will help you make a cool message that brings in more customers and boosts your sales.
 
@@ -56,9 +56,9 @@ Answering these questions will help you make a cool message that brings in more 
 
 [Google reports](https://support.google.com/webmasters/answer/10218333?hl=en){:target="\_blank"} that when they decide how to rank websites, they prioritize about how easily people can use your site to find what they need. If you run an online store, it is crucial to make sure your website gives users a great experience to boost your sales (and your Google rankings).
 
-To make things better for your visitors, keep an eye on things like core web vitals, which provide specific, measurable ways to make your website easy to use and make sure it works well on mobile. 
+To make things better for your visitors, keep an eye on things like core web vitals, which provide specific, measurable ways to make your website easy to use and make sure it works well on mobile.
 
-Addressing the feedback from core web vitals will not only help your website rank higher on Google but also make it easier for Google to notice your site. This means more people will find your site in search results, bringing in more visitors and sales. 
+Addressing the feedback from core web vitals will not only help your website rank higher on Google but also make it easier for Google to notice your site. This means more people will find your site in search results, bringing in more visitors and sales.
 
 Core web vitals are only a starting place for good usability. Because prospective customers have different needs and experiences with technology, you should also consider running a [usability study](https://experimentzone.com/services/usability-evaluation/){:target="\_blank"} to make sure your website design is user-friendly for your specific customers and helps them accomplish their goals of finding the right products and easily checking out.
 
@@ -82,7 +82,7 @@ Encouraging individuals to subscribe to your email or SMS lists is a crucial asp
 
 There are some effective methods to increase the number of email subscribers. One approach is to offer additional benefits when they sign up, such as a discount or exclusive content. Another method is to communicate on your website that you encourage email subscriptions.
 
-Additionally, employing pop-up forms that appear when visitors access your site can be effective. Ensuring that your website is configured for a quick and straightforward email sign-up process is also essential. Furthermore, having a well-defined privacy policy in place adds a layer of security for individuals when they decide to subscribe to emails.  [Consider A/B testing different email and SMS offers](https://experimentzone.com/services/conversion-strategy-and-testing/){:target="\_blank"} and interactions to maximize how many visitors share this information, so you can stay in touch and grow your customer base. 
+Additionally, employing pop-up forms that appear when visitors access your site can be effective. Ensuring that your website is configured for a quick and straightforward email sign-up process is also essential. Furthermore, having a well-defined privacy policy in place adds a layer of security for individuals when they decide to subscribe to emails.  [Consider A/B testing different email and SMS offers](https://experimentzone.com/services/conversion-strategy-and-testing/){:target="\_blank"} and interactions to maximize how many visitors share this information, so you can stay in touch and grow your customer base.
 
 <br/>
 
@@ -111,10 +111,10 @@ Both reward and referral programs can help a business sell more, make customers 
 
 ### **Address Frequently Asked Questions (FAQs)**
 
-Every website, particularly those of ecommerce businesses, should feature a section known as Frequently Asked Questions (FAQs). This may be a standalone page or content woven within key pages of the customer journey. 
+Every website, particularly those of ecommerce businesses, should feature a section known as Frequently Asked Questions (FAQs). This may be a standalone page or content woven within key pages of the customer journey.
 FAQs serve the purpose of addressing queries related to a product or service, guiding users on product utilization, and offering troubleshooting tips in case of issues.
 
-Why is addressing these FAQs important? It furnishes valuable information to your customers, enhancing the likelihood of purchases from your online store. By systematically addressing common questions, you not only assist your customers but also foster trust. 
+Why is addressing these FAQs important? It furnishes valuable information to your customers, enhancing the likelihood of purchases from your online store. By systematically addressing common questions, you not only assist your customers but also foster trust.
 
 Devoting attention to responding to these questions not only aids customers in making informed decisions but also lays the groundwork for a robust and loyal customer base. When individuals trust your expertise and effortlessly find the information they seek, they are more inclined to revisit your online store for their future needs.
 
@@ -123,7 +123,7 @@ Devoting attention to responding to these questions not only aids customers in m
 
 ### **Make Your Website Buttons Irresistible**
 
-You know those buttons on a website that tell you what to do? Those are called call-to-actions (CTAs), and they're critical for any business that wants more people to buy things on their website. 
+You know those buttons on a website that tell you what to do? Those are called call-to-actions (CTAs), and they're critical for any business that wants more people to buy things on their website.
 
 CTAs are buttons that tell visitors to do things like sign up for newsletters, download offers, or buy something. However, there's a key aspect: the buttons need to be designed in a way that makes people want to click them and become customers. The button must pass the “squint test” - these buttons should stand out more than anything else on the screen, especially if you sit back from your screen and “squint” at your screen.
 
@@ -136,7 +136,7 @@ To make your website buttons the best they can be, you can start with some basic
 
 Consider this, people love getting stuff delivered to their door for free.! Offering free shipping is a great way to make customers happy and get them to buy more from your online store. It can be considered a special benefit for them. Most people [(in America) expect free shipping when they buy things online according to JungleScout](https://www.junglescout.com/press/press-releases/66-of-american-consumers-expect-free-shipping-on-all-online-orders/){:target="\_blank"}.
 
-When you offer free shipping, tell your customers how much they need to spend to get it. This way, they'll be motivated to increase their cart value to unlock free delivery. Make sure to message how close they are to the free shipping offer (and when they unlock free shipping). 
+When you offer free shipping, tell your customers how much they need to spend to get it. This way, they'll be motivated to increase their cart value to unlock free delivery. Make sure to message how close they are to the free shipping offer (and when they unlock free shipping).
 
 <br/>
 
@@ -154,7 +154,7 @@ Making your website faster is like giving your visitors a great experience. It a
 
 Ever heard of upselling? It's like suggesting to your customers, "Hey, why not go for the deluxe version?" It's 20 times more effective than cross-selling, which is when you say, "Since you're buying this, why not get that too?"
 
-Here's the deal: these techniques can make each customer spend a bit more, adding up to bigger profits over time. But, and here's the important part, don't overwhelm your customers. Think of it as friendly advice, not pushy sales talk. Provide quick options to upsell and cross-sell - and a way to keep the current project as-is if they’re ready to go. Make sure to A/B test any of the options you’re adding that could help or hurt the customer journey and ultimately your revenue. 
+Here's the deal: these techniques can make each customer spend a bit more, adding up to bigger profits over time. But, and here's the important part, don't overwhelm your customers. Think of it as friendly advice, not pushy sales talk. Provide quick options to upsell and cross-sell - and a way to keep the current project as-is if they’re ready to go. Make sure to A/B test any of the options you’re adding that could help or hurt the customer journey and ultimately your revenue.
 
 <br/>
 
@@ -163,9 +163,9 @@ Here's the deal: these techniques can make each customer spend a bit more, addin
 
 Want more people to check out your online shop? Tailor your content to the folks you're trying to reach. If you create content that talks directly to your audience, it's easier for them to understand and connect with your offer - and shortcuts their decision-making process to purchase.
 
-How? Do some detective work. Figure out what your target customers like and don't like. You should consider conducting surveys or interviews. 
+How? Do some detective work. Figure out what your target customers like and don't like. You should consider conducting surveys or interviews.
 
-Once you know your customers, you can create content that matches their way of thinking and the language they use to describe their problems - and your solution. 
+Once you know your customers, you can create content that matches their way of thinking and the language they use to describe their problems - and your solution.
 
 You can also use personalization by leveraging information from previous purchases to design content and experiences that help customers find product recommendations based on their past experiences with your brand. This way, you're more likely to turn visitors into happy customers.
 
@@ -185,7 +185,7 @@ Introducing live chats with chatbots as backup can significantly help visitors n
 
 In today’s ecommerce, carefully created videos are a powerful way to connect with customers and sell products. They can simplify complex ideas, showcase product features, share customer stories, and demonstrate how to use a product or service. Adding videos to your website can increase sales and make customers happier.
 
-Placing videos on your main sales pages grabs visitors' attention, offers an interactive experience, and delivers valuable information quickly. Make sure to test the video placement via A/B testing to balance the valuable information in the video with its potential disruption to the flow of the customer journey.  
+Placing videos on your main sales pages grabs visitors' attention, offers an interactive experience, and delivers valuable information quickly. Make sure to test the video placement via A/B testing to balance the valuable information in the video with its potential disruption to the flow of the customer journey.
 
 Videos also help your website show up higher in online searches by keeping visitors engaged and spending more time on your site. Plus, people are more likely to share videos on social media, which boosts your brand's visibility.
 
@@ -206,24 +206,6 @@ Test all these ideas using A/B testing to confirm their positive impact and how 
 
 Ready to take testing seriously? [Schedule a free call with the experts at Experiment Zone](https://experimentzone.com/contact/){:target="\_blank} to start A/B testing on your site. Boost your website's return on investment and increase your conversion rates today.
 
-<br/><br/>
+<br>
 
-
-<a id="blog-sign-up"></a>
-<div class="strip-grey pt-5 pb-5">
-  <div class="container justify-content-center">
-    <div class="col-12">
-      <h2 class="mb-2 text-center">
-        Get our tips and tricks for Experience Optimization sent to your inbox!
-      </h2>
-      <div class="row justify-content-center">
-        <div class="col-12 col-md-8"></div>
-      </div>
-      {% include form-blog-sign-up.html %}
-    </div>
-  </div>
-</div>
-
-
-
-
+{% include blog-sign-up-div.html %}

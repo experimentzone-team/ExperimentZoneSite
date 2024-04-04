@@ -297,4 +297,4 @@ Thanks so much for having me. I look forward to our next conversation.
 
 That's already the end of it. Thanks a lot for listening. I hope you enjoyed it. If she did, then give me a five star review on Apple podcasts or Google Play. share this episode with your friends and comment to let me know that you like these kind of subjects. Also, if you want to hang out with me, follow me on Instagram at HDIW Oh, watch more of my entrepreneurial journey and my services. Don't forget to subscribe to the podcast to get notified when a new episode comes out. Until then, I wish you a nice day and I'll talk to you soon. Take care Bye
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}
