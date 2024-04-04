@@ -54,3 +54,6 @@ header_classes: header-transparent
 <br>
 
 In this episode of Rebooting Business, AJ Davis and David Somerfleck talk about user experience strategies with proven track records for delivering value to businesses.
+
+
+{% include blog-guest-speaker-div.html %}

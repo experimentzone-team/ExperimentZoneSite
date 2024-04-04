@@ -302,4 +302,4 @@ Perfect. Okay. AJ, thank you so much for your time today.
 
 Thanks so much for having me, Brian.
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

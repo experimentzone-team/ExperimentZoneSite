@@ -127,25 +127,7 @@ cta-button-href: "https://www.youtube.com/playlist?list=PLoMf7noumBKsyesdiJL0sUo
 <!--END latest episodes-->
 
 <!--BEGIN Guest Speaker-->
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6">
-    <div class="row justify-content-between align-items-center">
-      <div class="col-12 col-lg-5 mt-lg-n10">
-        <h1 class="mb-4 font-weight-normal">Become a Guest Speaker</h1>
-        <h3 class="mb-2">
-          Unlock your store's potential with a free conversion audit on the Experiment Zone Podcast! Our founder, AJ Davis, guides you through a live 15-minute session for personalized insights.
-        </h3>
-        <h3 class="mb-2">
-          Dive into ecommerce success in a concise 15-minute episode. Showcase your DTC store with a live screen share, offering real-time optimization strategies.
-        </h3>
-        <h3 class="text-secondary mb-4">
-          Ready for the next step? Fill out the form with your details, and if you're a fit, we'll be in touch to schedule your podcast feature! 🌟🎙️
-        </h3>
-      </div>
-      <div class="col-12 col-lg-6">{% include guest-speaker-form.html %}</div>
-    </div>
-  </div>
-</div>
+{% include blog-guest-speaker-div.html %}
 <!--END Guest Speaker-->
 
 <!--BEGIN Other Podcasts
@@ -211,3 +193,18 @@ END Other Podcasts-->
     </div>
   </div>
 </div>
+
+<!--
+<script>
+  const heroImage = document.querySelector(".hero-image");
+  const imageDiv = document.createElement("div");
+
+  imageDiv.id = "podcast-hero"
+  imageDiv.innerHTML = '<img src="../assets/images/podcasts/ez-podcast.jpg" alt="" height="auto" width="auto" />'
+
+
+  heroImage.appendChild(imageDiv)
+
+  heroImage.style.display = "flex"
+
+</script> -->

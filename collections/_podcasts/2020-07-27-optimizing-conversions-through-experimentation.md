@@ -274,4 +274,4 @@ Thanks so much for having me. I really enjoyed it.
 
 that wraps up another episode of The Virtual CMO podcast. As a reminder, if you'd like to learn more about Virtual CMO, strategic marketing consulting services, or anything else discussed here today, please visit us at fiveechelon.com. There's a link in the show notes. If you'd like to send us comments, feedback, guest inquiries, and your five-star reviews on Apple Podcasts are always appreciated. If you'd like to reach me. I'm EDickmann. That's E D I C K M A N N on Twitter. If you'd like to connect on LinkedIn, please let me know. You heard about me through The Virtual CMO podcast. I look forward to talking with you again next week and sharing some new marketing insights on The Virtual CMO.
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

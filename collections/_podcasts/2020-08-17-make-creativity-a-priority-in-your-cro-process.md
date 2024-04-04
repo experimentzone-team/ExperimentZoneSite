@@ -403,4 +403,4 @@ so much. You're welcome. Thanks for having me. All right.
 
 To Episode 33 of the zero cafe podcast with AJ Davis. Next week's episode is in Dutch where we'll talk about soft persuasion with Misha Koster. And the week after that is again in English together with a Joel fettke. And we'll be talking about zero copywriting a few then and always optimizing
 
-{% include email-sign-up-cta.html %}
+{% include blog-guest-speaker-div.html %}

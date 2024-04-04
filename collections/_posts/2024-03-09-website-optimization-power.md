@@ -63,7 +63,7 @@ Search engines, like Google, are like the gateways of the internet. When people 
 
 To make this happen, you need to [increase your website’s search engine visibility](https://rockcontent.com/blog/seo-visibility/){:target="\_blank"}. First, you need to research the right words that people might type into Google when they are searching for products like yours. These are called [keywords](https://www.semrush.com/blog/what-are-keywords-simple-keyword-definition/){:target="\_blank"}. Then, you put these keywords into your website pages so that Google knows your site is relevant.
 
-The more your website content becomes aligned with user intent and authoritative, the higher your website pages are listed in search results. That means more people will see it when they search, and they might click on it. When people visit your website because they found it on 
+The more your website content becomes aligned with user intent and authoritative, the higher your website pages are listed in search results. That means more people will see it when they search, and they might click on it. When people visit your website because they found it on
 Google, we call that 'organic traffic.'
 
 Optimizing your site pages to show up on Google increases the chances of people engaging with your brand. And when people see your website a lot, they trust it more.
@@ -92,7 +92,7 @@ Having top-notch content, whether it's engaging blog posts, videos, or detailed 
 
 Speeding up your website takes several approaches. You can optimize images, use special codes, and utilize [content delivery networks (CDNs)](https://www.nubersia.com/blog/improve-your-website-speed/){:target="\_blank"}. It might sound complicated, but it's all about optimizing your website to show up on your screen quickly.
 
-Since we all use our phones a lot, a website that runs smoothly on them makes life easier. When your visitors find a website that loads like 
+Since we all use our phones a lot, a website that runs smoothly on them makes life easier. When your visitors find a website that loads like
 lightning on their phones, they are more likely to stick around, check things out, and take the desired actions. It's a win-win for you and them.
 
 <br/>
@@ -108,7 +108,7 @@ There are these forms (called [lead capture forms](https://blog.hubspot.com/blog
 
 Let's talk about the stories your website tells using [persuasive content](https://www.linkedin.com/pulse/what-persuasive-content-importance-how-write-guide-umme-rumaan#:~:text=Writing%20that%20is%20clear%2C%20concise,%2C%20of%20course%2C%20public%20speaking.){:target="\_blank"}. You want to tailor the story to what your visitors care about and how they talk about their problems and goals. It's about building trust and helping your visitors connect to your brand and message.
 
-When you put all these elements together, your website becomes a lead-generating tool. You're not just getting visitors; you're getting potential customers. You can teach them, keep them in the loop, and eventually convert them into your biggest fans. That's how your website can help your business grow with conversion-focused elements. 
+When you put all these elements together, your website becomes a lead-generating tool. You're not just getting visitors; you're getting potential customers. You can teach them, keep them in the loop, and eventually convert them into your biggest fans. That's how your website can help your business grow with conversion-focused elements.
 
 <br/>
 
@@ -129,24 +129,4 @@ Your website’s improvement is the main building block for your business's futu
 <br/><br/>
 
 
-<!-- BEGIN Guest Speaker-->
-<div class="strip strip-grey">
-  <div class="container pt-1 pb-2 pr-4 pl-4">
-    <div class="row justify-content-between align-items-center">
-      <div class="col-12 col-lg-4 mt-lg-n8">
-        <h2 class="mb-2 pt-12">Become a <br><strong>Guest Speaker</strong></h2>
-        <p class="mb-2">
-          Unlock your store's potential with a free conversion audit on the Experiment Zone Podcast! Our founder, AJ Davis, guides you through a live 15-minute session for personalized insights.
-        </p>
-        <p class="mb-2">
-          Dive into ecommerce success in a concise 15-minute episode. Showcase your DTC store with a live screen share, offering real-time optimization strategies.
-        </p>
-        <p class="text-secondary mb-4">
-          Ready for the next step? Fill out the form with your details, and if you're a fit, we'll be in touch to schedule your podcast feature! 🌟🎙️
-        </p>
-      </div>
-      <div class="col-12 col-lg-8">{% include guest-speaker-form.html %}</div>
-    </div>
-  </div>
-</div>
-<!--END Guest Speaker-->
+{% include blog-guest-speaker-div.html %}
