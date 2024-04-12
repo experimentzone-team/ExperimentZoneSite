@@ -25,8 +25,7 @@
   const blogSpeaker = document.querySelector(".strip-grey.speaker")
 
   if (
-    window.location.href.includes('blog') == true ||
-    window.location.href.includes('podcast') == true
+    window.location.href.includes('blog') == true 
   ) {
     mainDiv.insertAdjacentElement("beforeend", blogSpeaker)
     mainDiv.firstElementChild.setAttribute('class','container pt-2 pb-4')
