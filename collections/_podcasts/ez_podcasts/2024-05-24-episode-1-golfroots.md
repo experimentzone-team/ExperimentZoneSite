@@ -212,3 +212,5 @@ Absolutely. Thank you.
 ##### AJ Davis  24:56
 Thank you for tuning in to The Experiment Zone Podcast. You can check out more episodes on [YouTube](https://www.youtube.com/playlist?list=PLoMf7noumBKvfiARFRjZpsZqr8tSGNwZp){:target="\_blank"}, [Apple Podcasts](https://podcasts.apple.com/us/podcast/experiment-zone-podcast/id1740651107){:target="\_blank"}, and [Spotif](https://open.spotify.com/show/69F4fSgTHAD2TlWPnlwXAa){:target="\_blank"} in your favorite podcast apps. Check out the show notes for any website linked to this episode, including where to connect with us on social media. We appreciate you tuning in. Remember to Like, subscribe, and turn on your notifications, you'll be updated on each episode release, and visit us at experimentzone.com for all podcast updates as well. Appreciate you dropping by!
 <br/><br/>
+
+{% include blog-guest-speaker-div.html %}
